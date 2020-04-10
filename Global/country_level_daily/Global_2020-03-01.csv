@@ -1,0 +1,69 @@
+admin0_name,iso3,confirmed,death,recovered
+Afghanistan,AFG,1,0,0
+Algeria,DZA,1,0,0
+Armenia,ARM,1,0,0
+Australia,AUS,27,1,11
+Austria,AUT,14,0,0
+Azerbaijan,AZE,3,0,0
+Bahrain,BHR,47,0,0
+Belarus,BLR,1,0,0
+Belgium,BEL,2,0,1
+Brazil,BRA,2,0,0
+Cambodia,KHM,1,0,1
+Canada,CAN,24,0,6
+Croatia,HRV,7,0,0
+Czech Republic,CZE,3,0,0
+Denmark,DNK,4,0,0
+Dominican Republic,DOM,1,0,0
+Ecuador,ECU,6,0,0
+Egypt,EGY,2,0,1
+Estonia,EST,1,0,0
+Finland,FIN,6,0,1
+France,FRA,130,2,12
+Georgia,GEO,3,0,0
+Germany,DEU,130,0,16
+Greece,GRC,7,0,0
+Hong Kong,HKG,96,2,36
+Iceland,ISL,3,0,0
+India,IND,3,0,3
+Iran,IRN,978,54,175
+Iraq,IRQ,19,0,0
+Ireland,IRL,1,0,0
+Israel,ISR,10,0,1
+Italy,ITA,1694,34,83
+Japan,JPN,256,6,32
+Kuwait,KWT,45,0,0
+Lebanon,LBN,10,0,0
+Lithuania,LTU,1,0,0
+Luxembourg,LUX,1,0,0
+Macau,MAC,10,0,8
+Mainland China,CHN,79826,2870,42118
+Malaysia,MYS,29,0,18
+Mexico,MEX,5,0,0
+Monaco,MCO,1,0,0
+Nepal,NPL,1,0,1
+Netherlands,NLD,10,0,0
+New Zealand,NZL,1,0,0
+Nigeria,NGA,1,0,0
+North Macedonia,MKD,1,0,0
+Norway,NOR,19,0,0
+Oman,OMN,6,0,1
+Others,,705,6,10
+Pakistan,PAK,4,0,0
+Philippines,PHL,3,1,1
+Qatar,QAT,3,0,0
+Romania,ROU,3,0,0
+Russia,RUS,2,0,2
+San Marino,SMR,1,0,0
+Singapore,SGP,106,0,72
+South Korea,KOR,3736,17,30
+Spain,ESP,84,0,2
+Sri Lanka,LKA,1,0,1
+Sweden,SWE,14,0,0
+Switzerland,CHE,27,0,0
+Taiwan,TWN,40,1,9
+Thailand,THA,42,1,28
+UK,GBR,36,0,8
+US,USA,76,1,7
+United Arab Emirates,ARE,21,0,5
+Vietnam,VNM,16,0,16

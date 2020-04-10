@@ -1,0 +1,19 @@
+admin0_name,iso3,confirmed,death,recovered
+Australia,AUS,5,0,0
+Cambodia,KHM,1,0,0
+Canada,CAN,2,0,0
+France,FRA,4,0,0
+Germany,DEU,4,0,0
+Hong Kong,HKG,8,0,0
+Japan,JPN,7,0,1
+Macau,MAC,7,0,0
+Mainland China,CHN,5494,131,101
+Malaysia,MYS,4,0,0
+Nepal,NPL,1,0,0
+Singapore,SGP,7,0,0
+South Korea,KOR,4,0,0
+Sri Lanka,LKA,1,0,0
+Taiwan,TWN,8,0,0
+Thailand,THA,14,0,5
+US,USA,5,0,0
+Vietnam,VNM,2,0,0

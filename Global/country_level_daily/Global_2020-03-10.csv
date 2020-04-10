@@ -1,0 +1,116 @@
+admin0_name,iso3,confirmed,death,recovered
+Afghanistan,AFG,5,0,0
+Albania,ALB,10,0,0
+Algeria,DZA,20,0,0
+Andorra,AND,1,0,0
+Argentina,ARG,17,1,0
+Armenia,ARM,1,0,0
+Australia,AUS,107,3,21
+Austria,AUT,182,0,4
+Azerbaijan,AZE,11,0,0
+Bahrain,BHR,110,0,22
+Bangladesh,BGD,3,0,0
+Belarus,BLR,9,0,3
+Belgium,BEL,267,0,1
+Bhutan,BTN,1,0,0
+Bosnia and Herzegovina,BIH,5,0,0
+Brazil,BRA,31,0,0
+Brunei,BRN,1,0,0
+Bulgaria,BGR,4,0,0
+Burkina Faso,BFA,1,0,0
+Cambodia,KHM,2,0,1
+Cameroon,CMR,2,0,0
+Canada,CAN,79,1,8
+Channel Islands,GGY,1,0,0
+Chile,CHL,13,0,0
+Colombia,COL,3,0,0
+Costa Rica,CRI,9,0,0
+Croatia,HRV,14,0,0
+Cyprus,CYP,3,0,0
+Czech Republic,CZE,41,0,0
+Denmark,DNK,262,0,1
+Dominican Republic,DOM,5,0,0
+Ecuador,ECU,15,0,0
+Egypt,EGY,59,1,1
+Estonia,EST,12,0,0
+Faroe Islands,FRO,2,0,0
+Finland,FIN,40,0,1
+France,FRA,1784,33,12
+French Guiana,GUF,5,0,0
+Georgia,GEO,15,0,0
+Germany,DEU,1457,2,18
+Gibraltar,GIB,1,0,1
+Greece,GRC,89,0,0
+Holy See,VAT,1,0,0
+Hong Kong,HKG,120,3,65
+Hungary,HUN,9,0,0
+Iceland,ISL,69,0,1
+India,IND,56,0,4
+Indonesia,IDN,27,0,2
+Iran (Islamic Republic of),IRN,8042,291,2731
+Iraq,IRQ,71,7,3
+Ireland,IRL,34,0,0
+Israel,ISR,58,0,4
+Italy,ITA,10149,631,724
+Japan,JPN,581,10,101
+Jordan,JOR,1,0,0
+Kuwait,KWT,69,0,1
+Latvia,LVA,8,0,1
+Lebanon,LBN,41,1,1
+Liechtenstein,LIE,1,0,0
+Lithuania,LTU,1,0,0
+Luxembourg,LUX,5,0,0
+Macau,MAC,10,0,10
+Mainland China,CHN,80757,3136,60106
+Malaysia,MYS,129,0,24
+Maldives,MDV,6,0,0
+Malta,MLT,5,0,0
+Martinique,MTQ,2,0,0
+Mexico,MEX,7,0,4
+Monaco,MCO,1,0,0
+Mongolia,MNG,1,0,0
+Morocco,MAR,3,1,0
+Nepal,NPL,1,0,1
+Netherlands,NLD,382,4,0
+New Zealand,NZL,5,0,0
+Nigeria,NGA,2,0,0
+North Macedonia,MKD,7,0,0
+Norway,NOR,400,0,1
+Oman,OMN,18,0,9
+Others,,696,6,40
+Pakistan,PAK,16,0,1
+Panama,PAN,1,0,0
+Paraguay,PRY,1,0,0
+Peru,PER,11,0,0
+Philippines,PHL,33,1,2
+Poland,POL,22,0,0
+Portugal,PRT,41,0,0
+Qatar,QAT,24,0,0
+Republic of Korea,KOR,7513,54,247
+Republic of Moldova,MDA,3,0,0
+Romania,ROU,25,0,3
+Russian Federation,RUS,10,0,3
+Saint Barthelemy,BLM,1,0,0
+Saint Martin,MAF,2,0,0
+San Marino,SMR,51,2,0
+Saudi Arabia,SAU,20,0,1
+Senegal,SEN,4,0,1
+Serbia,SRB,5,0,0
+Singapore,SGP,160,0,78
+Slovakia,SVK,7,0,0
+Slovenia,SVN,31,0,0
+South Africa,ZAF,7,0,0
+Spain,ESP,1695,35,32
+Sri Lanka,LKA,1,0,1
+Sweden,SWE,355,0,1
+Switzerland,CHE,491,3,3
+Taipei and environs,TWN,47,1,17
+Thailand,THA,53,1,33
+Togo,TGO,1,0,0
+Tunisia,TUN,5,0,0
+UK,GBR,382,6,18
+US,USA,959,28,8
+Ukraine,UKR,1,0,0
+United Arab Emirates,ARE,74,0,12
+Viet Nam,VNM,31,0,16
+occupied Palestinian territory,PSE,25,0,0

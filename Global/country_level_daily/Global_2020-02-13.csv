@@ -1,0 +1,30 @@
+admin0_name,iso3,confirmed,death,recovered
+Australia,AUS,15,0,8
+Belgium,BEL,1,0,0
+Cambodia,KHM,1,0,1
+Canada,CAN,7,0,1
+Finland,FIN,1,0,1
+France,FRA,11,0,2
+Germany,DEU,16,0,1
+Hong Kong,HKG,53,1,1
+India,IND,3,0,0
+Italy,ITA,3,0,0
+Japan,JPN,28,1,9
+Macau,MAC,10,0,3
+Mainland China,CHN,59832,1368,6213
+Malaysia,MYS,19,0,3
+Nepal,NPL,1,0,1
+Others,,175,0,0
+Philippines,PHL,3,1,1
+Russia,RUS,2,0,2
+Singapore,SGP,58,0,15
+South Korea,KOR,28,0,7
+Spain,ESP,2,0,0
+Sri Lanka,LKA,1,0,1
+Sweden,SWE,1,0,0
+Taiwan,TWN,18,0,1
+Thailand,THA,33,0,12
+UK,GBR,9,0,1
+US,USA,15,0,3
+United Arab Emirates,ARE,8,0,1
+Vietnam,VNM,16,0,7

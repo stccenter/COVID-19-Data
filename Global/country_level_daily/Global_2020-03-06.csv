@@ -1,0 +1,100 @@
+admin0_name,iso3,confirmed,death,recovered
+Afghanistan,AFG,1,0,0
+Algeria,DZA,17,0,0
+Andorra,AND,1,0,0
+Argentina,ARG,2,0,0
+Armenia,ARM,1,0,0
+Australia,AUS,60,2,21
+Austria,AUT,55,0,0
+Azerbaijan,AZE,6,0,0
+Bahrain,BHR,60,0,4
+Belarus,BLR,6,0,0
+Belgium,BEL,109,0,1
+Bhutan,BTN,1,0,0
+Bosnia and Herzegovina,BIH,2,0,0
+Brazil,BRA,13,0,0
+Cambodia,KHM,1,0,1
+Cameroon,CMR,1,0,0
+Canada,CAN,49,0,6
+Chile,CHL,4,0,0
+Colombia,COL,1,0,0
+Costa Rica,CRI,1,0,0
+Croatia,HRV,11,0,0
+Czech Republic,CZE,18,0,0
+Denmark,DNK,23,0,1
+Dominican Republic,DOM,2,0,0
+Ecuador,ECU,13,0,0
+Egypt,EGY,15,0,1
+Estonia,EST,10,0,0
+Faroe Islands,FRO,1,0,0
+Finland,FIN,15,0,1
+France,FRA,653,9,12
+Georgia,GEO,4,0,0
+Germany,DEU,670,0,17
+Gibraltar,GIB,1,0,0
+Greece,GRC,45,0,0
+Hong Kong,HKG,107,2,46
+Hungary,HUN,2,0,0
+Iceland,ISL,43,0,0
+India,IND,31,0,3
+Indonesia,IDN,4,0,0
+Iran,IRN,4747,124,913
+Iraq,IRQ,40,3,0
+Ireland,IRL,18,0,0
+Israel,ISR,21,0,2
+Italy,ITA,4636,197,523
+Japan,JPN,420,6,46
+Jordan,JOR,1,0,0
+Kuwait,KWT,58,0,0
+Latvia,LVA,1,0,0
+Lebanon,LBN,22,0,1
+Liechtenstein,LIE,1,0,0
+Lithuania,LTU,1,0,0
+Luxembourg,LUX,2,0,0
+Macau,MAC,10,0,10
+Mainland China,CHN,80573,3042,53888
+Malaysia,MYS,83,0,22
+Mexico,MEX,6,0,1
+Monaco,MCO,1,0,0
+Morocco,MAR,2,0,0
+Nepal,NPL,1,0,1
+Netherlands,NLD,128,1,0
+New Zealand,NZL,4,0,0
+Nigeria,NGA,1,0,0
+North Macedonia,MKD,3,0,0
+Norway,NOR,108,0,0
+Oman,OMN,16,0,2
+Others,,696,6,40
+Pakistan,PAK,6,0,0
+Palestine,PSE,16,0,0
+Peru,PER,1,0,0
+Philippines,PHL,5,1,1
+Poland,POL,5,0,0
+Portugal,PRT,13,0,0
+Qatar,QAT,8,0,0
+Romania,ROU,9,0,1
+Russia,RUS,13,0,2
+Saint Barthelemy,BLM,3,0,0
+San Marino,SMR,21,1,0
+Saudi Arabia,SAU,5,0,0
+Senegal,SEN,4,0,0
+Serbia,SRB,1,0,0
+Singapore,SGP,130,0,78
+Slovakia,SVK,1,0,0
+Slovenia,SVN,7,0,0
+South Africa,ZAF,1,0,0
+South Korea,KOR,6593,42,135
+Spain,ESP,400,5,2
+Sri Lanka,LKA,1,0,1
+Sweden,SWE,101,0,0
+Switzerland,CHE,214,1,3
+Taiwan,TWN,45,1,12
+Thailand,THA,48,1,31
+Togo,TGO,1,0,0
+Tunisia,TUN,1,0,0
+UK,GBR,163,2,8
+US,USA,278,14,8
+Ukraine,UKR,1,0,0
+United Arab Emirates,ARE,29,0,5
+Vatican City,VAT,1,0,0
+Vietnam,VNM,16,0,16

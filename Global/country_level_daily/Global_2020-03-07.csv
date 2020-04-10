@@ -1,0 +1,103 @@
+admin0_name,iso3,confirmed,death,recovered
+Afghanistan,AFG,1,0,0
+Algeria,DZA,17,0,0
+Andorra,AND,1,0,0
+Argentina,ARG,8,0,0
+Armenia,ARM,1,0,0
+Australia,AUS,63,2,21
+Austria,AUT,79,0,0
+Azerbaijan,AZE,9,0,0
+Bahrain,BHR,85,0,4
+Belarus,BLR,6,0,0
+Belgium,BEL,169,0,1
+Bhutan,BTN,1,0,0
+Bosnia and Herzegovina,BIH,3,0,0
+Brazil,BRA,13,0,0
+Cambodia,KHM,1,0,1
+Cameroon,CMR,1,0,0
+Canada,CAN,54,0,8
+Chile,CHL,4,0,0
+Colombia,COL,1,0,0
+Costa Rica,CRI,1,0,0
+Croatia,HRV,12,0,0
+Czech Republic,CZE,19,0,0
+Denmark,DNK,23,0,1
+Dominican Republic,DOM,2,0,0
+Ecuador,ECU,13,0,0
+Egypt,EGY,15,0,1
+Estonia,EST,10,0,0
+Faroe Islands,FRO,1,0,0
+Finland,FIN,15,0,1
+France,FRA,949,11,12
+French Guiana,GUF,5,0,0
+Georgia,GEO,4,0,0
+Germany,DEU,799,0,18
+Gibraltar,GIB,1,0,0
+Greece,GRC,46,0,0
+Hong Kong,HKG,108,2,51
+Hungary,HUN,4,0,0
+Iceland,ISL,50,0,0
+India,IND,34,0,3
+Indonesia,IDN,4,0,0
+Iran,IRN,5823,145,1669
+Iraq,IRQ,54,4,0
+Ireland,IRL,18,0,0
+Israel,ISR,21,0,2
+Italy,ITA,5883,233,589
+Japan,JPN,461,6,76
+Jordan,JOR,1,0,0
+Kuwait,KWT,61,0,0
+Latvia,LVA,1,0,0
+Lebanon,LBN,22,0,1
+Liechtenstein,LIE,1,0,0
+Lithuania,LTU,1,0,0
+Luxembourg,LUX,2,0,0
+Macau,MAC,10,0,10
+Mainland China,CHN,80652,3070,55478
+Malaysia,MYS,93,0,23
+Malta,MLT,3,0,0
+Martinique,MTQ,2,0,0
+Mexico,MEX,6,0,1
+Monaco,MCO,1,0,0
+Morocco,MAR,2,0,0
+Nepal,NPL,1,0,1
+Netherlands,NLD,188,1,0
+New Zealand,NZL,5,0,0
+Nigeria,NGA,1,0,0
+North Macedonia,MKD,3,0,0
+Norway,NOR,147,0,0
+Oman,OMN,16,0,2
+Others,,696,6,40
+Pakistan,PAK,6,0,0
+Palestine,PSE,22,0,0
+Peru,PER,1,0,0
+Philippines,PHL,6,1,1
+Poland,POL,5,0,0
+Portugal,PRT,20,0,0
+Qatar,QAT,8,0,0
+Romania,ROU,9,0,3
+Russia,RUS,13,0,2
+Saint Barthelemy,BLM,3,0,0
+San Marino,SMR,23,1,0
+Saudi Arabia,SAU,5,0,0
+Senegal,SEN,4,0,0
+Serbia,SRB,1,0,0
+Singapore,SGP,138,0,78
+Slovakia,SVK,1,0,0
+Slovenia,SVN,7,0,0
+South Africa,ZAF,1,0,0
+South Korea,KOR,7041,44,135
+Spain,ESP,500,10,30
+Sri Lanka,LKA,1,0,1
+Sweden,SWE,161,0,0
+Switzerland,CHE,268,1,3
+Taiwan,TWN,45,1,12
+Thailand,THA,50,1,31
+Togo,TGO,1,0,0
+Tunisia,TUN,1,0,0
+UK,GBR,206,2,18
+US,USA,417,17,8
+Ukraine,UKR,1,0,0
+United Arab Emirates,ARE,45,0,7
+Vatican City,VAT,1,0,0
+Vietnam,VNM,18,0,16

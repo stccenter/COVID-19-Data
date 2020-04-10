@@ -1,0 +1,80 @@
+admin0_name,iso3,confirmed,death,recovered
+Afghanistan,AFG,1,0,0
+Algeria,DZA,5,0,0
+Andorra,AND,1,0,0
+Argentina,ARG,1,0,0
+Armenia,ARM,1,0,0
+Australia,AUS,39,1,11
+Austria,AUT,21,0,0
+Azerbaijan,AZE,3,0,0
+Bahrain,BHR,49,0,0
+Belarus,BLR,1,0,0
+Belgium,BEL,13,0,1
+Brazil,BRA,2,0,0
+Cambodia,KHM,1,0,1
+Canada,CAN,30,0,6
+Chile,CHL,1,0,0
+Croatia,HRV,9,0,0
+Czech Republic,CZE,5,0,0
+Denmark,DNK,6,0,0
+Dominican Republic,DOM,1,0,0
+Ecuador,ECU,7,0,0
+Egypt,EGY,2,0,1
+Estonia,EST,2,0,0
+Finland,FIN,6,0,1
+France,FRA,204,4,12
+Georgia,GEO,3,0,0
+Germany,DEU,196,0,16
+Greece,GRC,7,0,0
+Hong Kong,HKG,100,2,37
+Iceland,ISL,11,0,0
+India,IND,5,0,3
+Indonesia,IDN,2,0,0
+Iran,IRN,2336,77,291
+Iraq,IRQ,32,0,0
+Ireland,IRL,2,0,0
+Israel,ISR,12,0,1
+Italy,ITA,2502,79,160
+Japan,JPN,293,6,43
+Jordan,JOR,1,0,0
+Kuwait,KWT,56,0,0
+Latvia,LVA,1,0,0
+Lebanon,LBN,13,0,0
+Lithuania,LTU,1,0,0
+Luxembourg,LUX,1,0,0
+Macau,MAC,10,0,9
+Mainland China,CHN,80151,2945,47404
+Malaysia,MYS,36,0,22
+Mexico,MEX,5,0,1
+Monaco,MCO,1,0,0
+Morocco,MAR,1,0,0
+Nepal,NPL,1,0,1
+Netherlands,NLD,24,0,0
+New Zealand,NZL,1,0,0
+Nigeria,NGA,1,0,0
+North Macedonia,MKD,1,0,0
+Norway,NOR,32,0,0
+Oman,OMN,12,0,2
+Others,,706,6,10
+Pakistan,PAK,5,0,0
+Philippines,PHL,3,1,1
+Portugal,PRT,2,0,0
+Qatar,QAT,7,0,0
+Romania,ROU,3,0,0
+Russia,RUS,3,0,2
+San Marino,SMR,10,1,0
+Saudi Arabia,SAU,1,0,0
+Senegal,SEN,2,0,0
+Singapore,SGP,110,0,78
+South Korea,KOR,5186,28,30
+Spain,ESP,165,1,2
+Sri Lanka,LKA,1,0,1
+Sweden,SWE,21,0,0
+Switzerland,CHE,56,0,2
+Taiwan,TWN,42,1,12
+Thailand,THA,43,1,31
+UK,GBR,51,0,8
+US,USA,122,7,8
+Ukraine,UKR,1,0,0
+United Arab Emirates,ARE,27,0,5
+Vietnam,VNM,16,0,16
