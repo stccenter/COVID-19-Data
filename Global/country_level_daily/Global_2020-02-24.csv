@@ -1,39 +1,39 @@
-admin0_name,iso3,confirmed,death,recovered
-Afghanistan,AFG,1,0,0
+country_region,iso3,confirmed,death,recovered
+Mainland China,CHN,77152,2593,24990
+South Korea,KOR,833,8,18
+Others,,691,3,0
+Italy,ITA,229,7,1
+Japan,JPN,159,1,22
+Singapore,SGP,89,0,51
+Hong Kong,HKG,79,2,19
+Iran,IRN,61,12,0
+US,USA,53,0,5
+Thailand,THA,35,0,21
+Taiwan,TWN,30,1,5
+Malaysia,MYS,22,0,18
 Australia,AUS,22,0,11
+Vietnam,VNM,16,0,14
+Germany,DEU,16,0,14
+UK,GBR,13,0,8
+United Arab Emirates,ARE,13,0,4
+France,FRA,12,1,4
+Macau,MAC,10,0,6
+Canada,CAN,10,0,3
+Philippines,PHL,3,1,1
+India,IND,3,0,3
+Oman,OMN,2,0,0
+Russia,RUS,2,0,2
+Spain,ESP,2,0,2
+Lebanon,LBN,1,0,0
+Sweden,SWE,1,0,0
 Bahrain,BHR,1,0,0
 Belgium,BEL,1,0,1
 Cambodia,KHM,1,0,1
-Canada,CAN,10,0,3
 Egypt,EGY,1,0,0
 Finland,FIN,1,0,1
-France,FRA,12,1,4
-Germany,DEU,16,0,14
-Hong Kong,HKG,79,2,19
-India,IND,3,0,3
-Iran,IRN,61,12,0
-Iraq,IRQ,1,0,0
-Israel,ISR,1,0,0
-Italy,ITA,229,7,1
-Japan,JPN,159,1,22
-Kuwait,KWT,1,0,0
-Lebanon,LBN,1,0,0
-Macau,MAC,10,0,6
-Mainland China,CHN,77152,2593,24990
-Malaysia,MYS,22,0,18
-Nepal,NPL,1,0,1
-Oman,OMN,2,0,0
-Others,,691,3,0
-Philippines,PHL,3,1,1
-Russia,RUS,2,0,2
-Singapore,SGP,89,0,51
-South Korea,KOR,833,8,18
-Spain,ESP,2,0,2
 Sri Lanka,LKA,1,0,1
-Sweden,SWE,1,0,0
-Taiwan,TWN,30,1,5
-Thailand,THA,35,0,21
-UK,GBR,13,0,8
-US,USA,53,0,5
-United Arab Emirates,ARE,13,0,4
-Vietnam,VNM,16,0,14
+Kuwait,KWT,1,0,0
+Iraq,IRQ,1,0,0
+Nepal,NPL,1,0,1
+Israel,ISR,1,0,0
+Afghanistan,AFG,1,0,0

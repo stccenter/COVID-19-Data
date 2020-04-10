@@ -1,50 +1,50 @@
-admin0_name,iso3,confirmed,death,recovered
-Afghanistan,AFG,1,0,0
-Algeria,DZA,1,0,0
-Australia,AUS,22,0,11
-Austria,AUT,2,0,0
+country_region,iso3,confirmed,death,recovered
+Mainland China,CHN,78065,2715,30053
+South Korea,KOR,1261,12,22
+Others,,705,4,10
+Italy,ITA,453,12,3
+Japan,JPN,189,2,22
+Iran,IRN,139,19,49
+Singapore,SGP,93,0,62
+Hong Kong,HKG,91,2,24
+US,USA,59,0,6
+Thailand,THA,40,0,22
 Bahrain,BHR,33,0,0
+Taiwan,TWN,32,1,5
+Germany,DEU,27,0,15
+Kuwait,KWT,26,0,0
+Malaysia,MYS,22,0,18
+Australia,AUS,22,0,11
+France,FRA,18,2,11
+Vietnam,VNM,16,0,16
+United Arab Emirates,ARE,13,0,4
+Spain,ESP,13,0,2
+UK,GBR,13,0,8
+Canada,CAN,11,0,3
+Macau,MAC,10,0,7
+Iraq,IRQ,5,0,0
+Oman,OMN,4,0,0
+Croatia,HRV,3,0,0
+Philippines,PHL,3,1,1
+India,IND,3,0,3
+Sweden,SWE,2,0,0
+Russia,RUS,2,0,2
+Pakistan,PAK,2,0,0
+Lebanon,LBN,2,0,0
+Finland,FIN,2,0,1
+Austria,AUT,2,0,0
+Israel,ISR,2,0,0
+Norway,NOR,1,0,0
 Belgium,BEL,1,0,1
 Brazil,BRA,1,0,0
 Cambodia,KHM,1,0,1
-Canada,CAN,11,0,3
-Croatia,HRV,3,0,0
 Egypt,EGY,1,0,0
-Finland,FIN,2,0,1
-France,FRA,18,2,11
-Georgia,GEO,1,0,0
-Germany,DEU,27,0,15
-Greece,GRC,1,0,0
-Hong Kong,HKG,91,2,24
-India,IND,3,0,3
-Iran,IRN,139,19,49
-Iraq,IRQ,5,0,0
-Israel,ISR,2,0,0
-Italy,ITA,453,12,3
-Japan,JPN,189,2,22
-Kuwait,KWT,26,0,0
-Lebanon,LBN,2,0,0
-Macau,MAC,10,0,7
-Mainland China,CHN,78065,2715,30053
-Malaysia,MYS,22,0,18
-Nepal,NPL,1,0,1
-North Macedonia,MKD,1,0,0
-Norway,NOR,1,0,0
-Oman,OMN,4,0,0
-Others,,705,4,10
-Pakistan,PAK,2,0,0
-Philippines,PHL,3,1,1
-Romania,ROU,1,0,0
-Russia,RUS,2,0,2
-Singapore,SGP,93,0,62
-South Korea,KOR,1261,12,22
-Spain,ESP,13,0,2
-Sri Lanka,LKA,1,0,1
-Sweden,SWE,2,0,0
 Switzerland,CHE,1,0,0
-Taiwan,TWN,32,1,5
-Thailand,THA,40,0,22
-UK,GBR,13,0,8
-US,USA,59,0,6
-United Arab Emirates,ARE,13,0,4
-Vietnam,VNM,16,0,16
+Sri Lanka,LKA,1,0,1
+North Macedonia,MKD,1,0,0
+Georgia,GEO,1,0,0
+Greece,GRC,1,0,0
+Algeria,DZA,1,0,0
+Romania,ROU,1,0,0
+Nepal,NPL,1,0,1
+Afghanistan,AFG,1,0,0

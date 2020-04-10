@@ -1,15 +1,15 @@
-admin0_name,iso3,confirmed,death,recovered
+country_region,iso3,confirmed,death,recovered
+Mainland China,CHN,1399,42,39
+Thailand,THA,7,0,0
+Hong Kong,HKG,5,0,0
 Australia,AUS,4,0,0
 France,FRA,3,0,0
-Hong Kong,HKG,5,0,0
+Malaysia,MYS,3,0,0
+Singapore,SGP,3,0,0
+Taiwan,TWN,3,0,0
 Japan,JPN,2,0,0
 Macau,MAC,2,0,0
-Mainland China,CHN,1399,42,39
-Malaysia,MYS,3,0,0
-Nepal,NPL,1,0,0
-Singapore,SGP,3,0,0
 South Korea,KOR,2,0,0
-Taiwan,TWN,3,0,0
-Thailand,THA,7,0,0
 US,USA,2,0,0
 Vietnam,VNM,2,0,0
+Nepal,NPL,1,0,0

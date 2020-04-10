@@ -1,30 +1,30 @@
-admin0_name,iso3,confirmed,death,recovered
-Australia,AUS,15,0,2
-Belgium,BEL,1,0,0
-Cambodia,KHM,1,0,0
-Canada,CAN,7,0,0
-Finland,FIN,1,0,0
-France,FRA,11,0,0
-Germany,DEU,14,0,0
-Hong Kong,HKG,29,1,0
-India,IND,3,0,0
-Italy,ITA,3,0,0
-Japan,JPN,26,0,1
-Macau,MAC,10,0,1
+country_region,iso3,confirmed,death,recovered
 Mainland China,CHN,39790,904,3218
-Malaysia,MYS,16,0,1
-Nepal,NPL,1,0,0
 Others,,64,0,0
-Philippines,PHL,3,1,0
-Russia,RUS,2,0,0
 Singapore,SGP,40,0,2
-South Korea,KOR,25,0,3
-Spain,ESP,2,0,0
-Sri Lanka,LKA,1,0,1
-Sweden,SWE,1,0,0
-Taiwan,TWN,18,0,1
 Thailand,THA,32,0,10
-UK,GBR,3,0,0
-US,USA,12,0,3
-United Arab Emirates,ARE,7,0,0
+Hong Kong,HKG,29,1,0
+Japan,JPN,26,0,1
+South Korea,KOR,25,0,3
+Taiwan,TWN,18,0,1
+Malaysia,MYS,16,0,1
+Australia,AUS,15,0,2
+Germany,DEU,14,0,0
 Vietnam,VNM,13,0,1
+US,USA,12,0,3
+France,FRA,11,0,0
+Macau,MAC,10,0,1
+Canada,CAN,7,0,0
+United Arab Emirates,ARE,7,0,0
+India,IND,3,0,0
+Philippines,PHL,3,1,0
+UK,GBR,3,0,0
+Italy,ITA,3,0,0
+Spain,ESP,2,0,0
+Russia,RUS,2,0,0
+Sweden,SWE,1,0,0
+Sri Lanka,LKA,1,0,1
+Cambodia,KHM,1,0,0
+Finland,FIN,1,0,0
+Belgium,BEL,1,0,0
+Nepal,NPL,1,0,0

@@ -1,174 +1,174 @@
-admin0_name,iso3,confirmed,death,recovered
-Afghanistan,AFG,24,0,1
-Albania,ALB,70,2,0
-Algeria,DZA,90,11,32
-Andorra,AND,75,0,1
-Angola,AGO,1,0,0
-Antigua and Barbuda,ATG,1,0,0
-Argentina,ARG,128,3,3
-Armenia,ARM,136,0,1
-Australia,AUS,791,7,26
-Austria,AUT,2388,6,9
-Azerbaijan,AZE,44,1,6
-"Bahamas, The",BHS,3,0,0
-Bahrain,BHR,285,1,100
-Bangladesh,BGD,20,1,3
-Barbados,BRB,5,0,0
-Belarus,BLR,69,0,5
-Belgium,BEL,2257,37,1
-Benin,BEN,2,0,0
-Bhutan,BTN,2,0,0
-Bolivia,BOL,15,0,0
-Bosnia and Herzegovina,BIH,89,0,2
-Brazil,BRA,793,11,2
-Brunei,BRN,78,0,1
-Bulgaria,BGR,127,3,0
-Burkina Faso,BFA,40,1,0
-Cabo Verde,CPV,1,0,0
-Cambodia,KHM,51,0,1
-Cameroon,CMR,20,0,0
-Canada,CAN,943,12,9
-Central African Republic,CAF,3,0,0
-Chad,TCD,1,0,0
-Chile,CHL,434,0,6
+country_region,iso3,confirmed,death,recovered
 China,CHN,80977,3249,71158
-Colombia,COL,128,0,1
-Congo (Brazzaville),COG,3,0,0
-Congo (Kinshasa),COD,18,0,0
-Costa Rica,CRI,89,1,0
-Cote d'Ivoire,CIV,9,0,1
-Croatia,HRV,128,1,5
-Cruise Ship,,712,7,325
-Cuba,CUB,16,1,0
-Cyprus,CYP,67,0,0
-Czechia,CZE,833,0,4
-Denmark,DNK,1337,9,1
-Djibouti,DJI,1,0,0
-Dominican Republic,DOM,72,2,0
-Ecuador,ECU,367,5,0
-Egypt,EGY,285,8,39
-El Salvador,SLV,1,0,0
-Equatorial Guinea,GNQ,6,0,0
-Estonia,EST,283,0,1
-Eswatini,SWZ,1,0,0
-Ethiopia,ETH,9,0,0
-Fiji,FJI,1,0,0
-Finland,FIN,450,0,10
-France,FRA,12632,450,12
-French Guiana,GUF,15,0,0
-Gabon,GAB,3,1,0
-"Gambia, The",GMB,1,0,0
-Georgia,GEO,43,0,1
-Germany,DEU,19848,67,180
-Ghana,GHA,16,0,0
-Greece,GRC,495,6,19
-Greenland,GRL,0,0,0
-Guadeloupe,GLP,45,0,0
-Guam,GUM,14,0,0
-Guatemala,GTM,12,1,0
-Guernsey,GGY,0,0,0
-Guinea,GIN,1,0,0
-Guyana,GUY,7,1,0
-Haiti,HTI,2,0,0
-Holy See,VAT,1,0,0
-Honduras,HND,24,0,0
-Hong Kong,HKG,256,4,98
-Hungary,HUN,85,3,2
-Iceland,ISL,409,0,5
-India,IND,244,5,20
-Indonesia,IDN,369,32,15
-Iran,IRN,19644,1433,6745
-Iraq,IRQ,208,17,49
-Ireland,IRL,683,3,5
-Israel,ISR,705,0,14
 Italy,ITA,47021,4032,4440
-Jamaica,JAM,16,1,2
-Japan,JPN,963,33,191
-Jersey,JEY,0,0,0
-Jordan,JOR,85,0,1
-Kazakhstan,KAZ,49,3,0
-Kenya,KEN,7,0,0
+Spain,ESP,20410,1043,1588
+Germany,DEU,19848,67,180
+Iran,IRN,19644,1433,6745
+US,USA,19073,244,147
+France,FRA,12632,450,12
 "Korea, South",KOR,8652,94,1540
-Kosovo,XKO,2,0,0
-Kuwait,KWT,159,0,18
-Kyrgyzstan,KGZ,6,0,0
-Latvia,LVA,111,0,1
-Lebanon,LBN,163,4,4
-Liberia,LBR,2,0,0
-Liechtenstein,LIE,28,0,0
-Lithuania,LTU,49,0,1
-Luxembourg,LUX,484,4,0
-Macau,MAC,17,0,10
-Madagascar,MDG,3,0,0
-Malaysia,MYS,1030,3,87
-Maldives,MDV,13,0,0
-Malta,MLT,64,0,2
-Martinique,MTQ,32,1,0
-Mauritania,MRT,2,0,0
-Mauritius,MUS,12,0,0
-Mayotte,MYT,6,0,0
-Mexico,MEX,164,1,4
-Moldova,MDA,66,1,1
-Monaco,MCO,11,0,0
-Mongolia,MNG,6,0,0
-Montenegro,MNE,14,0,0
-Morocco,MAR,77,3,1
-Namibia,NAM,3,0,0
-Nepal,NPL,1,0,1
+Switzerland,CHE,5294,54,15
+United Kingdom,GBR,4014,178,67
 Netherlands,NLD,3003,107,2
-New Zealand,NZL,39,0,0
-Nicaragua,NIC,1,0,0
-Niger,NER,1,0,0
-Nigeria,NGA,12,0,1
-North Macedonia,MKD,67,0,1
+Austria,AUT,2388,6,9
+Belgium,BEL,2257,37,1
 Norway,NOR,1914,7,1
-Oman,OMN,48,0,12
+Sweden,SWE,1639,16,16
+Denmark,DNK,1337,9,1
+Malaysia,MYS,1030,3,87
+Portugal,PRT,1020,6,5
+Japan,JPN,963,33,191
+Canada,CAN,943,12,9
+Czechia,CZE,833,0,4
+Brazil,BRA,793,11,2
+Australia,AUS,791,7,26
+Cruise Ship,,712,7,325
+Israel,ISR,705,0,14
+Ireland,IRL,683,3,5
 Pakistan,PAK,501,3,13
-Panama,PAN,137,1,0
-Papua New Guinea,PNG,1,0,0
-Paraguay,PRY,13,0,0
+Greece,GRC,495,6,19
+Luxembourg,LUX,484,4,0
+Qatar,QAT,470,0,10
+Finland,FIN,450,0,10
+Chile,CHL,434,0,6
+Poland,POL,425,5,1
+Iceland,ISL,409,0,5
+Singapore,SGP,385,0,124
+Indonesia,IDN,369,32,15
+Ecuador,ECU,367,5,0
+Turkey,TUR,359,4,0
+Saudi Arabia,SAU,344,0,8
+Slovenia,SVN,341,1,0
+Thailand,THA,322,1,42
+Romania,ROU,308,0,25
+Bahrain,BHR,285,1,100
+Egypt,EGY,285,8,39
+Estonia,EST,283,0,1
+Hong Kong,HKG,256,4,98
+Russia,RUS,253,1,9
+India,IND,244,5,20
 Peru,PER,234,3,1
 Philippines,PHL,230,18,8
-Poland,POL,425,5,1
-Portugal,PRT,1020,6,5
-Puerto Rico,PRI,14,0,0
-Qatar,QAT,470,0,10
-Reunion,REU,28,0,0
-Romania,ROU,308,0,25
-Russia,RUS,253,1,9
-Rwanda,RWA,17,0,0
-Saint Lucia,LCA,2,0,0
-Saint Vincent and the Grenadines,VCT,1,0,0
-San Marino,SMR,144,14,4
-Saudi Arabia,SAU,344,0,8
-Senegal,SEN,38,0,2
-Serbia,SRB,135,1,1
-Seychelles,SYC,7,0,0
-Singapore,SGP,385,0,124
-Slovakia,SVK,137,1,0
-Slovenia,SVN,341,1,0
-Somalia,SOM,1,0,0
+Iraq,IRQ,208,17,49
 South Africa,ZAF,202,0,0
-Spain,ESP,20410,1043,1588
-Sri Lanka,LKA,73,0,3
-Sudan,SDN,2,1,0
-Suriname,SUR,4,0,0
-Sweden,SWE,1639,16,16
-Switzerland,CHE,5294,54,15
-Taiwan*,TWN,135,2,26
-Tanzania,TZA,6,0,0
-Thailand,THA,322,1,42
-Togo,TGO,9,0,1
-Trinidad and Tobago,TTO,9,0,0
-Tunisia,TUN,54,1,0
-Turkey,TUR,359,4,0
-US,USA,19073,244,147
-Ukraine,UKR,29,3,0
+Mexico,MEX,164,1,4
+Lebanon,LBN,163,4,4
+Kuwait,KWT,159,0,18
+San Marino,SMR,144,14,4
 United Arab Emirates,ARE,140,2,31
-United Kingdom,GBR,4014,178,67
+Panama,PAN,137,1,0
+Slovakia,SVK,137,1,0
+Armenia,ARM,136,0,1
+Serbia,SRB,135,1,1
+Taiwan*,TWN,135,2,26
+Argentina,ARG,128,3,3
+Colombia,COL,128,0,1
+Croatia,HRV,128,1,5
+Bulgaria,BGR,127,3,0
+Latvia,LVA,111,0,1
 Uruguay,URY,94,0,0
-Uzbekistan,UZB,33,0,0
-Venezuela,VEN,42,0,0
 Vietnam,VNM,91,0,16
+Algeria,DZA,90,11,32
+Bosnia and Herzegovina,BIH,89,0,2
+Costa Rica,CRI,89,1,0
+Jordan,JOR,85,0,1
+Hungary,HUN,85,3,2
+Brunei,BRN,78,0,1
+Morocco,MAR,77,3,1
+Andorra,AND,75,0,1
+Sri Lanka,LKA,73,0,3
+Dominican Republic,DOM,72,2,0
+Albania,ALB,70,2,0
+Belarus,BLR,69,0,5
+North Macedonia,MKD,67,0,1
+Cyprus,CYP,67,0,0
+Moldova,MDA,66,1,1
+Malta,MLT,64,0,2
+Tunisia,TUN,54,1,0
+Cambodia,KHM,51,0,1
+Kazakhstan,KAZ,49,3,0
+Lithuania,LTU,49,0,1
+Oman,OMN,48,0,12
+Guadeloupe,GLP,45,0,0
+Azerbaijan,AZE,44,1,6
+Georgia,GEO,43,0,1
+Venezuela,VEN,42,0,0
+Burkina Faso,BFA,40,1,0
+New Zealand,NZL,39,0,0
+Senegal,SEN,38,0,2
+Uzbekistan,UZB,33,0,0
+Martinique,MTQ,32,1,0
+Ukraine,UKR,29,3,0
+Liechtenstein,LIE,28,0,0
+Reunion,REU,28,0,0
+Afghanistan,AFG,24,0,1
+Honduras,HND,24,0,0
+Cameroon,CMR,20,0,0
+Bangladesh,BGD,20,1,3
+Congo (Kinshasa),COD,18,0,0
+Rwanda,RWA,17,0,0
+Macau,MAC,17,0,10
+Ghana,GHA,16,0,0
+Jamaica,JAM,16,1,2
+Cuba,CUB,16,1,0
+French Guiana,GUF,15,0,0
+Bolivia,BOL,15,0,0
+Montenegro,MNE,14,0,0
+Guam,GUM,14,0,0
+Puerto Rico,PRI,14,0,0
+Paraguay,PRY,13,0,0
+Maldives,MDV,13,0,0
+Guatemala,GTM,12,1,0
+Nigeria,NGA,12,0,1
+Mauritius,MUS,12,0,0
+Monaco,MCO,11,0,0
+Togo,TGO,9,0,1
+Ethiopia,ETH,9,0,0
+Cote d'Ivoire,CIV,9,0,1
+Trinidad and Tobago,TTO,9,0,0
+Seychelles,SYC,7,0,0
+Guyana,GUY,7,1,0
+Kenya,KEN,7,0,0
+Mongolia,MNG,6,0,0
+Kyrgyzstan,KGZ,6,0,0
+Mayotte,MYT,6,0,0
+Equatorial Guinea,GNQ,6,0,0
+Tanzania,TZA,6,0,0
+Barbados,BRB,5,0,0
+Suriname,SUR,4,0,0
+Congo (Brazzaville),COG,3,0,0
+Namibia,NAM,3,0,0
+Madagascar,MDG,3,0,0
+Gabon,GAB,3,1,0
+"Bahamas, The",BHS,3,0,0
+Central African Republic,CAF,3,0,0
+Benin,BEN,2,0,0
+Sudan,SDN,2,1,0
 Zambia,ZMB,2,0,0
+Bhutan,BTN,2,0,0
+Saint Lucia,LCA,2,0,0
+Haiti,HTI,2,0,0
+Mauritania,MRT,2,0,0
+Liberia,LBR,2,0,0
+Kosovo,XKO,2,0,0
+Djibouti,DJI,1,0,0
+Angola,AGO,1,0,0
+Antigua and Barbuda,ATG,1,0,0
+Nepal,NPL,1,0,1
+Nicaragua,NIC,1,0,0
+Niger,NER,1,0,0
+Cabo Verde,CPV,1,0,0
+Holy See,VAT,1,0,0
+Somalia,SOM,1,0,0
+Papua New Guinea,PNG,1,0,0
+Guinea,GIN,1,0,0
+Chad,TCD,1,0,0
+"Gambia, The",GMB,1,0,0
+Saint Vincent and the Grenadines,VCT,1,0,0
+Fiji,FJI,1,0,0
+Eswatini,SWZ,1,0,0
+El Salvador,SLV,1,0,0
 Zimbabwe,ZWE,1,0,0
+Jersey,JEY,0,0,0
+Guernsey,GGY,0,0,0
+Greenland,GRL,0,0,0

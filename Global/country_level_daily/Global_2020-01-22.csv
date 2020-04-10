@@ -1,9 +1,9 @@
-admin0_name,iso3,confirmed,death,recovered
-Hong Kong,HKG,0,0,0
-Japan,JPN,2,0,0
-Macau,MAC,1,0,0
+country_region,iso3,confirmed,death,recovered
 Mainland China,CHN,547,17,28
+Japan,JPN,2,0,0
+Thailand,THA,2,0,0
+Macau,MAC,1,0,0
 South Korea,KOR,1,0,0
 Taiwan,TWN,1,0,0
-Thailand,THA,2,0,0
 US,USA,1,0,0
+Hong Kong,HKG,0,0,0

@@ -1,16 +1,16 @@
-admin0_name,iso3,confirmed,death,recovered
-Australia,AUS,4,0,0
-Canada,CAN,1,0,0
-France,FRA,3,0,0
-Hong Kong,HKG,8,0,0
-Japan,JPN,4,0,1
-Macau,MAC,5,0,0
+country_region,iso3,confirmed,death,recovered
 Mainland China,CHN,2062,56,49
-Malaysia,MYS,4,0,0
-Nepal,NPL,1,0,0
-Singapore,SGP,4,0,0
-South Korea,KOR,3,0,0
-Taiwan,TWN,4,0,0
+Hong Kong,HKG,8,0,0
 Thailand,THA,8,0,2
+Macau,MAC,5,0,0
 US,USA,5,0,0
+Australia,AUS,4,0,0
+Japan,JPN,4,0,1
+Malaysia,MYS,4,0,0
+Singapore,SGP,4,0,0
+Taiwan,TWN,4,0,0
+France,FRA,3,0,0
+South Korea,KOR,3,0,0
 Vietnam,VNM,2,0,0
+Canada,CAN,1,0,0
+Nepal,NPL,1,0,0

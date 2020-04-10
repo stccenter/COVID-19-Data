@@ -1,62 +1,62 @@
-admin0_name,iso3,confirmed,death,recovered
- Azerbaijan,AZE,1,0,0
-Afghanistan,AFG,1,0,0
-Algeria,DZA,1,0,0
-Australia,AUS,23,0,11
-Austria,AUT,3,0,0
+country_region,iso3,confirmed,death,recovered
+Mainland China,CHN,78824,2788,36291
+South Korea,KOR,2337,13,22
+Italy,ITA,888,21,46
+Others,,705,6,10
+Iran,IRN,388,34,73
+Japan,JPN,228,4,22
+Hong Kong,HKG,94,2,30
+Singapore,SGP,93,0,62
+US,USA,62,0,7
+France,FRA,57,2,11
+Germany,DEU,48,0,16
+Kuwait,KWT,45,0,0
+Thailand,THA,41,0,28
 Bahrain,BHR,36,0,0
+Taiwan,TWN,34,1,6
+Spain,ESP,32,0,2
+Australia,AUS,23,0,11
+Malaysia,MYS,23,0,18
+UK,GBR,20,0,8
+United Arab Emirates,ARE,19,0,5
+Vietnam,VNM,16,0,16
+Canada,CAN,14,0,6
+Macau,MAC,10,0,8
+Switzerland,CHE,8,0,0
+Sweden,SWE,7,0,0
+Iraq,IRQ,7,0,0
+Norway,NOR,6,0,0
+Croatia,HRV,5,0,0
+Israel,ISR,4,0,1
+Greece,GRC,4,0,0
+Oman,OMN,4,0,0
+India,IND,3,0,3
+Romania,ROU,3,0,0
+Philippines,PHL,3,1,1
+Austria,AUT,3,0,0
+Finland,FIN,2,0,1
+Lebanon,LBN,2,0,0
+Russia,RUS,2,0,2
+Pakistan,PAK,2,0,0
+Sri Lanka,LKA,1,0,1
+San Marino,SMR,1,0,0
+ Azerbaijan,AZE,1,0,0
+North Macedonia,MKD,1,0,0
+Estonia,EST,1,0,0
+Algeria,DZA,1,0,0
 Belarus,BLR,1,0,0
 Belgium,BEL,1,0,1
 Brazil,BRA,1,0,0
 Cambodia,KHM,1,0,1
-Canada,CAN,14,0,6
-Croatia,HRV,5,0,0
 Denmark,DNK,1,0,0
 Egypt,EGY,1,0,1
-Estonia,EST,1,0,0
-Finland,FIN,2,0,1
-France,FRA,57,2,11
 Georgia,GEO,1,0,0
-Germany,DEU,48,0,16
-Greece,GRC,4,0,0
-Hong Kong,HKG,94,2,30
+North Ireland,IRL,1,0,0
 Iceland,ISL,1,0,0
-India,IND,3,0,3
-Iran,IRN,388,34,73
-Iraq,IRQ,7,0,0
-Israel,ISR,4,0,1
-Italy,ITA,888,21,46
-Japan,JPN,228,4,22
-Kuwait,KWT,45,0,0
-Lebanon,LBN,2,0,0
-Lithuania,LTU,1,0,0
-Macau,MAC,10,0,8
-Mainland China,CHN,78824,2788,36291
-Malaysia,MYS,23,0,18
+Afghanistan,AFG,1,0,0
 Mexico,MEX,1,0,0
 Nepal,NPL,1,0,1
 Netherlands,NLD,1,0,0
 New Zealand,NZL,1,0,0
 Nigeria,NGA,1,0,0
-North Ireland,IRL,1,0,0
-North Macedonia,MKD,1,0,0
-Norway,NOR,6,0,0
-Oman,OMN,4,0,0
-Others,,705,6,10
-Pakistan,PAK,2,0,0
-Philippines,PHL,3,1,1
-Romania,ROU,3,0,0
-Russia,RUS,2,0,2
-San Marino,SMR,1,0,0
-Singapore,SGP,93,0,62
-South Korea,KOR,2337,13,22
-Spain,ESP,32,0,2
-Sri Lanka,LKA,1,0,1
-Sweden,SWE,7,0,0
-Switzerland,CHE,8,0,0
-Taiwan,TWN,34,1,6
-Thailand,THA,41,0,28
-UK,GBR,20,0,8
-US,USA,62,0,7
-United Arab Emirates,ARE,19,0,5
-Vietnam,VNM,16,0,16
+Lithuania,LTU,1,0,0
