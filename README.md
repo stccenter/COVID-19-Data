@@ -49,7 +49,7 @@ Summary data records the COVID-19 cases, and related attributes, to show the tim
 ## People Contribution & Credit
 
 - Phil Yang, PI and supervisor.
-- Yun Li, GitHub management and data quality control standard.
+- Yun Li, GitHub management, data report generation and quality control.
 - Dexuan Sha, project leader, metadata and standard design, crawler and ETL development, operation management.
 - Qian Liu, Environmental factor design, acquisition and preprocessing.
 - Chen Zhong, data crawler and ETL development.
