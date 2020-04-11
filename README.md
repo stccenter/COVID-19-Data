@@ -43,8 +43,31 @@ Summary data records the COVID-19 cases, and related attributes, to show the tim
 ## Overall data sources by Country
 
 - Worldwide/United States/Australia/Canada: 2019 Novel Coronavirus COVID-19 (2019-nCoV) Data Repository by [Johns Hopkins CSSE](https://github.com/CSSEGISandData/COVID-19)
+- China/Worldwide: COVID-19/2019-nCoV Time Series Infection Data Warehouse (data crawled from Ding Xiang Yuan)
 - United States (county level): [USAFACTS](https://usafacts.org/visualizations/coronavirus-covid-19-spread-map/)
 - Italy: Dati COVID-19 Italia
+- South Korea: parksw3/COVID19-Korea
+- France: cedricguadalupe/FRANCE-COVID-19
+- Germany/Austria/Netherlands/Sweden/Poland/Norway/Czechia: covid19-eu-zh/covid19-eu-data
+- Japan: https://covid-2019.live/
+- Spain: datadista/datasets
+- Switzerland: daenuprobst/covid19-cases-switzerland
+- United Kingdom: tomwhite/covid-19-uk-data
+- Iran/Chile: Wikipedia
+- Portugal: Dados relativos à pandemia COVID-19 em Portugal
+- Brazil: COVID-19 Brazil - time series data
+- Malaysia: ynshung/covid-19-malaysia
+- Belgium: eschnou/covid19-be
+- Russia: grwlf/COVID-19_plus_Russia
+- Ecuador/Mexico/Argentina/Peru: Latin America Covid-19 Data Repository by DSRP
+- India: covid19india
+- Ireland: andrewm4894/ireland_covid19_data
+- South Africa: Coronavirus COVID-19 (2019-nCoV) Data Repository for South Africa
+- Philippines: gigerbytes/ncov-ph-data
+- Romania: Coronavirus COVID-19 România
+- Indonesia: Monitoring COVID19 Indonesia by catchmeup.id
+- Saudi Arabia: Saudi Arabia Coronavirus disease (COVID-19) situation
+- Thailand: TH-STAT.com
 
 ## People Contribution & Credit
 
