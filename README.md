@@ -5,21 +5,6 @@ This data repository stores COVID-19 virus case and related natural and social f
 ## Data Organization
 Datasets are organized by region area ranging from global to countries as shown below. Underneath each folder, multi-scale daily reports and summary reports are provided separately.
 
-STC COVID-19 Dataset Organization:
-├───China
-│   ├───City_level_daily
-│   ├───City_level_summary
-│   ├───Province_level_daily
-│   └───Province_level_summary
-├───Global
-│   ├───country_level_daily
-│   └───country_level_summary
-└───USA
-    ├───County_level_daily
-    ├───County_level_summary
-    ├───State_level_daily
-    └───State_level_summary
-
 ## Field description
 
 ### Daily data
