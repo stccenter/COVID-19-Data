@@ -1,0 +1,35 @@
+Province,hasc,confirmed,death,recovered
+Hubei,CN.HU,27100,780,1439
+Guangdong,CN.GD,1095,1,112
+Zhejiang,CN.ZJ,1048,0,175
+Henan,CN.HE,981,4,116
+Hunan,CN.HN,803,1,156
+Anhui,CN.AH,733,0,59
+Jiangxi,CN.JX,698,0,55
+Jiangsu,CN.JS,439,0,51
+Chongqing,CN.CQ,428,2,39
+Shandong,CN.SD,416,0,44
+Sichuan,CN.SC,364,1,60
+Beijing,CN.BJ,315,2,34
+Heilongjiang,CN.HL,295,5,13
+Shanghai,CN.SH,286,1,41
+Fujian,CN.FJ,239,0,24
+Hebei,CN.HB,195,1,30
+Shaanxi,CN.SA,195,0,20
+Guangxi,CN.GX,183,0,17
+Yunnan,CN.YN,138,0,17
+Hainan,CN.HA,124,2,14
+Shanxi,CN.SX,115,0,21
+Liaoning,CN.LN,105,0,8
+Guizhou,CN.GZ,89,1,7
+Tianjin,CN.TJ,88,1,4
+Gansu,CN.GS,79,1,12
+Jilin,CN.JL,69,1,4
+Inner Mongolia,CN.NM,52,0,5
+Ningxia,CN.NX,45,0,15
+Xinjiang,CN.XJ,42,0,0
+Hong Kong,,26,1,0
+Qinghai,CN.QH,18,0,3
+Taiwan,TW.TA,17,0,1
+Macau,,10,0,1
+Tibet,CN.XZ,1,0,0
