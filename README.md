@@ -83,3 +83,5 @@ Summary data records the COVID-19 cases, and related attributes, to show the tim
 - Feyaz Beaini, data source collection and evaluation, quality control. 
 - Tao Hu, cooperation leader from Harvard University and China Data Lab.
 - Zifu Wang and Hai Lan, IT infrastructure and network security support.
+- Zhiran Zhang, visulization 
+- Wei Liu, data processing
