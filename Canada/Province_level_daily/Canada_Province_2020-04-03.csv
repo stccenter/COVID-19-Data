@@ -1,0 +1,16 @@
+Province,hasc,confirmed,death,recovered
+Quebec,CA.QC,6101,61,0
+Ontario,CA.ON,3255,67,0
+British Columbia,CA.BC,1174,31,0
+Alberta,CA.AB,969,13,0
+Saskatchewan,CA.SK,220,3,0
+Nova Scotia,CA.NS,207,0,0
+Newfoundland and Labrador,CA.NF,195,1,0
+Manitoba,CA.MB,182,2,0
+New Brunswick,CA.NB,91,0,0
+Prince Edward Island,CA.PE,22,0,0
+Grand Princess,,13,0,0
+Yukon,CA.YT,6,0,0
+Northwest Territories,CA.NT,2,0,0
+Diamond Princess,,0,1,0
+Recovered,,0,0,2175
