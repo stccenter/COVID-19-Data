@@ -1,0 +1,11 @@
+State,hasc,confirmed,death,recovered
+New South Wales,AU.NS,669,6,4
+Victoria,AU.VI,296,0,70
+Queensland,AU.QL,259,0,8
+Western Australia,AU.WA,120,1,1
+South Australia,AU.SA,100,0,6
+Tasmania,AU.TS,22,0,3
+Australian Capital Territory,AU.AC,19,0,0
+Northern Territory,AU.NT,5,0,0
+External territories,,0,0,0
+Jervis Bay Territory,AU.JB,0,0,0
