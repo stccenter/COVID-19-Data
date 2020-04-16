@@ -40,7 +40,8 @@ Summary data records the COVID-19 cases, and related attributes, to show the tim
 | date           | The date representing the current day in which the data represents. UTC time is used for this dataset, all values will calculated before the end of UTC time of the date. | UTC | YYYY/MM/DD |
 
 ## Tutorial - Visulize Virus Cases on Map using QGIS
-https://www.youtube.com/watch?v=VzaBCje7OGk&feature=youtu.be
+[![Watch the video](https://dl.dropboxusercontent.com/s/fjursbp8dwjpnkp/qgis_join_tutorial.jpg)](https://www.youtube.com/watch?v=VzaBCje7OGk)
+
 
 ## Overall data sources by Country
 
