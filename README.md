@@ -85,3 +85,6 @@ Summary data records the COVID-19 cases, and related attributes, to show the tim
 - Zifu Wang and Hai Lan, IT infrastructure and network security support.
 - Zhiran Zhang, visulization 
 - Wei Liu, data processing
+
+## Disclaimer
+All data in this repository was collected/calculated/calibrated from multiple publicly available data sources that do not always agree. While we'll try our best to keep the information up to date and correct, we make no representations or warranties of any kind, express or implied, about the completeness, accuracy, reliability, with respect to the data. We do not bear any legal responsibility for any consequence caused by the usage of data provided. Reliance on the data for medical guidance or use of the data in commerce is strictly prohibited. NSF STcenter hereby disclaims any and all representations and warranties with respect to the data repository, including accuracy, fitness for use, and merchantability. 
