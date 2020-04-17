@@ -8,8 +8,8 @@ Thailand,THA,33,0,12
 South Korea,KOR,28,0,9
 Malaysia,MYS,22,0,7
 Taiwan,TWN,18,0,2
-Vietnam,VNM,16,0,7
 Germany,DEU,16,0,1
+Vietnam,VNM,16,0,7
 US,USA,15,0,3
 Australia,AUS,15,0,8
 France,FRA,12,1,4
@@ -17,15 +17,15 @@ Macau,MAC,10,0,3
 UK,GBR,9,0,1
 United Arab Emirates,ARE,8,0,3
 Canada,CAN,7,0,1
+Philippines,PHL,3,1,1
 Italy,ITA,3,0,0
 India,IND,3,0,0
-Philippines,PHL,3,1,1
-Spain,ESP,2,0,2
 Russia,RUS,2,0,2
+Spain,ESP,2,0,2
 Sri Lanka,LKA,1,0,1
-Sweden,SWE,1,0,0
-Egypt,EGY,1,0,0
-Finland,FIN,1,0,1
 Cambodia,KHM,1,0,1
 Belgium,BEL,1,0,0
 Nepal,NPL,1,0,1
+Sweden,SWE,1,0,0
+Egypt,EGY,1,0,0
+Finland,FIN,1,0,1

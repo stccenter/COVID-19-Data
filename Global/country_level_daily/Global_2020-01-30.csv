@@ -2,22 +2,22 @@ country_region,iso3,confirmed,death,recovered
 Mainland China,CHN,8124,171,135
 Thailand,THA,14,0,5
 Japan,JPN,11,0,1
-Singapore,SGP,10,0,0
 Hong Kong,HKG,10,0,0
-Australia,AUS,9,0,2
+Singapore,SGP,10,0,0
 Taiwan,TWN,9,0,0
+Australia,AUS,9,0,2
 Malaysia,MYS,8,0,0
 Macau,MAC,7,0,0
-France,FRA,5,0,0
 US,USA,5,0,0
-Germany,DEU,4,0,0
-South Korea,KOR,4,0,0
+France,FRA,5,0,0
 United Arab Emirates,ARE,4,0,0
+South Korea,KOR,4,0,0
+Germany,DEU,4,0,0
 Canada,CAN,3,0,0
 Vietnam,VNM,2,0,0
-India,IND,1,0,0
+Sri Lanka,LKA,1,0,0
 Cambodia,KHM,1,0,0
 Nepal,NPL,1,0,0
 Philippines,PHL,1,0,0
-Sri Lanka,LKA,1,0,0
+India,IND,1,0,0
 Finland,FIN,1,0,0
