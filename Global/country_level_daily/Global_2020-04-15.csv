@@ -119,8 +119,8 @@ Guatemala,GTM,180,5,19
 Paraguay,PRY,161,8,23
 El Salvador,SLV,159,6,30
 Mali,MLI,148,13,34
-Rwanda,RWA,136,0,54
 Brunei,BRN,136,1,108
+Rwanda,RWA,136,0,54
 Guam,GUM,135,5,0
 Jamaica,JAM,125,5,21
 Cambodia,KHM,122,0,96
@@ -131,15 +131,15 @@ Monaco,MCO,93,3,12
 Tanzania,TZA,88,4,11
 Ethiopia,ETH,85,3,15
 Togo,TGO,81,3,35
-Somalia,SOM,80,5,2
 Gabon,GAB,80,1,4
+Somalia,SOM,80,5,2
 Liechtenstein,LIE,79,1,55
 Burma,MMR,74,4,2
 Barbados,BRB,73,5,15
 Liberia,LBR,59,6,4
 Cabo Verde,CPV,56,1,1
-Guyana,GUY,55,6,8
 Uganda,UGA,55,0,12
+Guyana,GUY,55,6,8
 Equatorial Guinea,GNQ,51,0,4
 Bahamas,BHS,49,8,6
 Zambia,ZMB,48,2,30
@@ -147,24 +147,24 @@ Libya,LBY,48,1,9
 Macau,MAC,45,0,16
 Guinea-Bissau,GNB,43,0,0
 Haiti,HTI,41,3,0
-Eritrea,ERI,35,0,0
 Benin,BEN,35,1,18
+Eritrea,ERI,35,0,0
 Syria,SYR,33,2,5
 Sudan,SDN,32,5,4
 Mongolia,MNG,30,0,5
 Mozambique,MOZ,29,0,2
-Chad,TCD,23,0,2
-Zimbabwe,ZWE,23,3,1
 Antigua and Barbuda,ATG,23,2,3
+Zimbabwe,ZWE,23,3,1
+Chad,TCD,23,0,2
 Maldives,MDV,22,0,16
-Laos,LAO,19,0,1
 Angola,AGO,19,2,5
+Laos,LAO,19,0,1
 Belize,BLZ,18,2,0
-Nepal,NPL,16,0,1
 Dominica,DMA,16,0,8
-Fiji,FJI,16,0,0
 Namibia,NAM,16,0,3
+Fiji,FJI,16,0,0
 Malawi,MWI,16,2,0
+Nepal,NPL,16,0,1
 Eswatini,SWZ,15,0,8
 Saint Lucia,LCA,15,0,11
 Grenada,GRD,14,0,0
@@ -177,8 +177,8 @@ Seychelles,SYC,11,0,0
 Suriname,SUR,10,1,6
 Gambia,GMB,9,1,2
 Nicaragua,NIC,9,1,4
-Holy See,VAT,8,0,2
 Timor-Leste,TLS,8,0,1
+Holy See,VAT,8,0,2
 Mauritania,MRT,7,1,2
 Western Sahara,ESH,6,0,0
 Bhutan,BTN,5,0,2

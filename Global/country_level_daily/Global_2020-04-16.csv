@@ -62,8 +62,8 @@ Bahrain,BHR,1700,7,703
 Hungary,HUN,1652,142,199
 Bangladesh,BGD,1572,60,49
 Kuwait,KWT,1524,3,225
-Estonia,EST,1434,36,133
 Iraq,IRQ,1434,80,856
+Estonia,EST,1434,36,133
 Kazakhstan,KAZ,1402,17,277
 New Zealand,NZL,1401,9,770
 Uzbekistan,UZB,1349,4,129
@@ -100,8 +100,8 @@ Kosovo,XKO,449,11,79
 Nigeria,NGA,442,13,152
 Bolivia,BOL,441,29,14
 Guinea,GIN,438,1,49
-Honduras,HND,426,35,9
 San Marino,SMR,426,38,55
+Honduras,HND,426,35,9
 Malta,MLT,412,3,82
 Jordan,JOR,402,7,259
 Taiwan*,TWN,395,6,155
@@ -132,14 +132,14 @@ Monaco,MCO,93,3,12
 Ethiopia,ETH,92,3,15
 Burma,MMR,85,4,2
 Togo,TGO,81,5,45
-Somalia,SOM,80,5,2
 Gabon,GAB,80,1,4
+Somalia,SOM,80,5,2
 Liechtenstein,LIE,79,1,55
 Barbados,BRB,75,5,15
 Liberia,LBR,59,6,4
 Cabo Verde,CPV,56,1,1
-Uganda,UGA,55,0,20
 Guyana,GUY,55,6,8
+Uganda,UGA,55,0,20
 Bahamas,BHS,53,8,6
 Equatorial Guinea,GNQ,51,0,4
 Libya,LBY,49,1,11
@@ -147,42 +147,42 @@ Zambia,ZMB,48,2,30
 Macau,MAC,45,0,16
 Guinea-Bissau,GNB,43,0,0
 Haiti,HTI,41,3,0
-Eritrea,ERI,35,0,0
 Benin,BEN,35,1,18
+Eritrea,ERI,35,0,0
 Syria,SYR,33,2,5
 Sudan,SDN,32,5,4
 Mongolia,MNG,31,0,5
 Mozambique,MOZ,31,0,2
 Chad,TCD,27,0,5
 Maldives,MDV,25,0,16
-Zimbabwe,ZWE,23,3,1
 Antigua and Barbuda,ATG,23,3,3
-Angola,AGO,19,2,5
+Zimbabwe,ZWE,23,3,1
 Laos,LAO,19,0,2
-Belize,BLZ,18,2,0
+Angola,AGO,19,2,5
 Timor-Leste,TLS,18,0,1
+Belize,BLZ,18,2,0
 Fiji,FJI,17,0,0
-Eswatini,SWZ,16,1,8
-Nepal,NPL,16,0,2
-Namibia,NAM,16,0,4
 Malawi,MWI,16,2,0
+Namibia,NAM,16,0,4
 Dominica,DMA,16,0,8
-Sierra Leone,SLE,15,0,0
+Nepal,NPL,16,0,2
+Eswatini,SWZ,16,1,8
 Botswana,BWA,15,1,0
 Saint Lucia,LCA,15,0,11
-Grenada,GRD,14,0,0
+Sierra Leone,SLE,15,0,0
 Saint Kitts and Nevis,KNA,14,0,0
+Grenada,GRD,14,0,0
 Central African Republic,CAF,12,0,4
 Saint Vincent and the Grenadines,VCT,12,0,1
 Seychelles,SYC,11,0,0
 Suriname,SUR,10,1,6
-Gambia,GMB,9,1,2
 Nicaragua,NIC,9,1,4
+Gambia,GMB,9,1,2
 Holy See,VAT,8,0,2
 Mauritania,MRT,7,1,2
 Papua New Guinea,PNG,7,0,0
 Western Sahara,ESH,6,0,0
-Bhutan,BTN,5,0,2
 Burundi,BDI,5,1,0
-South Sudan,SSD,4,0,0
+Bhutan,BTN,5,0,2
 Sao Tome and Principe,STP,4,0,0
+South Sudan,SSD,4,0,0

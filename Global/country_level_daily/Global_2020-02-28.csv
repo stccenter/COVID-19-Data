@@ -15,8 +15,8 @@ Thailand,THA,41,0,28
 Bahrain,BHR,36,0,0
 Taiwan,TWN,34,1,6
 Spain,ESP,32,0,2
-Australia,AUS,23,0,11
 Malaysia,MYS,23,0,18
+Australia,AUS,23,0,11
 UK,GBR,20,0,8
 United Arab Emirates,ARE,19,0,5
 Vietnam,VNM,16,0,16
@@ -27,36 +27,36 @@ Sweden,SWE,7,0,0
 Iraq,IRQ,7,0,0
 Norway,NOR,6,0,0
 Croatia,HRV,5,0,0
-Israel,ISR,4,0,1
 Greece,GRC,4,0,0
 Oman,OMN,4,0,0
-India,IND,3,0,3
+Israel,ISR,4,0,1
 Romania,ROU,3,0,0
 Philippines,PHL,3,1,1
+India,IND,3,0,3
 Austria,AUT,3,0,0
-Finland,FIN,2,0,1
-Lebanon,LBN,2,0,0
-Russia,RUS,2,0,2
 Pakistan,PAK,2,0,0
-Sri Lanka,LKA,1,0,1
-San Marino,SMR,1,0,0
- Azerbaijan,AZE,1,0,0
-North Macedonia,MKD,1,0,0
-Estonia,EST,1,0,0
-Algeria,DZA,1,0,0
+Russia,RUS,2,0,2
+Lebanon,LBN,2,0,0
+Finland,FIN,2,0,1
+New Zealand,NZL,1,0,0
 Belarus,BLR,1,0,0
+San Marino,SMR,1,0,0
 Belgium,BEL,1,0,1
+ Azerbaijan,AZE,1,0,0
+Nepal,NPL,1,0,1
+Mexico,MEX,1,0,0
+Netherlands,NLD,1,0,0
+Nigeria,NGA,1,0,0
 Brazil,BRA,1,0,0
+North Macedonia,MKD,1,0,0
+Georgia,GEO,1,0,0
+Lithuania,LTU,1,0,0
+Sri Lanka,LKA,1,0,1
 Cambodia,KHM,1,0,1
 Denmark,DNK,1,0,0
-Egypt,EGY,1,0,1
-Georgia,GEO,1,0,0
-North Ireland,IRL,1,0,0
-Iceland,ISL,1,0,0
+Algeria,DZA,1,0,0
 Afghanistan,AFG,1,0,0
-Mexico,MEX,1,0,0
-Nepal,NPL,1,0,1
-Netherlands,NLD,1,0,0
-New Zealand,NZL,1,0,0
-Nigeria,NGA,1,0,0
-Lithuania,LTU,1,0,0
+Egypt,EGY,1,0,1
+North Ireland,IRL,1,0,0
+Estonia,EST,1,0,0
+Iceland,ISL,1,0,0
