@@ -83,7 +83,7 @@ Summary data records the COVID-19 cases, and related attributes, to show the tim
 - Chen Zhong, data crawler and ETL development.
 - You Zhou, policy, news and publication collection, coding, and labelling. Daily operation and data quality control.
 - Yifei Tian, data crawler and ETL development.
-- Feyaz Beaini, data source collection and evaluation, quality control. 
+- Fayez Beaini, data source collection and evaluation, quality control. 
 - Tao Hu, cooperation leader from Harvard University and China Data Lab.
 - Zifu Wang and Hai Lan, IT infrastructure and network security support.
 - Zhiran Zhang, visualization 
