@@ -1,0 +1,21 @@
+Province,hasc,confirmed,death,recovered
+Lombardia,IT.LM,8725,744.0,1085.0
+Emilia Romagna,IT.ER,1947,146.0,43.0
+Veneto,IT.VN,1384,32.0,55.0
+Marche,IT.MH,592,22.0,
+Piemonte,IT.PM,580,26.0,
+Toscana,IT.TC,364,5.0,7.0
+Liguria,IT.LG,274,11.0,20.0
+Trentino-Alto Adige,IT.BC,211,2.0,4.0
+Lazio,IT.LZ,200,9.0,19.0
+Campania,IT.CM,179,1.0,4.0
+Friuli V. G.,IT.FV,167,8.0,11.0
+Sicilia,IT.TT,115,2.0,2.0
+Puglia,IT.SD,104,5.0,1.0
+Abruzzo,IT.AB,84,2.0,4.0
+Umbria,IT.UM,64,,2.0
+Sardegna,IT.SC,39,,
+Calabria,IT.LB,33,,1.0
+Valle d'Aosta,IT.VD,27,1.0,
+Molise,IT.ML,16,,
+Basilicata,IT.PU,8,,
