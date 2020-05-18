@@ -11,7 +11,7 @@ Collecting governmental policy data not only informs us about the actions that e
 Here is the specific formula: [rescaled (school closure + popularity) + rescaled (rescaled (workplace closure + popularity) + rescaled (public events cancellation + popularity) + rescaled (public transport closure + popularity) + rescaled (public information campaign + presence) + rescaled (internal movement restriction + popularity) + rescaled (international/national travel control + popularity)] / 7 = Policy Stringency Index. The specific coding sheet is presented in Table 1 below.
 
 
-$$\[Policy Stringency Index = (rescaled (school closure + popularity) + rescaled (rescaled (workplace closure + popularity) + rescaled (public events cancellation + popularity) + rescaled (public transport closure + popularity) + rescaled (public information campaign + presence) + rescaled (internal movement restriction + popularity) + rescaled (international/national travel control + popularity)))/7\]
+$$\Policy Stringency Index = (rescaled (school closure + popularity) + rescaled (rescaled (workplace closure + popularity) + rescaled (public events cancellation + popularity) + rescaled (public transport closure + popularity) + rescaled (public information campaign + presence) + rescaled (internal movement restriction + popularity) + rescaled (international/national travel control + popularity)))/7\
 $$ 
 
 ## Table 1
