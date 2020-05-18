@@ -1,7 +1,7 @@
 <!--
  * @Author: your name
  * @Date: 2020-05-17 23:08:18
- * @LastEditTime: 2020-05-17 23:10:26
+ * @LastEditTime: 2020-05-17 23:19:47
  * @LastEditors: Please set LastEditors
  * @Description: In User Settings Edit
  * @FilePath: \data process\README.md
@@ -16,11 +16,7 @@ Similar to our dataset here, articles as Elgin, Basbug & Yalaman (2020), Piguill
 
 Collecting governmental policy data not only informs us about the actions that each government takes, but also enables us to conduct studies and analyses on its effectiveness and influence. Government’s responsive policy is directly related to the spread of COVID-19. The combination of constructive policies and practical implementation can effectively stop the spread of virus. For example, school and business closure and public events cancellation helped China control the situation successfully. Also, public information campaign at early stage can raise public’s awareness of the pandemic and inform them of the actions that can be taken to protect them from being infected. Additionally, policies restricting national and international travel can help countries that haven’t had COVID-19 to stem its spread from the beginning. Overall speaking, policies and executive orders issued by governments are necessary to inform and unite the whole public together to combat the current crisis of COVID-19.
 ## Policy Stringency Index Formula
-
-
-
-$$Policy Stringency Index = (rescaled (school closure + popularity) + rescaled (rescaled (workplace closure + popularity) + rescaled (public events cancellation + popularity) + rescaled (public transport closure + popularity) + rescaled (public information campaign + presence) + rescaled (internal movement restriction + popularity) + rescaled (international/national travel control + popularity)))/7
-$$ 
+<a href="https://www.codecogs.com/eqnedit.php?latex=Policy&space;Stringency&space;Index&space;=&space;(rescaled&space;(school&space;closure&space;&plus;&space;popularity)&space;&plus;&space;rescaled&space;(rescaled&space;(workplace&space;closure&space;&plus;&space;popularity)&space;&plus;&space;rescaled&space;(public&space;events&space;cancellation&space;&plus;&space;popularity)&space;&plus;&space;rescaled&space;(public&space;transport&space;closure&space;&plus;&space;popularity)&space;&plus;&space;rescaled&space;(public&space;information&space;campaign&space;&plus;&space;presence)&space;&plus;&space;rescaled&space;(internal&space;movement&space;restriction&space;&plus;&space;popularity)&space;&plus;&space;rescaled&space;(international/national&space;travel&space;control&space;&plus;&space;popularity)))/7" target="_blank"><img src="https://latex.codecogs.com/png.latex?Policy&space;Stringency&space;Index&space;=&space;(rescaled&space;(school&space;closure&space;&plus;&space;popularity)&space;&plus;&space;rescaled&space;(rescaled&space;(workplace&space;closure&space;&plus;&space;popularity)&space;&plus;&space;rescaled&space;(public&space;events&space;cancellation&space;&plus;&space;popularity)&space;&plus;&space;rescaled&space;(public&space;transport&space;closure&space;&plus;&space;popularity)&space;&plus;&space;rescaled&space;(public&space;information&space;campaign&space;&plus;&space;presence)&space;&plus;&space;rescaled&space;(internal&space;movement&space;restriction&space;&plus;&space;popularity)&space;&plus;&space;rescaled&space;(international/national&space;travel&space;control&space;&plus;&space;popularity)))/7" title="Policy Stringency Index = (rescaled (school closure + popularity) + rescaled (rescaled (workplace closure + popularity) + rescaled (public events cancellation + popularity) + rescaled (public transport closure + popularity) + rescaled (public information campaign + presence) + rescaled (internal movement restriction + popularity) + rescaled (international/national travel control + popularity)))/7" /></a>
  The specific coding sheet is presented in Table 1 below.
 
 ## Table 1
