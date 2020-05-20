@@ -45,32 +45,22 @@ Summary data records the COVID-19 cases, and related attributes, to show the tim
 
 ## Overall data sources by Country
 
-- Worldwide/United States/Australia/Canada: 2019 Novel Coronavirus COVID-19 (2019-nCoV) Data Repository by [Johns Hopkins CSSE](https://github.com/CSSEGISandData/COVID-19)
-- China/Worldwide: COVID-19/2019-nCoV Time Series Infection Data Warehouse (data crawled from Ding Xiang Yuan)
-- United States (county level): [USAFACTS](https://usafacts.org/visualizations/coronavirus-covid-19-spread-map/)
-- Italy: Dati COVID-19 Italia
-- South Korea: parksw3/COVID19-Korea
-- France: cedricguadalupe/FRANCE-COVID-19
-- Germany/Austria/Netherlands/Sweden/Poland/Norway/Czechia: covid19-eu-zh/covid19-eu-data
-- Japan: https://covid-2019.live/
-- Spain: datadista/datasets
-- Switzerland: daenuprobst/covid19-cases-switzerland
-- United Kingdom: tomwhite/covid-19-uk-data
-- Iran/Chile: Wikipedia
-- Portugal: Dados relativos à pandemia COVID-19 em Portugal
-- Brazil: COVID-19 Brazil - time series data
-- Malaysia: ynshung/covid-19-malaysia
-- Belgium: eschnou/covid19-be
-- Russia: grwlf/COVID-19_plus_Russia
-- Ecuador/Mexico/Argentina/Peru: Latin America Covid-19 Data Repository by DSRP
-- India: covid19india
-- Ireland: andrewm4894/ireland_covid19_data
-- South Africa: Coronavirus COVID-19 (2019-nCoV) Data Repository for South Africa
-- Philippines: gigerbytes/ncov-ph-data
-- Romania: Coronavirus COVID-19 România
-- Indonesia: Monitoring COVID19 Indonesia by catchmeup.id
-- Saudi Arabia: Saudi Arabia Coronavirus disease (COVID-19) situation
-- Thailand: TH-STAT.com
+| Country / Area                                             | Data Source                                                                                                                                                                                                         |   
+|------------------------------------------------------------|---------------------------------|
+| Global                                                   | [![](https://img.shields.io/badge/source-Johns_Hopkins_CSSE_-9cf)](https://github.com/CSSEGISandData/) |  
+| China                                                   | [![](https://img.shields.io/badge/source-Ding_Xiang_Yuan_-9cf)](https://ncov.dxy.cn/ncovh5/view/pneumonia?source=) | 
+| United States                                              | [![](https://img.shields.io/badge/source-Johns_Hopkins_CSSE_-9cf)](https://github.com/CSSEGISandData/)  [![](https://img.shields.io/badge/source-USAFACTS_-9cf)](https://usafacts.org/visualizations/coronavirus-covid-19-spread-map/)  | 
+| Canada                                                     | [![](https://img.shields.io/badge/source-Johns_Hopkins_CSSE_-9cf)](https://github.com/CSSEGISandData/) |
+| Australia                                                  |[![](https://img.shields.io/badge/source-Johns_Hopkins_CSSE_-9cf)](https://github.com/CSSEGISandData/) |
+| Italy                                                      | [![](https://img.shields.io/badge/source-protezionecivile.it-9cf)](http://www.protezionecivile.it/)   | 
+| Germany                                                    | [![](https://img.shields.io/badge/source-covid19--eu--data-9cf)](https://github.com/covid19-eu-zh/covid19-eu-data)   |  
+| Austria                                                    | [![](https://img.shields.io/badge/source-sozialministerium.at-9cf)](https://www.sozialministerium.at/public.html) |  
+| Brazil                                                     | [![](https://img.shields.io/badge/source-covid.saude.gov.br-9cf)](https://covid.saude.gov.br/)        |  
+| Chile                                                      | [![](https://img.shields.io/badge/source-Covid--19_Latinoamérica-9cf)](https://datastudio.google.com/u/0/reporting/9b824956-4055-46da-8c40-0d46ded5ffba/page/QkcKB) |  
+| Japan                                                      | [![](https://img.shields.io/badge/source-covid--2019.live-9cf)](https://covid-2019.live/en/)  |   
+| Russia                                                     |  [![](https://img.shields.io/badge/source-yandex.ru-9cf)](https://yandex.ru/maps/covid19?ll=41.775580%2C54.894027&z=3) |   
+| South Africa                                               |[![](https://img.shields.io/badge/source-NICD-9cf)](https://www.nicd.ac.zamedia/)  [![](https://img.shields.io/badge/source-health.gov.za-9cf)](https://www.nicd.ac.zamedia/) ||   
+
 
 ## People Contribution & Credit
 
@@ -88,6 +78,11 @@ Summary data records the COVID-19 cases, and related attributes, to show the tim
 - Zifu Wang and Hai Lan, IT infrastructure and network security support.
 - Zhiran Zhang, visualization 
 - Wei Liu, data processing
+- Akhil Kumar, data validation.
+- Andrew Ding, data validation.
+- Jerry Sun, data validation.
+- Swetha Bhattaram, data validation.
+- Yogya Kalra, data validation.
 
 ## Disclaimer
 All data in this repository was collected/calculated/calibrated from multiple publicly available data sources that do not always agree. While we'll try our best to keep the information up to date and correct, we make no representations or warranties of any kind, express or implied, about the completeness, accuracy, reliability, with respect to the data. We do not bear any legal responsibility for any consequence caused by the usage of data provided. Reliance on the data for medical guidance or use of the data in commerce is strictly prohibited. NSF STcenter hereby disclaims any and all representations and warranties with respect to the data repository, including accuracy, fitness for use, and merchantability. 
