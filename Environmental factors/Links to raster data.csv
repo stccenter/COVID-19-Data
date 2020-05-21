@@ -1,0 +1,15 @@
+﻿Category,Scale,DataName,URL
+precipitation,Daily,daily_precipitation_JAN_2020.zip,https://covid19datagmu.s3.us-east-2.amazonaws.com/precipitation/daily/daily_precipitation_JAN_2020.zip
+precipitation,Daily,daily_precipitation_FEB_2020.zip,https://covid19datagmu.s3.us-east-2.amazonaws.com/precipitation/daily/daily_precipitation_FEB_2020.zip
+precipitation,Daily,daily_precipitation_MAR_2020.zip,https://covid19datagmu.s3.us-east-2.amazonaws.com/precipitation/daily/daily_precipitation_MAR_2020.zip
+precipitation,Daily,daily_precipitation_APR_2020.zip,https://covid19datagmu.s3.us-east-2.amazonaws.com/precipitation/daily/daily_precipitation_APR_2020.zip
+temperature,Daily,daily_MEAN_TEMP_JAN_2020.zip,https://covid19datagmu.s3.us-east-2.amazonaws.com/temperature_humidity/daily/Temperature/daily_MEAN_TEMP_JAN_2020.zip
+temperature,Daily,daily_MEAN_TEMP_FEB_2020.zip,https://covid19datagmu.s3.us-east-2.amazonaws.com/temperature_humidity/daily/Temperature/daily_MEAN_TEMP_FEB_2020.zip
+temperature,Daily,daily_MEAN_TEMP_MAR_2020.zip,https://covid19datagmu.s3.us-east-2.amazonaws.com/temperature_humidity/daily/Temperature/daily_MEAN_TEMP_MAR_2020.zip
+humidity,Daily,daily_MEAN_JAN_2020.zip,https://covid19datagmu.s3.us-east-2.amazonaws.com/temperature_humidity/daily/+humidity/daily_MEAN_JAN_2020.zip
+humidity,Daily,daily_MEAN_FEB_2020.zip,https://covid19datagmu.s3.us-east-2.amazonaws.com/temperature_humidity/daily/+humidity/daily_MEAN_FEB_2020.zip
+humidity,Daily,daily_MEAN_MAR_2020.zip,https://covid19datagmu.s3.us-east-2.amazonaws.com/temperature_humidity/daily/+humidity/daily_MEAN_MAR_2020.zip
+OMI,Daily,OMI-Aura_L3-OMNO2d_JAN_2020.zip,https://covid19datagmu.s3.us-east-2.amazonaws.com/OMI/OMI-Aura_L3-OMNO2d_JAN_2020.zip
+OMI,Daily,OMI-Aura_L3-OMNO2d_FEB_2020.zip,https://covid19datagmu.s3.us-east-2.amazonaws.com/OMI/OMI-Aura_L3-OMNO2d_FEB_2020.zip
+OMI,Daily,OMI-Aura_L3-OMNO2d_MAR_2020.zip,https://covid19datagmu.s3.us-east-2.amazonaws.com/OMI/OMI-Aura_L3-OMNO2d_MAR_2020.zip
+OMI,Daily,OMI-Aura_L3-OMNO2d_APR_2020.zip,https://covid19datagmu.s3.us-east-2.amazonaws.com/OMI/OMI-Aura_L3-OMNO2d_APR_2020.zip
