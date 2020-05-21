@@ -1,3 +1,11 @@
+<!--
+ * @Author: your name
+ * @Date: 2020-05-20 13:39:28
+ * @LastEditTime: 2020-05-20 22:20:25
+ * @LastEditors: Please set LastEditors
+ * @Description: In User Settings Edit
+ * @FilePath: \github_test\README.md
+--> 
 # STC COVID-19 Dataset
 
 This data repository stores COVID-19 virus case and related natural and social factors (e.g. environmental observation, policy index) in multi-scale based on ISO standard.
@@ -47,9 +55,9 @@ Summary data records the COVID-19 cases, and related attributes, to show the tim
 
 | Country / Area                                             | Data Source                                                                                                                                                                                                         |   
 |------------------------------------------------------------|---------------------------------|
-| Global                                                   | [![](https://img.shields.io/badge/source-Johns_Hopkins_CSSE_-9cf)](https://github.com/CSSEGISandData/) |  
-| China                                                   | [![](https://img.shields.io/badge/source-Ding_Xiang_Yuan_-9cf)](https://ncov.dxy.cn/ncovh5/view/pneumonia?source=) | 
+| Global                                                   | [![](https://img.shields.io/badge/source-Johns_Hopkins_CSSE_-9cf)](https://github.com/CSSEGISandData/) | 
 | United States                                              | [![](https://img.shields.io/badge/source-Johns_Hopkins_CSSE_-9cf)](https://github.com/CSSEGISandData/)  [![](https://img.shields.io/badge/source-USAFACTS_-9cf)](https://usafacts.org/visualizations/coronavirus-covid-19-spread-map/)  | 
+| China                                                   | [![](https://img.shields.io/badge/source-Ding_Xiang_Yuan_-9cf)](https://ncov.dxy.cn/ncovh5/view/pneumonia?source=) | 
 | Canada                                                     | [![](https://img.shields.io/badge/source-Johns_Hopkins_CSSE_-9cf)](https://github.com/CSSEGISandData/) |
 | Australia                                                  |[![](https://img.shields.io/badge/source-Johns_Hopkins_CSSE_-9cf)](https://github.com/CSSEGISandData/) |
 | Italy                                                      | [![](https://img.shields.io/badge/source-protezionecivile.it-9cf)](http://www.protezionecivile.it/)   | 
