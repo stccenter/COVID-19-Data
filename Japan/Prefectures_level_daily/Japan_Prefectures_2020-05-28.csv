@@ -1,4 +1,4 @@
-Prefectures,hasc,confirmed,death,recovered
+﻿Prefectures,hasc,confirmed,death,recovered
 Tokyo,JP.TK,5195,299,4443
 Osaka,JP.OS,1782,82,1539
 Kanagawa,JP.KN,1341,78,1034
@@ -29,8 +29,8 @@ Kochi,JP.KC,74,3,70
 Yamagata,JP.YT,69,0,66
 Tochigi,JP.TC,65,0,48
 Wakayama,JP.WK,63,3,56
-Oita,JP.OT,60,1,58
 Yamanashi,JP.YN,60,1,57
+Oita,JP.OT,60,1,58
 Kumamoto,JP.KM,48,3,39
 Saga,JP.SG,47,0,35
 Mie,JP.ME,45,1,41
