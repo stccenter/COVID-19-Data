@@ -1,7 +1,7 @@
 <!--
  * @Author: your name
  * @Date: 2020-05-20 13:39:28
- * @LastEditTime: 2020-05-24 18:44:43
+ * @LastEditTime: 2020-05-28 21:39:34
  * @LastEditors: Please set LastEditors
  * @Description: In User Settings Edit
  * @FilePath: \github_test\README.md
@@ -47,7 +47,7 @@ Summary data records the COVID-19 cases, and related attributes, to show the tim
 | admin1_name    | The name for admin 1 level.  | string               | State for USA |
 | date           | The date representing the current day in which the data represents. UTC time is used for this dataset, all values will calculated before the end of UTC time of the date. | UTC | YYYY/MM/DD |
 
-## Tutorial - Visulize Virus Cases on Map using QGIS
+## Tutorial - Visualize Virus Cases on Map using QGIS
 [<img src="https://dl.dropboxusercontent.com/s/fjursbp8dwjpnkp/qgis_join_tutorial.jpg" width="60%">](https://www.youtube.com/watch?v=VzaBCje7OGk)
 
 
