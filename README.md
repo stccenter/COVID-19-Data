@@ -1,7 +1,7 @@
 <!--
  * @Author: your name
  * @Date: 2020-05-20 13:39:28
- * @LastEditTime: 2020-05-28 21:39:34
+ * @LastEditTime: 2020-06-03 14:31:43
  * @LastEditors: Please set LastEditors
  * @Description: In User Settings Edit
  * @FilePath: \github_test\README.md
@@ -69,6 +69,7 @@ Summary data records the COVID-19 cases, and related attributes, to show the tim
 | Japan                                                    | Asia                      | 1          | [![](https://img.shields.io/badge/source-covid--2019.live-9cf)](https://covid-2019.live/en/)   [![](https://img.shields.io/badge/source-stopcovid.jp-orange)](https://www.stopcovid19.jp/) |   
 | Russia                                                   | Europe                    | 1          | [![](https://img.shields.io/badge/source-yandex.ru-9cf)](https://yandex.ru/maps/covid19?ll=41.775580%2C54.894027&z=3)  [![](https://img.shields.io/badge/source-стопкоронавирус.рф-orange)](https://xn--80aesfpebagmfblc0a.xn--p1ai/information/)|   
 | South Africa                                             | Africa                    | 1          |[![](https://img.shields.io/badge/source-NICD-9cf)](https://www.nicd.ac.zamedia/)  [![](https://img.shields.io/badge/source-health.gov.za-9cf)](https://www.nicd.ac.zamedia/)  [![](https://img.shields.io/badge/source-statssa.gov.za-orange)](http://www.statssa.gov.za/) |  
+| Croatia                                                   |Europe                     | 1          |[![](https://img.shields.io/badge/source-koronavirus.hr-9cf)](https://koronavirus.hr/) [![](https://img.shields.io/badge/source-koronavirus.hr-orange)](https://koronavirus.hr/) |
 
 
 
