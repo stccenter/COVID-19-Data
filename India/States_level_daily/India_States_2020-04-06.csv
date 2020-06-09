@@ -1,0 +1,31 @@
+﻿States,hasc,confirmed,death,recovered
+Maharashtra,IN.MH,748,45,56
+Tamil Nadu,IN.TN,571,5,8
+Delhi,IN.DL,523,7,19
+Telangana,IN.TG,321,7,34
+Kerala,IN.KL,314,2,55
+Uttar Pradesh,IN.UP,305,3,21
+Rajasthan,IN.RJ,274,0,21
+Andhra Pradesh,IN.AP,226,3,1
+Madhya Pradesh,IN.MP,165,9,0
+Karnataka,IN.KA,151,4,12
+Gujarat,IN.GJ,144,12,22
+Jammu and Kashmir,IN.JK,109,2,4
+Haryana,IN.HR,84,1,25
+West Bengal,IN.WB,80,3,10
+Punjab,IN.PB,76,6,4
+Bihar,IN.BR,32,1,0
+Uttarakhand,IN.UT,26,0,4
+Assam,IN.AS,26,0,0
+Odisha,IN.OR,21,0,2
+Chandigarh,IN.CH,18,0,0
+Ladakh,IN.LD,14,0,10
+Himachal Pradesh,IN.HP,13,1,2
+Chhattisgarh,IN.CT,10,0,8
+Andaman and Nicobar Islands,IN.AN,10,0,0
+Goa,IN.GA,7,0,0
+Puducherry,IN.PY,5,0,1
+Jharkhand,IN.JH,4,0,0
+Manipur,IN.MN,2,0,0
+Mizoram,IN.MZ,1,0,0
+Arunachal Pradesh,IN.AR,1,0,0
