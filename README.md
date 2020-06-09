@@ -1,7 +1,7 @@
 <!--
  * @Author: your name
  * @Date: 2020-05-20 13:39:28
- * @LastEditTime: 2020-06-08 22:14:29
+ * @LastEditTime: 2020-06-09 17:56:11
  * @LastEditors: Please set LastEditors
  * @Description: In User Settings Edit
  * @FilePath: \github_test\README.md
@@ -72,6 +72,7 @@ Summary data records the COVID-19 cases, and related attributes, to show the tim
 | Croatia                                                   |Europe                     | 1          |[![](https://img.shields.io/badge/source-koronavirus.hr-9cf)](https://koronavirus.hr/) [![](https://img.shields.io/badge/source-koronavirus.hr-orange)](https://koronavirus.hr/) |
 | Sweden                                                   |Europe                     | 1          |[![](https://img.shields.io/badge/source-folkhalsomyndigheten.se-9cf)](https://www.folkhalsomyndigheten.se/smittskydd-beredskap/utbrott/aktuella-utbrott/covid-19/bekraftade-fall-i-sverige) [![](https://img.shields.io/badge/source-Folkhälsomyndigheten-orange)](https://experience.arcgis.com/experience/09f821667ce64bf7be6f9f87457ed9aa) |
 | India                                                   |Asia                     | 1          |[![](https://img.shields.io/badge/source-api.rootnet.in/-9cf)](https://api.rootnet.in/) [![](https://img.shields.io/badge/source-mohfw.gov.in/-orange)](https://www.mohfw.gov.in/) |
+| Hungary                                                  |Europe                     | 1          |[![](https://img.shields.io/badge/source-koronavirus.gov.hu/-9cf)](https://koronavirus.gov.hu/) [![](https://img.shields.io/badge/source-koronavirus.gov.hu/-orange)](https://koronavirus.gov.hu/)
 
 
 ## People Contribution & Credit
