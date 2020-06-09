@@ -1,7 +1,7 @@
 <!--
  * @Author: your name
  * @Date: 2020-05-20 13:39:28
- * @LastEditTime: 2020-06-03 14:31:43
+ * @LastEditTime: 2020-06-08 22:14:29
  * @LastEditors: Please set LastEditors
  * @Description: In User Settings Edit
  * @FilePath: \github_test\README.md
@@ -70,7 +70,8 @@ Summary data records the COVID-19 cases, and related attributes, to show the tim
 | Russia                                                   | Europe                    | 1          | [![](https://img.shields.io/badge/source-yandex.ru-9cf)](https://yandex.ru/maps/covid19?ll=41.775580%2C54.894027&z=3)  [![](https://img.shields.io/badge/source-стопкоронавирус.рф-orange)](https://xn--80aesfpebagmfblc0a.xn--p1ai/information/)|   
 | South Africa                                             | Africa                    | 1          |[![](https://img.shields.io/badge/source-NICD-9cf)](https://www.nicd.ac.zamedia/)  [![](https://img.shields.io/badge/source-health.gov.za-9cf)](https://www.nicd.ac.zamedia/)  [![](https://img.shields.io/badge/source-statssa.gov.za-orange)](http://www.statssa.gov.za/) |  
 | Croatia                                                   |Europe                     | 1          |[![](https://img.shields.io/badge/source-koronavirus.hr-9cf)](https://koronavirus.hr/) [![](https://img.shields.io/badge/source-koronavirus.hr-orange)](https://koronavirus.hr/) |
-
+| Sweden                                                   |Europe                     | 1          |[![](https://img.shields.io/badge/source-folkhalsomyndigheten.se-9cf)](https://www.folkhalsomyndigheten.se/smittskydd-beredskap/utbrott/aktuella-utbrott/covid-19/bekraftade-fall-i-sverige) [![](https://img.shields.io/badge/source-Folkhälsomyndigheten-orange)](https://experience.arcgis.com/experience/09f821667ce64bf7be6f9f87457ed9aa) |
+| India                                                   |Asia                     | 1          |[![](https://img.shields.io/badge/source-api.rootnet.in/-9cf)](https://api.rootnet.in/) [![](https://img.shields.io/badge/source-mohfw.gov.in/-orange)](https://www.mohfw.gov.in/) |
 
 
 ## People Contribution & Credit
@@ -90,8 +91,6 @@ Summary data records the COVID-19 cases, and related attributes, to show the tim
 - Zhiran Zhang, visualization 
 - Wei Liu, data processing
 - Akhil Kumar, data validation.
-- Andrew Ding, data validation.
-- Jerry Sun, data validation.
 - Swetha Bhattaram, data validation.
 - Yogya Kalra, data validation.
 
