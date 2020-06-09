@@ -1,0 +1,36 @@
+States,hasc,confirmed,death,recovered
+Maharashtra,IN.MH,85975,3060,39314
+Tamil Nadu,IN.TN,31667,269,16999
+Delhi,IN.DL,28936,812,10999
+Gujarat,IN.GJ,20070,1249,13635
+Rajasthan,IN.RJ,10599,240,7641
+Uttar Pradesh,IN.UP,10536,275,6185
+Madhya Pradesh,IN.MP,9401,412,6331
+West Bengal,IN.WB,8187,396,3303
+Karnataka,IN.KA,5452,61,2132
+Bihar,IN.BR,5088,30,2480
+Andhra Pradesh,IN.AP,4708,75,2682
+Haryana,IN.HR,4448,28,2134
+Jammu and Kashmir,IN.JK,4087,41,1216
+Telangana,IN.TG,3650,137,1710
+Odisha,IN.OR,2856,9,1894
+Punjab,IN.PB,2608,51,2106
+Assam,IN.AS,2565,4,615
+Kerala,IN.KL,1914,15,803
+Uttarakhand,IN.UT,1355,13,528
+Jharkhand,IN.JH,1099,7,490
+Chhattisgarh,IN.CT,1073,4,283
+Tripura,IN.TR,800,0,192
+Himachal Pradesh,IN.HP,413,5,224
+Chandigarh,IN.CH,314,5,273
+Goa,IN.GA,300,0,65
+Manipur,IN.MN,172,0,52
+Nagaland,IN.NL,118,0,8
+Ladakh,IN.LD,103,1,50
+Puducherry,IN.PY,99,0,36
+Arunachal Pradesh,IN.AR,51,0,1
+Meghalaya,IN.ML,36,1,13
+Mizoram,IN.MZ,34,0,1
+Andaman and Nicobar Islands,IN.AN,33,0,33
+Dadra and Nagar Haveli,IN.DN,20,0,2
+Sikkim,IN.SK,7,0,0
