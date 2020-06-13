@@ -1,5 +1,5 @@
-State,hasc,confirmed,death,recovered
-São Paulo,BR.SC,51097,4118,
+﻿State,hasc,confirmed,death,recovered
+São Paulo,BR.SP,51097,4118,
 Ceará,BR.CE,19156,1389,
 Rio de Janeiro,BR.RJ,18728,2050,
 Amazonas,BR.AM,15816,1160,
@@ -8,7 +8,7 @@ Pará,BR.PB,9618,946,
 Maranhão,BR.MA,9112,444,
 Bahia,BR.BA,6547,236,
 Espirito Santo,BR.ES,5401,233,
-Santa Catarina,BR.SP,3828,73,
+Santa Catarina,BR.SC,3828,73,
 Minas Gerais,BR.MG,3733,135,
 Distrito Federal,BR.DF,3192,48,
 Paraíba,BR.PA,3045,157,

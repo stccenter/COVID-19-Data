@@ -1,5 +1,5 @@
-State,hasc,confirmed,death,recovered
-São Paulo,BR.SC,162520,10145,
+﻿State,hasc,confirmed,death,recovered
+São Paulo,BR.SP,162520,10145,
 Rio de Janeiro,BR.RJ,75775,7363,
 Ceará,BR.CE,73879,4663,
 Pará,BR.PB,64126,4030,
@@ -15,7 +15,7 @@ Minas Gerais,BR.MG,18448,431,
 Amapá,BR.AP,15166,303,
 Rio Grande do Sul,BR.RS,14168,323,
 Rio Grande do Norte,BR.RN,13234,496,
-Santa Catarina,BR.SP,12953,186,
+Santa Catarina,BR.SC,12953,186,
 Sergipe,BR.SE,11056,283,
 Rondônia,BR.RO,10547,293,
 Acre,BR.AC,9091,245,
