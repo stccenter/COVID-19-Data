@@ -1,7 +1,7 @@
 <!--
  * @Author: your name
  * @Date: 2020-05-20 13:39:28
- * @LastEditTime: 2020-06-10 17:02:09
+ * @LastEditTime: 2020-06-16 18:19:50
  * @LastEditors: Please set LastEditors
  * @Description: In User Settings Edit
  * @FilePath: \github_test\README.md
@@ -74,7 +74,8 @@ Summary data records the COVID-19 cases, and related attributes, to show the tim
 | India                                                   |Asia                     | 1          |[![](https://img.shields.io/badge/source-api.rootnet.in/-9cf)](https://api.rootnet.in/) [![](https://img.shields.io/badge/source-mohfw.gov.in/-orange)](https://www.mohfw.gov.in/) |
 | Hungary                                                  |Europe                     | 1          |[![](https://img.shields.io/badge/source-koronavirus.gov.hu/-9cf)](https://koronavirus.gov.hu/) [![](https://img.shields.io/badge/source-koronavirus.gov.hu/-orange)](https://koronavirus.gov.hu/)
 | Denmark                                                  |Europe                     | 1          |[![](https://img.shields.io/badge/source-ssi.dk/-9cf)](https://www.ssi.dk/sygdomme-beredskab-og-forskning/sygdomsovervaagning/c/covid19-overvaagning) [![](https://img.shields.io/badge/source-ssi.dk/-orange)](https://www.ssi.dk/sygdomme-beredskab-og-forskning/sygdomsovervaagning/c/covid19-overvaagning)
-
+| Ukraine                                                  |Europe                     | 1          |[![](https://img.shields.io/badge/source-rnbo.gov.ua/-9cf)](https://covid19.rnbo.gov.ua/) [![](https://img.shields.io/badge/source-rnbo.gov.ua/-orange)](https://covid19.rnbo.gov.ua/)
+| Latvia                                                  |Europe                     | 1          |[![](https://img.shields.io/badge/source-data.gov.lv/-9cf)](https://data.gov.lv/dati/eng/dataset/covid-19-pa-adm-terit) [![](https://img.shields.io/badge/source-data.gov.lv/-orange)](https://data.gov.lv/dati/eng/dataset/covid-19-pa-adm-terit)
 ## People Contribution & Credit
 
 - Phil Yang, PI and supervisor.
@@ -97,3 +98,4 @@ Summary data records the COVID-19 cases, and related attributes, to show the tim
 
 ## Disclaimer
 All data in this repository was collected/calculated/calibrated from multiple publicly available data sources that do not always agree. While we'll try our best to keep the information up to date and correct, we make no representations or warranties of any kind, express or implied, about the completeness, accuracy, reliability, with respect to the data. We do not bear any legal responsibility for any consequence caused by the usage of data provided. Reliance on the data for medical guidance or use of the data in commerce is strictly prohibited. NSF STcenter hereby disclaims any and all representations and warranties with respect to the data repository, including accuracy, fitness for use, and merchantability. 
+For countries where there are internal disputes and sensitive region or area, we do not include that part of data in our datasets. If you are interested in this part of data, you can contact us directly.
