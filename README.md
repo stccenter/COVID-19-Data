@@ -1,7 +1,7 @@
 <!--
  * @Author: your name
  * @Date: 2020-05-20 13:39:28
- * @LastEditTime: 2020-06-16 18:19:50
+ * @LastEditTime: 2020-06-18 18:18:57
  * @LastEditors: Please set LastEditors
  * @Description: In User Settings Edit
  * @FilePath: \github_test\README.md
@@ -76,6 +76,7 @@ Summary data records the COVID-19 cases, and related attributes, to show the tim
 | Denmark                                                  |Europe                     | 1          |[![](https://img.shields.io/badge/source-ssi.dk/-9cf)](https://www.ssi.dk/sygdomme-beredskab-og-forskning/sygdomsovervaagning/c/covid19-overvaagning) [![](https://img.shields.io/badge/source-ssi.dk/-orange)](https://www.ssi.dk/sygdomme-beredskab-og-forskning/sygdomsovervaagning/c/covid19-overvaagning)
 | Ukraine                                                  |Europe                     | 1          |[![](https://img.shields.io/badge/source-rnbo.gov.ua/-9cf)](https://covid19.rnbo.gov.ua/) [![](https://img.shields.io/badge/source-rnbo.gov.ua/-orange)](https://covid19.rnbo.gov.ua/)
 | Latvia                                                  |Europe                     | 1          |[![](https://img.shields.io/badge/source-data.gov.lv/-9cf)](https://data.gov.lv/dati/eng/dataset/covid-19-pa-adm-terit) [![](https://img.shields.io/badge/source-data.gov.lv/-orange)](https://data.gov.lv/dati/eng/dataset/covid-19-pa-adm-terit)
+| Albania                                                 |Europe                     | 1          |[![](https://img.shields.io/badge/source-NovelCoronavirus/-9cf)](https://github.com/lucil/covid19-albanian-data) [![](https://img.shields.io/badge/source-coronavirus.al/-orange)](https://coronavirus.al/statistika/)
 ## People Contribution & Credit
 
 - Phil Yang, PI and supervisor.
