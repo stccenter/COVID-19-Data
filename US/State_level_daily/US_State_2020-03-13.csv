@@ -1,7 +1,7 @@
-State,hasc,confirmed,death,recovered
+﻿State,hasc,confirmed,death,recovered
 Washington,US.WA,501,37,
+California,US.CA,385,7,
 New York,US.NY,370,0,
-California,US.CA,305,4,
 Massachusetts,US.MA,124,0,
 Colorado,US.CO,75,1,
 Florida,US.FL,64,2,
@@ -10,7 +10,7 @@ Georgia,US.GA,52,1,
 Illinois,US.IL,46,0,
 Pennsylvania,US.PA,41,0,
 Texas,US.TX,38,0,
-Virginia,US.VA,38,0,
+Virginia,US.VA,37,0,
 Louisiana,US.LA,36,0,
 Oregon,US.OR,30,0,
 Michigan,US.MI,24,0,
