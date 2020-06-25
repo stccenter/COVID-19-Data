@@ -1,9 +1,17 @@
+<!--
+ * @Author: your name
+ * @Date: 2020-06-25 14:02:23
+ * @LastEditTime: 2020-06-25 14:07:56
+ * @LastEditors: Please set LastEditors
+ * @Description: In User Settings Edit
+ * @FilePath: \data process\Data_Desctiption_Unemployment-2.md
+--> 
 # Unemployment Insurance Weekly Claims Data Summary
 
-The Unemployment Insurance weekly claims data summary can be used in any economic analysis of unemployment trends in the United States, in each state. Initial claims measure emerging unemployment and continued weeks claimed measure the number of persons claiming unemployment benefits. The data sheds light on the current economic response to COVID19 and how the numbers in certain states fluctuate over time. 
+The Unemployment Insurance weekly claims data summary can be used in any economic analysis of unemployment trends in the United States, in each state. Initial claims measure emerging unemployment and continued weeks claimed measure the number of persons claiming unemployment benefits. The data sheds light on the current economic response to COVID-19 and how the numbers in certain states fluctuate over time. 
  
 The data summarizes all weeks between January 2019 and May 2020.
-By comparing the 2019 data to the current, 2020 dataset, the information gives way to the impact of COVID19 on the numbers of individuals filing for unemployment by state.
+By comparing the 2019 data to the current, 2020 dataset, the information gives way to the impact of COVID-19 on the numbers of individuals filing for unemployment by state.
 
 ## Data Organization
 
@@ -32,12 +40,12 @@ Bureau of Labor Statistics, U.S. Department of Labor, Occupational Outlook Handb
 The Unemployment Insurance weekly claims data are used in current economic analysis of unemployment trends in the nation, and in each state. Initial claims measure emerging unemployment and continued weeks claimed measure the number of persons claiming unemployment benefits.
  
 The data offers individual documents for each week for every state in the United States (Including Virgin Islands and Puerto Rico).
-The weekly data provides important information as to how the economy in the United States has been affected by COVID19
+The weekly data provides important information as to how the economy in the United States has been affected by COVID-19
 and how residents of different regions of the nation have suffered at different times due to unemployment.
 
 ## Data Organization
 
-Each file holds data for all states in a given weekn from January 5th, 2019 to June 6th, 2020. Each week inlcudes all states and seven variables.
+Each file holds data for all states in a given week from January 5th, 2019 to June 6th, 2020. Each week includes all states and seven variables.
 
 ### Field description
 
