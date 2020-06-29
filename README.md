@@ -1,7 +1,7 @@
 <!--
  * @Author: your name
  * @Date: 2020-05-20 13:39:28
- * @LastEditTime: 2020-06-26 13:58:58
+ * @LastEditTime: 2020-06-29 17:18:58
  * @LastEditors: Please set LastEditors
  * @Description: In User Settings Edit
  * @FilePath: \github_test\README.md
@@ -78,6 +78,7 @@ Summary data records the COVID-19 cases, and related attributes, to show the tim
 | Latvia                                                  |Europe                     | 1          |[![](https://img.shields.io/badge/source-data.gov.lv/-9cf)](https://data.gov.lv/dati/eng/dataset/covid-19-pa-adm-terit) [![](https://img.shields.io/badge/source-data.gov.lv/-orange)](https://data.gov.lv/dati/eng/dataset/covid-19-pa-adm-terit)
 | Albania                                                 |Europe                     | 1          |[![](https://img.shields.io/badge/source-NovelCoronavirus/-9cf)](https://github.com/lucil/covid19-albanian-data) [![](https://img.shields.io/badge/source-coronavirus.al/-orange)](https://coronavirus.al/statistika/)
 | Haiti                                                 |North America                    | 1          |[![](https://img.shields.io/badge/source-coronahaiti.org/-9cf)](https://www.coronahaiti.org/) [![](https://img.shields.io/badge/source-coronahaiti.org/-orange)](https://www.coronahaiti.org/)
+| Romania                                                 |Europe                    | 1          |[![](https://img.shields.io/badge/source-covid_19_ro/-9cf)](https://github.com/gabrielpreda/covid_19_ro) [![](https://img.shields.io/badge/source-mai.gov.ro/-orange)](https://www.mai.gov.ro/category/comunicate-de-presa/)
 ## People Contribution & Credit
 
 - Phil Yang, PI and supervisor.
