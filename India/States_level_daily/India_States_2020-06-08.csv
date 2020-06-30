@@ -1,4 +1,4 @@
-States,hasc,confirmed,death,recovered
+﻿States,hasc,confirmed,death,recovered
 Maharashtra,IN.MH,85975,3060,39314
 Tamil Nadu,IN.TN,31667,269,16999
 Delhi,IN.DL,28936,812,10999
@@ -26,11 +26,9 @@ Chandigarh,IN.CH,314,5,273
 Goa,IN.GA,300,0,65
 Manipur,IN.MN,172,0,52
 Nagaland,IN.NL,118,0,8
-Ladakh,IN.LD,103,1,50
 Puducherry,IN.PY,99,0,36
 Arunachal Pradesh,IN.AR,51,0,1
 Meghalaya,IN.ML,36,1,13
 Mizoram,IN.MZ,34,0,1
 Andaman and Nicobar Islands,IN.AN,33,0,33
-Dadra and Nagar Haveli,IN.DN,20,0,2
 Sikkim,IN.SK,7,0,0

@@ -1,34 +1,34 @@
-States,hasc,confirmed,death,recovered
-Maharashtra,IN.MH,139010,6531,69631
-Delhi,IN.DL,66602,2301,39313
-Tamil Nadu,IN.TN,64603,833,35339
-Gujarat,IN.GJ,28371,1710,20513
-Uttar Pradesh,IN.UP,18893,588,12116
-Rajasthan,IN.RJ,15627,365,12213
-West Bengal,IN.WB,14728,580,9218
-Madhya Pradesh,IN.MP,12261,525,9335
-Haryana,IN.HR,11520,178,6498
-Andhra Pradesh,IN.AP,10002,119,4599
-Karnataka,IN.KA,9721,150,6004
-Telangana,IN.TG,9553,220,4224
-Bihar,IN.BR,8153,56,6104
-Jammu and Kashmir,IN.JK,6236,87,3642
-Assam,IN.AS,5831,9,3762
-Odisha,IN.OR,5470,17,3988
-Punjab,IN.PB,4397,105,3047
-Kerala,IN.KL,3451,22,1809
-Uttarakhand,IN.UT,2535,30,1602
-Chhattisgarh,IN.CT,2362,12,1553
-Jharkhand,IN.JH,2185,11,1520
-Tripura,IN.TR,1259,1,807
-Manipur,IN.MN,921,0,258
-Goa,IN.GA,909,1,205
-Himachal Pradesh,IN.HP,775,8,443
-Chandigarh,IN.CH,418,6,322
-Puducherry,IN.PY,402,9,165
-Nagaland,IN.NL,330,0,141
-Arunachal Pradesh,IN.AR,148,0,22
-Mizoram,IN.MZ,142,0,9
-Sikkim,IN.SK,79,0,29
-Andaman and Nicobar Islands,IN.AN,50,0,40
-Meghalaya,IN.ML,46,1,37
+﻿States,hasc,confirmed,death,recovered
+Maharashtra,IN.MH,142900,6739,73792
+Delhi,IN.DL,70390,2365,41437
+Tamil Nadu,IN.TN,67468,866,37763
+Gujarat,IN.GJ,28943,1735,21088
+Uttar Pradesh,IN.UP,19557,596,12586
+Rajasthan,IN.RJ,16009,375,12611
+West Bengal,IN.WB,15173,591,9702
+Madhya Pradesh,IN.MP,12448,534,9473
+Haryana,IN.HR,12010,188,6925
+Telangana,IN.TG,10444,225,4361
+Andhra Pradesh,IN.AP,10331,124,4779
+Karnataka,IN.KA,10118,164,6151
+Bihar,IN.BR,8209,57,6113
+Jammu and Kashmir,IN.JK,6422,88,3818
+Assam,IN.AS,6198,9,3958
+Odisha,IN.OR,5752,17,4123
+Punjab,IN.PB,4627,113,3099
+Kerala,IN.KL,3603,22,1888
+Uttarakhand,IN.UT,2623,35,1721
+Chhattisgarh,IN.CT,2419,12,1627
+Jharkhand,IN.JH,2207,11,1570
+Tripura,IN.TR,1259,1,897
+Manipur,IN.MN,970,0,328
+Goa,IN.GA,951,2,289
+Himachal Pradesh,IN.HP,806,8,466
+Puducherry,IN.PY,461,9,176
+Chandigarh,IN.CH,420,6,323
+Nagaland,IN.NL,347,0,148
+Arunachal Pradesh,IN.AR,158,0,38
+Mizoram,IN.MZ,142,0,19
+Sikkim,IN.SK,84,0,39
+Andaman and Nicobar Islands,IN.AN,56,0,43
+Meghalaya,IN.ML,46,1,42
