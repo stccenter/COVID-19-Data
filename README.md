@@ -89,7 +89,7 @@ Summary data records the COVID-19 cases, and related attributes, to show the tim
 - Yun Li, GitHub management, data report generation and quality control.
 - Qian Liu, Environmental factor design, acquisition and preprocessing.
 - Chen Zhong, data crawler and ETL development.
-- You Zhou, policy, news and publication collection, coding, and labelling. Daily operation and data quality control.
+- You Zhou, policy, news and publication collection. 
 - Yifei Tian, data crawler and ETL development.
 - Fayez Beaini, data source collection and evaluation, quality control. 
 - Tao Hu, cooperation leader from Harvard University and China Data Lab.
