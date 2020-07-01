@@ -1,0 +1,33 @@
+﻿State,hasc,confirmed,death,recovered
+Ciudad de Mexico,MX.DF,52175,5515,0
+México,MX.MX,20330,3415,1
+Tabasco,MX.TB,8771,909,0
+Veracruz,MX.VE,8251,1267,0
+Baja California,MX.BN,8026,1768,0
+Puebla,MX.PU,7991,966,0
+Sinaloa,MX.SI,6789,1032,1
+Sonora,MX.SO,5360,388,0
+Jalisco,MX.JA,5260,472,0
+Guanajuato,MX.GJ,5058,257,0
+Michoacan,MX.MC,4710,376,0
+Tamaulipas,MX.TM,4390,278,0
+Guerrero,MX.GR,4303,743,0
+Oaxaca,MX.OA,4070,468,0
+Nuevo Leon,MX.NL,3924,247,0
+Chiapas,MX.CP,3746,389,0
+Hidalgo,MX.HI,3235,557,0
+Yucatan,MX.YU,3235,331,0
+Quintana Roo,MX.QR,2953,517,0
+Coahuila,MX.CA,2913,163,1
+Chihuahua,MX.CH,2635,563,0
+San Luis Potosi,MX.SL,2418,107,0
+Morelos,MX.MR,2334,625,0
+Tlaxcala,MX.TL,1958,273,0
+Aguascalientes,MX.AG,1935,112,0
+Queretaro,MX.QE,1836,238,0
+Campeche,MX.CM,1500,162,0
+Durango,MX.DU,1383,106,0
+Nayarit,MX.NA,1299,153,0
+Baja California Sur,MX.BS,1238,65,0
+Zacatecas,MX.ZA,690,75,0
+Colima,MX.CL,406,47,0
