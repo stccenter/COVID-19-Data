@@ -1,7 +1,7 @@
 <!--
  * @Author: your name
  * @Date: 2020-05-20 13:39:28
- * @LastEditTime: 2020-07-20 18:34:44
+ * @LastEditTime: 2020-07-30 18:10:42
  * @LastEditors: Please set LastEditors
  * @Description: In User Settings Edit
  * @FilePath: \github_test\README.md
@@ -82,6 +82,7 @@ Summary data records the COVID-19 cases, and related attributes, to show the tim
 | Mexico                                                 |North America                    | 1          |[![](https://img.shields.io/badge/source-Latin--Americ--Covid19/-9cf)](https://github.com/DataScienceResearchPeru/covid-19_latinoamerica) [![](https://img.shields.io/badge/source-gob.mxS-orange)](https://www.gob.mx/salud/documentos/informacion-internacional-y-nacional-sobre-nuevo-coronavirus-2019-ncov)
 | Nigeria                                                 |Africa                        | 1          |[![](https://img.shields.io/badge/source-Nigeria--Novel--Coronavirus/-9cf)](https://github.com/Kamparia/nigeria-covid19-data) [![](https://img.shields.io/badge/source-gncdc.gov.ng-orange)](https://covid19.ncdc.gov.ng/)
 | Pakistan                                                 |Asia                        | 1          |[![](https://img.shields.io/badge/source-Goverenment_of_Pakistan-9cf)](http://covid.gov.pk/stats/pakistan) [![](https://img.shields.io/badge/source-Goverenment_of_Pakistan-orange)](http://covid.gov.pk/stats/pakistan)
+| Bolivia                                                 |South America                        | 1          |[![](https://img.shields.io/badge/source-BoliviaSegura-9cf)](https://www.boliviasegura.gob.bo/) [![](https://img.shields.io/badge/source-BoliviaSegura-orange)](https://www.boliviasegura.gob.bo/)
 ## People Contribution & Credit
 
 - Phil Yang, PI and supervisor.
