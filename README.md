@@ -1,7 +1,7 @@
 <!--
  * @Author: your name
  * @Date: 2020-05-20 13:39:28
- * @LastEditTime: 2020-07-30 18:10:42
+ * @LastEditTime: 2020-08-20 21:55:41
  * @LastEditors: Please set LastEditors
  * @Description: In User Settings Edit
  * @FilePath: \github_test\README.md
@@ -83,6 +83,12 @@ Summary data records the COVID-19 cases, and related attributes, to show the tim
 | Nigeria                                                 |Africa                        | 1          |[![](https://img.shields.io/badge/source-Nigeria--Novel--Coronavirus/-9cf)](https://github.com/Kamparia/nigeria-covid19-data) [![](https://img.shields.io/badge/source-gncdc.gov.ng-orange)](https://covid19.ncdc.gov.ng/)
 | Pakistan                                                 |Asia                        | 1          |[![](https://img.shields.io/badge/source-Goverenment_of_Pakistan-9cf)](http://covid.gov.pk/stats/pakistan) [![](https://img.shields.io/badge/source-Goverenment_of_Pakistan-orange)](http://covid.gov.pk/stats/pakistan)
 | Bolivia                                                 |South America                        | 1          |[![](https://img.shields.io/badge/source-BoliviaSegura-9cf)](https://www.boliviasegura.gob.bo/) [![](https://img.shields.io/badge/source-BoliviaSegura-orange)](https://www.boliviasegura.gob.bo/)
+| Guatemala                                                 |North America                        | 1          |[![](https://img.shields.io/badge/source-Gobierno--de--Guatemala-9cf)](https://tablerocovid.mspas.gob.gt/) [![](https://img.shields.io/badge/source-Gobierno--de--Guatemala-orange)](https://covid19.gob.sv/)
+| El Salvador                                                 |North America                        | 1          |[![](https://img.shields.io/badge/source-Gobierno--de--El--Salvador-9cf)](https://tablerocovid.mspas.gob.gt/) [![](https://img.shields.io/badge/source-Gobierno--de--El--Salvador-orange)](https://covid19.gob.sv/)
+| Switzerland                                               |Europe                        | 1          |[![](https://img.shields.io/badge/source-Schweizerische--Eidenossenschaft-9cf)](https://www.bag.admin.ch/bag/en/home/krankheiten/ausbrueche-epidemien-pandemien/aktuelle-ausbrueche-epidemien/novel-cov/situation-schweiz-und-international.html#-1199962081) [![](https://img.shields.io/badge/source-Schweizerische--Eidenossenschaft-orange)](https://www.bag.admin.ch/bag/en/home/krankheiten/ausbrueche-epidemien-pandemien/aktuelle-ausbrueche-epidemien/novel-cov/situation-schweiz-und-international.html#-1199962081)
+| Bulgaria                                                 |Europe                        | 1          |[![](https://img.shields.io/badge/source-coronavirus.bg-9cf)](https://coronavirus.bg/bg/statistika) [![](https://img.shields.io/badge/source-coronavirus.bg-orange)](https://coronavirus.bg/bg/statistika)
+
+
 ## People Contribution & Credit
 
 - Phil Yang, PI and supervisor.
