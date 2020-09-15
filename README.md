@@ -1,7 +1,7 @@
 <!--
  * @Author: your name
  * @Date: 2020-05-20 13:39:28
- * @LastEditTime: 2020-08-20 21:55:41
+ * @LastEditTime: 2020-09-15 10:40:03
  * @LastEditors: Please set LastEditors
  * @Description: In User Settings Edit
  * @FilePath: \github_test\README.md
@@ -88,6 +88,32 @@ Summary data records the COVID-19 cases, and related attributes, to show the tim
 | Switzerland                                               |Europe                        | 1          |[![](https://img.shields.io/badge/source-Schweizerische--Eidenossenschaft-9cf)](https://www.bag.admin.ch/bag/en/home/krankheiten/ausbrueche-epidemien-pandemien/aktuelle-ausbrueche-epidemien/novel-cov/situation-schweiz-und-international.html#-1199962081) [![](https://img.shields.io/badge/source-Schweizerische--Eidenossenschaft-orange)](https://www.bag.admin.ch/bag/en/home/krankheiten/ausbrueche-epidemien-pandemien/aktuelle-ausbrueche-epidemien/novel-cov/situation-schweiz-und-international.html#-1199962081)
 | Bulgaria                                                 |Europe                        | 1          |[![](https://img.shields.io/badge/source-coronavirus.bg-9cf)](https://coronavirus.bg/bg/statistika) [![](https://img.shields.io/badge/source-coronavirus.bg-orange)](https://coronavirus.bg/bg/statistika)
 
+## Recommended Citation
+- Liu, Q., Liu, W., Sha, D., Kumar, S., Chang, E., Arora, V., Lan, H., Li, Y., Wang, Z., Zhang, Y. and Zhang, Z., 2020. An Environmental Data Collection for COVID-19 Pandemic Research. *Data*, 5(3), p.68.  
+```BibTeX
+@article{liu2020environmental,
+  title={An Environmental Data Collection for COVID-19 Pandemic Research},
+  author={Liu, Qian and Liu, Wei and Sha, Dexuan and Kumar, Shubham and Chang, Emily and Arora, Vishakh and Lan, Hai and Li, Yun and Wang, Zifu and Zhang, Yadong and others},
+  journal={Data},
+  volume={5},
+  number={3},
+  pages={68},
+  year={2020},
+  publisher={Multidisciplinary Digital Publishing Institute}
+}
+```
+- Yang, C., Sha, D., Liu, Q., Li, Y., Lan, H., Guan, W.W., Hu, T., Li, Z., Zhang, Z., Thompson, J.H. and Wang, Z., 2020. Taking the pulse of COVID-19: A spatiotemporal perspective. *International Journal of Digital Earth*, pp.1-26.
+```BibTeX
+@article{yang2020taking,
+  title={Taking the pulse of COVID-19: A spatiotemporal perspective},
+  author={Yang, Chaowei and Sha, Dexuan and Liu, Qian and Li, Yun and Lan, Hai and Guan, Weihe Wendy and Hu, Tao and Li, Zhenlong and Zhang, Zhiran and Thompson, John Hoot and others},
+  journal={International Journal of Digital Earth},
+  pages={1--26},
+  year={2020},
+  publisher={Taylor \& Francis}
+}
+```
+- Sha, D., Liu, Y, Liu, Q., Li, Y., Tian, Y., Beaini, F., Zhong, C., Hu, T., Wang, Z., Lan, H., Zhou, Y., Zhang, Z. and Yang, C., 2020. A Spatiotemporal Viral Cases Data Collection for COVID-19 Rapid Response. preprint. DOI:10.13140/RG.2.2.35840.46088
 
 ## People Contribution & Credit
 
