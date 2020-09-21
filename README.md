@@ -1,7 +1,7 @@
 <!--
  * @Author: your name
  * @Date: 2020-05-20 13:39:28
- * @LastEditTime: 2020-09-21 13:16:42
+ * @LastEditTime: 2020-09-21 13:19:24
  * @LastEditors: Please set LastEditors
  * @Description: In User Settings Edit
  * @FilePath: \github_test\README.md
@@ -55,7 +55,7 @@ Summary data records the COVID-19 cases, and related attributes, to show the tim
 
 ![](https://img.shields.io/badge/source-data_source_-9cf)  ![](https://img.shields.io/badge/source-validaiton_source_-orange)
 | Country / Region                                           | Continent                 | Admin level  |   Data Source                                                                                           |   Temporal Coverage |   Current Status |
-|----------------------------------------------------------|---------------------------|--------------|--------------------------------------------------------------------------------------------------------|--------------|-----------|
+|----------------------------------------------------------|---------------------------|--------------|--------------------------------------------------------------------------------------------------------|--------------|----------------------------------------------------------|
 | Global                                                   |  Global                   | 0            | [![](https://img.shields.io/badge/source-Johns_Hopkins_CSSE_-9cf)](https://github.com/CSSEGISandData/) [![](https://img.shields.io/badge/source-WHO_-orange)](https://covid19.who.int/?gclid=CjwKCAjwtqj2BRBYEiwAqfzur8E04Dtrt6iZ7eQa9fojCCcZiwlPSNI6pPVog4PQlBiYNwupjhfF-BoCmvYQAvD_BwE)| 2020/1/22 to current|  ![](https://img.shields.io/badge/status-passing-greeen)|
 | United States                                            |  North America            | 1 , 2     | [![](https://img.shields.io/badge/source-Johns_Hopkins_CSSE_-9cf)](https://github.com/CSSEGISandData/)  [![](https://img.shields.io/badge/source-USAFACTS_-9cf)](https://usafacts.org/visualizations/coronavirus-covid-19-spread-map/)  [![](https://img.shields.io/badge/source-CDC.gov-orange)](https://www.cdc.gov/coronavirus/2019-ncov/cases-updates/cases-in-us.html) | admin0: 2020/1/22 to current, admin1: 2020/1/27 to current|  ![](https://img.shields.io/badge/status-passing-greeen)|
 | China                                                    | Asia                      | 1 , 2        | [![](https://img.shields.io/badge/source-Ding_Xiang_Yuan_-9cf)](https://ncov.dxy.cn/ncovh5/view/pneumonia?source=) [![](https://img.shields.io/badge/source-NHC-orange)]([![](http://www.nhc.gov.cn/xcs/yqtb/list_gzbd.shtml)) | admin0: 2020/1/22 to current, admin1: 2020/1/24 to current|  ![](https://img.shields.io/badge/status-passing-greeen)|
@@ -86,7 +86,7 @@ Summary data records the COVID-19 cases, and related attributes, to show the tim
 | Guatemala                                                 |North America                        | 1          |[![](https://img.shields.io/badge/source-Gobierno--de--Guatemala-9cf)](https://tablerocovid.mspas.gob.gt/) [![](https://img.shields.io/badge/source-Gobierno--de--Guatemala-orange)](https://covid19.gob.sv/)| 2020/3/15 to current|  ![](https://img.shields.io/badge/status-pause-yellow)|
 | El Salvador                                                 |North America                        | 1          |[![](https://img.shields.io/badge/source-Gobierno--de--El--Salvador-9cf)](https://tablerocovid.mspas.gob.gt/) [![](https://img.shields.io/badge/source-Gobierno--de--El--Salvador-orange)](https://covid19.gob.sv/)| 2020/6/06 to current|  ![](https://img.shields.io/badge/status-pause-yellow)|
 | Switzerland                                               |Europe                        | 1          |[![](https://img.shields.io/badge/source-Schweizerische--Eidenossenschaft-9cf)](https://www.bag.admin.ch/bag/en/home/krankheiten/ausbrueche-epidemien-pandemien/aktuelle-ausbrueche-epidemien/novel-cov/situation-schweiz-und-international.html#-1199962081) [![](https://img.shields.io/badge/source-Schweizerische--Eidenossenschaft-orange)](https://www.bag.admin.ch/bag/en/home/krankheiten/ausbrueche-epidemien-pandemien/aktuelle-ausbrueche-epidemien/novel-cov/situation-schweiz-und-international.html#-1199962081)| 2020/06/01 to current|  ![](https://img.shields.io/badge/status-pause-yellow)|
-| Bulgaria                                                 |Europe                        | 1          |[![](https://img.shields.io/badge/source-coronavirus.bg-9cf)](https://coronavirus.bg/bg/statistika) [![](https://img.shields.io/badge/source-coronavirus.bg-orange)](https://coronavirus.bg/bg/statistika)| 2020/6/06 to current|  ![](https://img.shields.io/badge/status-pausey-yellow)|
+| Bulgaria                                                 |Europe                        | 1          |[![](https://img.shields.io/badge/source-coronavirus.bg-9cf)](https://coronavirus.bg/bg/statistika) [![](https://img.shields.io/badge/source-coronavirus.bg-orange)](https://coronavirus.bg/bg/statistika)| 2020/6/06 to current|  ![](https://img.shields.io/badge/status-pause-yellow)|
 
 ## Recommended Citation
 - Liu, Q., Liu, W., Sha, D., Kumar, S., Chang, E., Arora, V., Lan, H., Li, Y., Wang, Z., Zhang, Y. and Zhang, Z., 2020. An Environmental Data Collection for COVID-19 Pandemic Research. *Data*, 5(3), p.68.  
