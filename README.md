@@ -1,7 +1,7 @@
 <!--
  * @Author: your name
  * @Date: 2020-05-20 13:39:28
- * @LastEditTime: 2020-09-30 17:38:22
+ * @LastEditTime: 2020-10-05 12:33:56
  * @LastEditors: Please set LastEditors
  * @Description: In User Settings Edit
  * @FilePath: \github_test\README.md
@@ -13,9 +13,9 @@ This data repository stores COVID-19 virus case and related natural and social f
 ## Data Organization
 Datasets are organized by region area ranging from global to countries as shown below. Underneath each folder, multi-scale daily reports and summary reports are provided separately.
 
-## Field description
+## Field Description
 
-### Daily data
+### Daily Data
 Daily data provides automatically updated information of COVID-19 cases, and related attributes daily.
 
 | Attribute Name | Description                                                  | Format               | Example |
@@ -36,7 +36,7 @@ Daily data provides automatically updated information of COVID-19 cases, and rel
 
 
 
-### Summary data
+### Summary Data
 
 Summary data records the COVID-19 cases, and related attributes, to show the timeline of cases.
 
@@ -51,7 +51,7 @@ Summary data records the COVID-19 cases, and related attributes, to show the tim
 [<img src="https://dl.dropboxusercontent.com/s/fjursbp8dwjpnkp/qgis_join_tutorial.jpg" width="60%">](https://www.youtube.com/watch?v=VzaBCje7OGk)
 
 
-## Overall data sources by Country
+## Overall Data Sources by Country
 ##### Legend for data source and operation status
  ![](https://img.shields.io/badge/source-data_source_-9cf)  ![](https://img.shields.io/badge/source-validaiton_source_-orange) ![](https://img.shields.io/badge/status-passing-greeen) ![](https://img.shields.io/badge/status-pause-yellow)
 | Country / Region                                           | Continent                 | Admin level  |   Data Source                                                                                           |   Temporal Coverage |   Operation Status |
@@ -114,6 +114,12 @@ Summary data records the COVID-19 cases, and related attributes, to show the tim
 }
 ```
 - Sha, D., Liu, Y, Liu, Q., Li, Y., Tian, Y., Beaini, F., Zhong, C., Hu, T., Wang, Z., Lan, H., Zhou, Y., Zhang, Z. and Yang, C., 2020. A Spatiotemporal Viral Cases Data Collection for COVID-19 Rapid Response. preprint. DOI:10.13140/RG.2.2.35840.46088
+
+## Source Changing Log
+- Greece from https://github.com/iMEdD-Lab/open-data/tree/master/COVID-19 to https://eody.gov.gr/ after 2020/6/9
+- Slovenia from https://www.korona.gov.sk/en/coronavirus-covid-19-in-the-slovak-republic-in-numbers/ to https://www.nijz.si/sites/www.nijz.si/files/uploaded/ after 2020/6/10
+- Romania from https://instnsp.maps.arcgis.com/apps/opsdashboard/index.html#/5eced796595b4ee585bcdba03e30c127 to https://github.com/gabrielpreda/covid_19_ro after 2020/6/10
+- Slovakia from https://www.korona.gov.sk/en/coronavirus-covid-19-in-the-slovak-republic-in-numbers/ to  https://apify.com/davidrychly/covid-sk-3 从https://experience.arcgis.com/experience/3430195d620344c38e81d307c252c14f/ after 2020/6/11
 
 ## People Contribution & Credit
 
