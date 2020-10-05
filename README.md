@@ -1,7 +1,7 @@
 <!--
  * @Author: your name
  * @Date: 2020-05-20 13:39:28
- * @LastEditTime: 2020-10-05 12:33:56
+ * @LastEditTime: 2020-10-05 12:38:32
  * @LastEditors: Please set LastEditors
  * @Description: In User Settings Edit
  * @FilePath: \github_test\README.md
@@ -119,7 +119,7 @@ Summary data records the COVID-19 cases, and related attributes, to show the tim
 - Greece from https://github.com/iMEdD-Lab/open-data/tree/master/COVID-19 to https://eody.gov.gr/ after 2020/6/9
 - Slovenia from https://www.korona.gov.sk/en/coronavirus-covid-19-in-the-slovak-republic-in-numbers/ to https://www.nijz.si/sites/www.nijz.si/files/uploaded/ after 2020/6/10
 - Romania from https://instnsp.maps.arcgis.com/apps/opsdashboard/index.html#/5eced796595b4ee585bcdba03e30c127 to https://github.com/gabrielpreda/covid_19_ro after 2020/6/10
-- Slovakia from https://www.korona.gov.sk/en/coronavirus-covid-19-in-the-slovak-republic-in-numbers/ to  https://apify.com/davidrychly/covid-sk-3 从https://experience.arcgis.com/experience/3430195d620344c38e81d307c252c14f/ after 2020/6/11
+- Slovakia from https://www.korona.gov.sk/en/coronavirus-covid-19-in-the-slovak-republic-in-numbers/ to  https://apify.com/davidrychly/covid-sk-3 after 2020/6/11
 
 ## People Contribution & Credit
 
