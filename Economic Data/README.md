@@ -1,3 +1,11 @@
+<!--
+ * @Author: your name
+ * @Date: 2020-10-06 13:08:13
+ * @LastEditTime: 2020-10-06 13:11:17
+ * @LastEditors: Please set LastEditors
+ * @Description: In User Settings Edit           
+ * @FilePath: \github_test\README-econ.md
+-->
 # COVID-19 Socioeconomic Data Collection
 
 This repository specific keeps and provides the spatiotemporal data collection of socio-economic factors for COVID-19 research/studies of USA, including the popular driven factors (demography, education, poverty, income, housing and employment status), and effected economic factors under COVID-19 pandemic from multi-data sources by weekly/monthly/quarterly time frequency.
@@ -6,13 +14,13 @@ This repository specific keeps and provides the spatiotemporal data collection o
 
 The dataset is organized based on the topic and usage for COVID-19 studies.  The following table list the metadata of sub-topics/attributes included, spatial resolution (admin level, admin1/2 refers to state/county), time frequency and range for each topic.  The dynamic (weekly/monthly) dataset is provided by two data report: 1) timely update report based on timestamp and 2) time-series summary report based on attribute.
 
-| Topic                        | Attributes                                                   | Admin Level | Time Frequency | Time Range                   |
-| ---------------------------- | ------------------------------------------------------------ | ----------- | -------------- | ---------------------------- |
-| Socioeconomic driven factors | Demographic; Education; Poverty and income; Housing; Employment status | admin 1/2   | static*        | 2018 ACS 5-year Estimation * |
+| Topic                        | Attributes                                                                 | Admin Level | Time Frequency | Time Range                   |
+| ---------------------------- | ---------------------------------------------------------------------------| ----------- | -------------- | ---------------------------- |
+| Socioeconomic driven factors | Demographic; Education; Poverty and income; Housing; Employment status     | admin 1/2   | static*        | 2018 ACS 5-year Estimation * |
 | Medical resource             | Beds; ICU beds; hospital; medical staff                      | admin 1/2   | static**       | data by 2020/2               |
-| Household Pulse Survey       | employment status<br/>food security<br/>housing security<br/>education disruptions<br/>physical and mental wellbeing | admin 1     | weekly         |                              |
-| Housing Inventory            | days on market; median listing price; price increase count   | admin 1     | monthly        |                              |
-| Small Business Pulse Survey  | Financial Assistance<br/>Cash on Hand<br/>Pivot to Delivery/Carry-Out; etc. | admin 1     | weekly         |                              |
+| Household Pulse Survey       | employment status<br/>food security<br/>housing security<br/>education disruptions<br/>physical and mental wellbeing | admin 1     | weekly         | Phase1 2020/4/23-2020/7/21<br/> Phase2 2020/8/19-2020/9/14                             |
+| Housing Inventory            | days on market; median listing price; price increase count   | admin 1     | monthly        |    2018/8 to 2020/8                          |
+| Small Business Pulse Survey  | Financial Assistance<br/>Cash on Hand<br/>Pivot to Delivery/Carry-Out; etc. | admin 1     | weekly         |    Phase1 2020/4/26-2020/6/27<br/> Phase2 2020/8/9-2020/9/26                          |
 | Unemployment data            | Continued claims; covered employment; initial claims; insured unemployment rate | admin 1     | monthly        |                              |
 
 \* the static for driven factors refers to 5-year estimation value of 2018, since this dataset is collected and provided by United States Census Bureau, it is updated by year.
