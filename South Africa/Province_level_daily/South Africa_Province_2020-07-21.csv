@@ -1,10 +1,10 @@
-Province,hasc,confirmed,death,recovered
+﻿Province,hasc,confirmed,death,recovered
 Gauteng,ZA.GT,139435,1042,66434
 Western Cape,ZA.WC,86329,2717,70061
 Eastern Cape,ZA.EC,66759,945,47263
 KwaZulu-Natal,ZA.NL,47685,459,13920
 North West,ZA.NW,14634,48,3241
-Free State,ZA.FS,11352,57,1727
+Free State,ZA.FS,11352,57,1272
 Mpumalanga,ZA.MP,7664,52,2348
 Limpopo,ZA.NP,5355,33,2518
 Northern Cape,ZA.NC,2539,15,1087

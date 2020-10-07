@@ -1,6 +1,6 @@
-Province,hasc,confirmed,death,recovered
+﻿Province,hasc,confirmed,death,recovered
 Sindh,PK.SD,136395,2495,129892
-Punjab,PK.PB,99292,2234,95436
+Punjab.PAK,PK.PB,99292,2234,95436
 Khyber Pakhtunkhwa,PK.NW,37727,1259,35971
 Islamabad,PK.IS,16532,181,15826
 Balochistan,PK.BA,15177,145,13600

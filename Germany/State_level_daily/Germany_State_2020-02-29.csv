@@ -1,7 +1,7 @@
 ﻿State,hasc,confirmed,death,recovered
-Nordrhein-Westfalen,DE.NW,30,,
-Bayern,DE.BY,15,,
-Baden-Württemberg,DE.BW,14,,
-Hessen,DE.HE,3,,
-Rheinland-Pfalz,DE.RP,1,,
-Schleswig-Holstein,DE.SH,1,,
+Nordrhein-Westfalen,DE.NW,30,0,
+Bayern,DE.BY,15,0,
+Baden-Württemberg,DE.BW,14,0,
+Hessen,DE.HE,3,0,
+Rheinland-Pfalz,DE.RP,1,0,
+Schleswig-Holstein,DE.SH,1,0,

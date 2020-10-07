@@ -1,10 +1,10 @@
 ﻿Province,hasc,confirmed,death,recovered
-Western Cape,ZA.WC,2507,,
-Gauteng,ZA.GT,1507,,
-KwaZulu-Natal,ZA.NL,1006,,
-Eastern Cape,ZA.EC,691,,
-Free State,ZA.FS,118,,
-Mpumalanga,ZA.MP,35,,
-North West,ZA.NW,35,,
-Limpopo,ZA.NP,34,,
-Northern Cape,ZA.NC,18,,
+Western Cape,ZA.WC,2507,55,236
+Gauteng,ZA.GT,1507,11,843
+KwaZulu-Natal,ZA.NL,1006,32,241
+Eastern Cape,ZA.EC,691,11,19
+Free State,ZA.FS,118,5,76
+Mpumalanga,ZA.MP,35,0,15
+North West,ZA.NW,35,0,6
+Limpopo,ZA.NP,34,2,24
+Northern Cape,ZA.NC,18,0,13
