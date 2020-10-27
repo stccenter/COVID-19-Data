@@ -1,0 +1,55 @@
+StateName,StateCode,S1_School Closure,S1_IsGeneral,S1_Notes,Index_School_Closure,S2_Workplace closing,S2_IsGeneral,S2_Notes,Index_Workpalce_Closure,S3_Cancel public events,S3_IsGeneral,S3_Notes,Index_Cancel_Public_Events,S4_Close public transport,S4_IsGeneral,S4_Notes,Index_Close_Public_Transport,S5_Public information campaigns,S5_IsGeneral,S5_Notes,Index_Public_Information_Campaigns,S6_Restrictions on internal movement,S6_IsGeneral,S6_Notes,Index_Restrictions_On_Internal_Movement,S7_InternationalNational travel controls,S7_Notes,Index_International_National_travel_controls,S8_Fiscal measures,S8_Notes,S9_Monetary measures,S9_Notes,S10_Emergency investment in health care,S10_Notes,S11_Investment in Vaccines,StringencyIndex
+Alaska,AK,,,,0.0,,,,0.0,,,,0.0,,,,0.0,,,,0.0,,,,0.0,,,0.0,,,,,,,,0.0
+Alabama,AL,,,,0.0,,,,0.0,,,,0.0,,,,0.0,,,,0.0,,,,0.0,,,0.0,,,,,,,,0.0
+Arkansas,AR,,,,0.0,,,,0.0,,,,0.0,,,,0.0,,,,0.0,,,,0.0,,,0.0,,,,,,,,0.0
+Arizona,AZ,,,,0.0,,,,0.0,,,,0.0,,,,0.0,,,,0.0,,,,0.0,,,0.0,,,,,,,,0.0
+California,CA,,,,0.0,,,,0.0,,,,0.0,,,,0.0,,,,0.0,,,,0.0,,,0.0,,,,,,,,0.0
+Colorado,CO,,,,0.0,,,,0.0,,,,0.0,,,,0.0,,,,0.0,,,,0.0,,,0.0,,,,,,,,0.0
+Connecticut,CT,,,,0.0,,,,0.0,,,,0.0,,,,0.0,,,,0.0,,,,0.0,,,0.0,,,,,,,,0.0
+District of Columbia,DC,,,,0.0,,,,0.0,,,,0.0,,,,0.0,,,,0.0,,,,0.0,,,0.0,,,,,,,,0.0
+Delaware,DE,,,,0.0,,,,0.0,,,,0.0,,,,0.0,,,,0.0,,,,0.0,,,0.0,,,,,,,,0.0
+Florida,FL,,,,0.0,,,,0.0,,,,0.0,,,,0.0,,,,0.0,,,,0.0,,,0.0,,,,,,,,0.0
+Georgia,GA,,,,0.0,,,,0.0,,,,0.0,,,,0.0,,,,0.0,,,,0.0,,,0.0,,,,,,,,0.0
+Guam,GU,,,,0.0,,,,0.0,,,,0.0,,,,0.0,,,,0.0,,,,0.0,,,0.0,,,,,,,,0.0
+Hawaii,HI,,,,0.0,,,,0.0,,,,0.0,,,,0.0,,,,0.0,,,,0.0,,,0.0,,,,,,,,0.0
+Iowa,IA,,,,0.0,,,,0.0,,,,0.0,,,,0.0,,,,0.0,,,,0.0,,,0.0,,,,,,,,0.0
+Idaho,ID,,,,0.0,,,,0.0,,,,0.0,,,,0.0,,,,0.0,,,,0.0,,,0.0,,,,,,,,0.0
+Illinois,IL,,,,0.0,,,,0.0,,,,0.0,,,,0.0,,,,0.0,,,,0.0,,,0.0,,,,,,,,0.0
+Indiana,IN,,,,0.0,,,,0.0,,,,0.0,,,,0.0,,,,0.0,,,,0.0,,,0.0,,,,,,,,0.0
+Kansas,KS,,,,0.0,,,,0.0,,,,0.0,,,,0.0,,,,0.0,,,,0.0,,,0.0,,,,,,,,0.0
+Kentucky,KY,,,,0.0,,,,0.0,,,,0.0,,,,0.0,,,,0.0,,,,0.0,,,0.0,,,,,,,,0.0
+Louisiana,LA,,,,0.0,,,,0.0,,,,0.0,,,,0.0,,,,0.0,,,,0.0,,,0.0,,,,,,,,0.0
+Massachusetts,MA,,,,0.0,,,,0.0,,,,0.0,,,,0.0,,,,0.0,,,,0.0,,,0.0,,,,,,,,0.0
+Maryland,MD,2.0,1.0,https://governor.maryland.gov/2020/03/05/governor-larry-hogan-declares-state-of-emergency-expands-statewide-response-to-novel-coronavirus/,100.0,,,,0.0,,,,0.0,,,,0.0,1.0,1.0,https://governor.maryland.gov/2020/03/05/governor-larry-hogan-declares-state-of-emergency-expands-statewide-response-to-novel-coronavirus/,100.0,,,,0.0,,,0.0,"“In order to further mobilize all available state resources in response to this threat to public health, I have issued a proclamation declaring a state of emergency in Maryland,” said Governor Hogan. “With this declaration, I am officially authorizing and directing the Maryland Department of Health and the Maryland Emergency Management Agency to ramp up coordination among all state and local agencies and enable them to fast-track coordination with our state and local health departments and emergency management teams",https://governor.maryland.gov/2020/03/05/governor-larry-hogan-declares-state-of-emergency-expands-statewide-response-to-novel-coronavirus/,,,,,,28.57142857
+Maine,ME,,,,0.0,,,,0.0,,,,0.0,,,,0.0,,,,0.0,,,,0.0,,,0.0,,,,,,,,0.0
+Michigan,MI,,,,0.0,,,,0.0,,,,0.0,,,,0.0,,,,0.0,,,,0.0,,,0.0,,,,,,,,0.0
+Minnesota,MN,,,,0.0,,,,0.0,,,,0.0,,,,0.0,,,,0.0,,,,0.0,,,0.0,,,,,,,,0.0
+Missouri,MO,,,,0.0,,,,0.0,,,,0.0,,,,0.0,,,,0.0,,,,0.0,,,0.0,,,,,,,,0.0
+Mississippi,MS,,,,0.0,,,,0.0,,,,0.0,,,,0.0,,,,0.0,,,,0.0,,,0.0,,,,,,,,0.0
+Montana,MT,,,,0.0,,,,0.0,,,,0.0,,,,0.0,,,,0.0,,,,0.0,,,0.0,,,,,,,,0.0
+North Carolina,NC,,,,0.0,,,,0.0,,,,0.0,,,,0.0,,,,0.0,,,,0.0,,,0.0,,,,,,,,0.0
+North Dakota,ND,,,,0.0,,,,0.0,,,,0.0,,,,0.0,,,,0.0,,,,0.0,,,0.0,,,,,,,,0.0
+Nebraska,NE,,,,0.0,,,,0.0,,,,0.0,,,,0.0,,,,0.0,,,,0.0,,,0.0,,,,,,,,0.0
+New Hampshire,NH,,,,0.0,,,,0.0,,,,0.0,,,,0.0,,,,0.0,,,,0.0,,,0.0,,,,,,,,0.0
+New Jersey,NJ,2.0,0.0,https://www.state.nj.us/education/news/2020/NJDOE%20Issues%20Guidance%20for%20School%20Districts%20on%20Covid-19.pdf,66.66666667,,,,0.0,,,,0.0,,,,0.0,,,,0.0,,,,0.0,,,0.0,,,,,,,,9.523809524
+New Mexico,NM,,,,0.0,,,,0.0,,,,0.0,,,,0.0,,,,0.0,,,,0.0,,,0.0,,,,,,,,0.0
+Nevada,NV,,,,0.0,,,,0.0,,,,0.0,,,,0.0,,,,0.0,,,,0.0,,,0.0,,,,,,,,0.0
+New York,NY,,,,0.0,,,,0.0,,,,0.0,,,,0.0,,,,0.0,,,,0.0,,,0.0,,,,,,,,0.0
+Ohio,OH,,,,0.0,,,,0.0,,,,0.0,,,,0.0,,,,0.0,,,,0.0,,,0.0,,,,,,,,0.0
+Oklahoma,OK,,,,0.0,,,,0.0,,,,0.0,,,,0.0,,,,0.0,,,,0.0,,,0.0,,,,,,,,0.0
+Oregon,OR,,,,0.0,,,,0.0,,,,0.0,,,,0.0,,,,0.0,,,,0.0,,,0.0,,,,,,,,0.0
+Pennsylvania,PA,,,,0.0,,,,0.0,,,,0.0,,,,0.0,,,,0.0,,,,0.0,,,0.0,,,,,,,,0.0
+Puerto Rico,PUR,,,,0.0,,,,0.0,,,,0.0,,,,0.0,,,,0.0,,,,0.0,,,0.0,,,,,,,,0.0
+Rhode Island,RI,,,,0.0,,,,0.0,,,,0.0,,,,0.0,,,,0.0,,,,0.0,,,0.0,,,,,,,,0.0
+South Carolina,SC,,,,0.0,,,,0.0,,,,0.0,,,,0.0,,,,0.0,,,,0.0,,,0.0,,,,,,,,0.0
+South Dakota,SD,,,,0.0,,,,0.0,,,,0.0,,,,0.0,,,,0.0,,,,0.0,,,0.0,,,,,,,,0.0
+Tennessee,TN,,,,0.0,,,,0.0,,,,0.0,,,,0.0,,,,0.0,,,,0.0,,,0.0,,,,,,,,0.0
+Texas,TX,,,,0.0,,,,0.0,,,,0.0,,,,0.0,,,,0.0,,,,0.0,,,0.0,,,,,,,,0.0
+United States Virgin Islands,USVI,,,,0.0,,,,0.0,,,,0.0,,,,0.0,,,,0.0,,,,0.0,,,0.0,,,,,,,,0.0
+Utah,UT,,,,0.0,,,,0.0,,,,0.0,,,,0.0,,,,0.0,,,,0.0,,,0.0,,,,,,,,0.0
+Virginia,VA,,,,0.0,,,,0.0,,,,0.0,,,,0.0,,,,0.0,,,,0.0,,,0.0,,,,,,,,0.0
+Vermont,VT,,,,0.0,,,,0.0,,,,0.0,,,,0.0,,,,0.0,,,,0.0,,,0.0,,,,,,,,0.0
+Washington,WA,,,,0.0,,,,0.0,,,,0.0,,,,0.0,,,,0.0,,,,0.0,,,0.0,,,,,,,,0.0
+Wisconsin,WI,,,,0.0,,,,0.0,,,,0.0,,,,0.0,,,,0.0,,,,0.0,,,0.0,,,,,,,,0.0
+West Virginia,WV,,,,0.0,,,,0.0,,,,0.0,,,,0.0,,,,0.0,,,,0.0,,,0.0,,,,,,,,0.0
+Wyoming,WY,,,,0.0,,,,0.0,,,,0.0,,,,0.0,,,,0.0,,,,0.0,,,0.0,,,,,,,,0.0

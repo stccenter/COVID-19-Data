@@ -1,0 +1,57 @@
+StateName,StateCode,S1_School Closure,S1_IsGeneral,S1_Notes,Index_School_Closure,S2_Workplace closing,S2_IsGeneral,S2_Notes,Index_Workpalce_Closure,S3_Cancel public events,S3_IsGeneral,S3_Notes,Index_Cancel_Public_Events,S4_Close public transport,S4_IsGeneral,S4_Notes,Index_Close_Public_Transport,S5_Public information campaigns,S5_IsGeneral,S5_Notes,Index_Public_Information_Campaigns,S6_Restrictions on internal movement,S6_IsGeneral,S6_Notes,Index_Restrictions_On_Internal_Movement,S7_InternationalNational travel controls,S7_Notes,Index_International_National_travel_controls,S8_Fiscal measures,S8_Notes,S9_Monetary measures,S9_Notes,S10_Emergency investment in health care,S10_Notes,S11_Investment in Vaccines,StringencyIndex
+Alaska,AK,,,,0.0,,,,0.0,,,,0.0,,,,0.0,,,,0.0,,,,0.0,,,0.0,,,,,,,,0.0
+Alabama,AL,,,,0.0,,,,0.0,,,,0.0,,,,0.0,,,,0.0,,,,0.0,,,0.0,,,,,,,,0.0
+Arkansas,AR,,,,0.0,,,,0.0,,,,0.0,,,,0.0,,,,0.0,,,,0.0,,,0.0,,,,,,,,0.0
+Arizona,AZ,,,,0.0,,,,0.0,,,,0.0,,,,0.0,,,,0.0,,,,0.0,,,0.0,,,,,,,,0.0
+California,CA,,,,0.0,,,,0.0,,,,0.0,,,,0.0,,,,0.0,,,,0.0,,,0.0,,,,,,,,0.0
+Colorado,CO,,,,0.0,,,,0.0,,,,0.0,,,,0.0,,,,0.0,,,,0.0,,,0.0,,,,,,,,0.0
+Connecticut,CT,,,,0.0,,,,0.0,,,,0.0,,,,0.0,,,,0.0,,,,0.0,,,0.0,,,,,,,,0.0
+District of Columbia,DC,2.0,0.0,https://coronavirus.dc.gov/release/guidance-related-covid-19-child-care-provider-closures-and-public-funding,66.66666667,,,,0.0,,,,0.0,,,,0.0,,,,0.0,,,,0.0,,,0.0,,,,,,,,9.523809524
+Delaware,DE,2.0,1.0,https://news.delaware.gov/2020/03/23/governor-carney-closes-delaware-schools-through-may-15/,100.0,,,,0.0,,,,0.0,,,,0.0,,,,0.0,,,,0.0,,,0.0,,,,,,,,14.28571429
+Florida,FL,,,,0.0,,,,0.0,,,,0.0,,,,0.0,,,,0.0,,,,0.0,,,0.0,,,,,,,,0.0
+Georgia,GA,,,,0.0,,,,0.0,,,,0.0,,,,0.0,,,,0.0,,,,0.0,,,0.0,,,,,,,,0.0
+Guam,GU,,,,0.0,,,,0.0,,,,0.0,,,,0.0,,,,0.0,,,,0.0,,,0.0,,,,,,,,0.0
+Hawaii,HI,,,,0.0,,,,0.0,,,,0.0,,,,0.0,,,,0.0,,,,0.0,,,0.0,,,,,,,,0.0
+Iowa,IA,,,,0.0,,,,0.0,,,,0.0,,,,0.0,,,,0.0,,,,0.0,,,0.0,,,,,,,,0.0
+Idaho,ID,2.0,0.0,https://www.idahoednews.org/news/blaine-county-school-district-announces-closure-following-covid-19-case/,66.66666667,,,,0.0,,,,0.0,,,,0.0,,,,0.0,,,,0.0,,,0.0,,,,,,,,9.523809524
+Illinois,IL,,,,0.0,2.0,0.0,https://www2.illinois.gov/Pages/Executive-Orders/ExecutiveOrder2020-04.aspx,66.66666667,2.0,1.0,https://www2.illinois.gov/Pages/Executive-Orders/ExecutiveOrder2020-04.aspx,100.0,,,,0.0,,,,0.0,,,,0.0,,,0.0,,,,,,,,23.80952381
+Indiana,IN,2.0,0.0,https://www.wishtv.com/news/indiana-news/indianas-nonessential-businesses-close-owners-fear-effect-on-bottom-line/,66.66666667,,,,0.0,,,,0.0,,,,0.0,,,,0.0,,,,0.0,,,0.0,,,,,,,,9.523809524
+Kansas,KS,2.0,1.0,https://ldchealth.org/ArchiveCenter/ViewFile/Item/265,100.0,,,,0.0,,,,0.0,,,,0.0,,,,0.0,,,,0.0,,,0.0,,,,,,,,14.28571429
+Kentucky,KY,,,,0.0,1.0,0.0,https://kentucky.gov/Pages/Activity-stream.aspx?n=GovernorBeshear&prId=85,33.33333333,1.0,1.0,https://www.facebook.com/GovAndyBeshear/photos/a.128267431958964/183031669815873/?type=3&theater,66.66666667,,,,0.0,1.0,1.0,https://governor.ky.gov/covid19,100.0,,,,0.0,,,0.0,,,,,,,,28.57142857
+Louisiana,LA,,,,0.0,,,,0.0,2.0,1.0,https://gov.louisiana.gov/index.cfm/newsroom/detail/2403,100.0,,,,0.0,1.0,1.0,https://gov.louisiana.gov/index.cfm/newsroom/detail/2400,100.0,,,,0.0,,,0.0,,,,,,,,28.57142857
+Massachusetts,MA,,,,0.0,,,,0.0,,,,0.0,,,,0.0,,,,0.0,,,,0.0,,,0.0,,,,,,,,0.0
+Maryland,MD,2.0,1.0,https://governor.maryland.gov/2020/03/05/governor-larry-hogan-declares-state-of-emergency-expands-statewide-response-to-novel-coronavirus/,100.0,,,,0.0,,,,0.0,,,,0.0,1.0,1.0,https://governor.maryland.gov/2020/03/05/governor-larry-hogan-declares-state-of-emergency-expands-statewide-response-to-novel-coronavirus/,100.0,,,,0.0,,,0.0,"Governor Larry Hogan today enacted an emergency order to expand child care access for critical personnel during the state of emergency. This will help ensure that child care services are available for providers of health care, emergency medical services, and law enforcement personnel while schools are closed to prevent the spread of COVID-19.",https://governor.maryland.gov/2020/03/14/governor-hogan-enacts-emergency-order-to-expand-access-to-child-care-during-covid-19-state-of-emergency/,,,,,,28.57142857
+Maine,ME,,,,0.0,,,,0.0,,,,0.0,,,,0.0,,,,0.0,,,,0.0,,,0.0,,,,,,,,0.0
+Michigan,MI,2.0,1.0,"https://www.michigan.gov/whitmer/0,9309,7-387-90499_90705-521595--,00.html",100.0,,,,0.0,2.0,1.0,"https://www.michigan.gov/whitmer/0,9309,7-387-90499_90705-522173--,00.html",100.0,,,,0.0,,,,0.0,,,,0.0,,,0.0,"Temporary restrictions on entry into health care facilities,
+
+residential care facilities, congregate care facilities, and juvenile justice facilities","https://www.michigan.gov/whitmer/0,9309,7-387-90499_90705-521676--,00.html",,,,,,28.57142857
+Minnesota,MN,,,,0.0,,,,0.0,,,,0.0,,,,0.0,1.0,1.0,https://mn.gov/governor/assets/EO%2020-01_tcm1055-422957.pdf,100.0,,,,0.0,,,0.0,,,,,,,,14.28571429
+Missouri,MO,,,,0.0,,,,0.0,,,,0.0,,,,0.0,,,,0.0,,,,0.0,,,0.0,,,,,,,,0.0
+Mississippi,MS,,,,0.0,,,,0.0,,,,0.0,,,,0.0,,,,0.0,,,,0.0,,,0.0,,,,,,,,0.0
+Montana,MT,,,,0.0,,,,0.0,,,,0.0,,,,0.0,,,,0.0,,,,0.0,,,0.0,,,,,,,,0.0
+North Carolina,NC,2.0,1.0,https://files.nc.gov/governor/documents/files/EO117-COVID-19-Prohibiting-Mass-Gathering-and-K12-School-Closure.pdf,100.0,,,,0.0,,,,0.0,,,,0.0,,,,0.0,,,,0.0,,,0.0,,,,,,,,14.28571429
+North Dakota,ND,,,,0.0,,,,0.0,,,,0.0,,,,0.0,,,,0.0,,,,0.0,,,0.0,,,,,,,,0.0
+Nebraska,NE,,,,0.0,,,,0.0,,,,0.0,,,,0.0,,,,0.0,,,,0.0,,,0.0,,,,,,,,0.0
+New Hampshire,NH,,,,0.0,,,,0.0,,,,0.0,,,,0.0,1.0,1.0,https://www.governor.nh.gov/news-media/orders-2020/documents/2020-04.pdf,100.0,,,,0.0,3.0,https://www.governor.nh.gov/news-media/orders-2020/documents/2020-04.pdf,100.0,,,,,,,,28.57142857
+New Jersey,NJ,2.0,0.0,https://www.state.nj.us/education/news/2020/NJDOE%20Issues%20Guidance%20for%20School%20Districts%20on%20Covid-19.pdf,66.66666667,2.0,0.0,https://nj.gov/infobank/eo/056murphy/pdf/EO-107.pdf,66.66666667,,,,0.0,,,,0.0,,,,0.0,,,,0.0,,,0.0,,,,,,,,19.04761905
+New Mexico,NM,,,,0.0,,,,0.0,,,,0.0,,,,0.0,,,,0.0,,,,0.0,,,0.0,Nursing homes should limit most visitors to prevent potential spread of COVID-19,https://cv.nmhealth.org/2020/03/14/health-department-nursing-homes-should-limit-most-visitors-to-prevent-potential-spread-of-covid-19/,,,,,,0.0
+Nevada,NV,,,,0.0,,,,0.0,2.0,1.0,https://nvhealthresponse.nv.gov/wp-content/uploads/2020/03/Declaration-of-Emergency-Directive-007.3-24-20-1.pdf,100.0,,,,0.0,,,,0.0,,,,0.0,,,0.0,,,,,,,,14.28571429
+New York,NY,,,,0.0,,,,0.0,,,,0.0,,,,0.0,,,,0.0,,,,0.0,,,0.0,,,,,,,,0.0
+Ohio,OH,,,,0.0,,,,0.0,,,,0.0,,,,0.0,,,,0.0,,,,0.0,,,0.0,,,,,,,,0.0
+Oklahoma,OK,,,,0.0,,,,0.0,,,,0.0,,,,0.0,,,,0.0,,,,0.0,,,0.0,,,,,,,,0.0
+Oregon,OR,,,,0.0,,,,0.0,2.0,1.0,https://govsite-assets.s3.amazonaws.com/jkAULYKcSh6DoDF8wBM0_EO%2020-12.pdf,100.0,,,,0.0,,,,0.0,1.0,1.0,https://news.ohsu.edu/2020/02/28/preparing-for-the-novel-coronavirus-at-ohsu,66.66666667,3.0,https://news.ohsu.edu/2020/02/28/preparing-for-the-novel-coronavirus-at-ohsu,100.0,,,,,,,,38.0952381
+Pennsylvania,PA,2.0,1.0,https://www.governor.pa.gov/newsroom/governor-wolf-announces-closure-of-pennsylvania-schools/,100.0,,,,0.0,,,,0.0,,,,0.0,,,,0.0,,,,0.0,,,0.0,,,,,,,,14.28571429
+Puerto Rico,PUR,,,,0.0,,,,0.0,,,,0.0,,,,0.0,,,,0.0,,,,0.0,,,0.0,,,,,,,,0.0
+Rhode Island,RI,,,,0.0,,,,0.0,,,,0.0,,,,0.0,,,,0.0,,,,0.0,,,0.0,,,,,,,,0.0
+South Carolina,SC,2.0,0.0,https://governor.sc.gov/news/2020-03/gov-henry-mcmaster-declare-state-emergency-order-lancaster-kershaw-county-schools,66.66666667,,,,0.0,,,,0.0,,,,0.0,,,,0.0,,,,0.0,,,0.0,,,,,,,,9.523809524
+South Dakota,SD,,,,0.0,,,,0.0,,,,0.0,,,,0.0,,,,0.0,,,,0.0,,,0.0,,,,,,,,0.0
+Tennessee,TN,,,,0.0,,,,0.0,,,,0.0,,,,0.0,,,,0.0,,,,0.0,,,0.0,,,,,,,,0.0
+Texas,TX,,,,0.0,,,,0.0,,,,0.0,,,,0.0,,,,0.0,,,,0.0,,,0.0,,,,,,,,0.0
+United States Virgin Islands,USVI,,,,0.0,,,,0.0,,,,0.0,,,,0.0,,,,0.0,,,,0.0,,,0.0,,,,,,,,0.0
+Utah,UT,,,,0.0,,,,0.0,,,,0.0,,,,0.0,,,,0.0,,,,0.0,,,0.0,,,,,,,,0.0
+Virginia,VA,,,,0.0,,,,0.0,,,,0.0,,,,0.0,,,,0.0,,,,0.0,,,0.0,,,,,,,,0.0
+Vermont,VT,,,,0.0,,,,0.0,,,,0.0,,,,0.0,,,,0.0,,,,0.0,,,0.0,,,,,,,,0.0
+Washington,WA,,,,0.0,,,,0.0,,,,0.0,,,,0.0,,,,0.0,,,,0.0,,,0.0,,,,,,,,0.0
+Wisconsin,WI,,,,0.0,,,,0.0,,,,0.0,,,,0.0,1.0,1.0,https://content.govdelivery.com/attachments/WIGOV/2020/03/24/file_attachments/1409408/Health%20Order%20%2312%20Safer%20At%20Home.pdf,100.0,,,,0.0,,,0.0,,,,,,,,14.28571429
+West Virginia,WV,,,,0.0,,,,0.0,,,,0.0,,,,0.0,,,,0.0,,,,0.0,,,0.0,,,,,,,,0.0
+Wyoming,WY,,,,0.0,,,,0.0,,,,0.0,,,,0.0,,,,0.0,,,,0.0,,,0.0,,,,,,,,0.0
