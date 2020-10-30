@@ -1,7 +1,7 @@
 <!--
  * @Author: your name
  * @Date: 2020-05-17 23:08:18
- * @LastEditTime: 2020-10-29 23:34:26
+ * @LastEditTime: 2020-10-29 23:36:44
  * @LastEditors: Please set LastEditors
  * @Description: In User Settings Edit
  * @FilePath: \data process\README.md
@@ -55,7 +55,6 @@ The specific coding sheet is presented in Table 1 below.
 |    S7_InternationalNational   travel controls      |    Ordinary   scale records restrictions on international/national travel    |    0-        No   measure   1-        Screening   2-        Quarantine   on high-risk regions   3-        Ban   on high-risk regions                                                                                                                                                                                                                                |   
 |    S7_Notes                                        |    Website   link for the specific policy                                    |    https://www.mass.gov/doc/march-16-2020-k-12-school-closing-order                                                                                                                                                                                                                                                                                                 |  
 |    Index_International_National_Travel_controls    |    Calculated   weight for canceling public transport                        |    0,   33.33, 66.66, 100                                                                                                                                                                                                                                                                                                                                           |   
-
 |    StringencyIndex                                 |    The   calculated stringency index according to the policy                 |    14.28571429                                                                                                                                                                                                                                                                                                                                                      |   
 ## Reference 
 Hale, Thomas, Anna Petherick, Toby Phillips, Samuel Webster. “Variation in Government Responses to COVID-19” Version 2.0. Blavatnik School of Government Working Paper. March 24, 2020. Available: www.bsg.ox.ac.uk/covidtracker 
