@@ -1,7 +1,7 @@
 <!--
  * @Author: your name
  * @Date: 2020-10-06 13:08:13
- * @LastEditTime: 2020-11-03 17:48:30
+ * @LastEditTime: 2020-11-05 15:50:58
  * @LastEditors: Please set LastEditors
  * @Description: In User Settings Edit           
  * @FilePath: \github_test\README-econ.md
@@ -47,7 +47,7 @@ The dataset is organized based on the topic and usage for COVID-19 studies.  The
 |                                           | ExpandedData                                         | It is based on  sales price information sourced from Enterprise, Federal Housing Administration (FHA), and Real Property County Recorder Data Licensed from DataQuick Units: Index, not seasonally adjusted | quarterly      | 1991/1  -2020/9                 |
 |                                           | PurchaseOnly                                         | It is based on more than 6 million repeat sales transactions on the same single-family properties. Units: Index, seasonally adjusted                                                                        | quarterly      | 1991/1  -2020/9                 |
 
-### Socioeconomic determinants
+### [Socioeconomic determinants](https://github.com/stccenter/COVID-19-Data/tree/master/Socioeconomic%20Data/Socioeconomic%20determinants)
 | Attributes                 | Description                                                           | Unit  | Topic                                |
 | -------------------------- | --------------------------------------------------------------------- | ----- | ------------------------------------ |
 | Area size                  | the state area measurements, in square kilometers                     | sq-km | Geographic                           |
