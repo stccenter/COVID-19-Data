@@ -17,7 +17,7 @@ This research paper discusses about three attributes that are obtained from esta
 
 ***
 #### Attributes 
-- Labor Force Participation Rate
+- Labor Force Participation Rate\
 The labor force participation rate is a measure of an economy’s active workforce. The formula for the number is the sum of all workers who are employed or actively seeking employment divided by the total noninstitutionalized, civilian working-age population.
 -Employed persons 
 Employed persons represent the number of workers who, during the reference week, did work for at least 1 hour as paid employees or in their own business or farm. An employed person is counted only once, even if he or she holds more than one job.
