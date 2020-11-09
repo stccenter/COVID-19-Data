@@ -12,9 +12,9 @@ The House Price Index (HPI) measures the movement of single-family house prices 
 
 ***
 ### Attributes
-- All-Transactions 
+- **All-Transactions**/
  All-Transaction includes appraisal values from refinance mortgages which are added to the purchase-only data sample. It is estimated using sales prices and appraisal data. This attribute includes quarterly seasonally adjusted data.
-- Expanded-Data
+- **Expanded-Data**/
 Expanded-Data represents the sales price information sourced from county recorder offices and from FHA-backed mortgages are added to the purchase-only data sample. This index is used annually to adjust the maximum conforming loan limits, which dictate the dollar amount of loans that can be acquired by Fannie Mae and Freddie Mac. This attribute includes quarterly seasonally adjusted data.
-- Purchase-only
+- **Purchase-only**/
 The purchase-only index is estimated based on more than 6 million repeat sales transactions on the same single-family properties. This attribute includes quarterly seasonally adjusted data.
