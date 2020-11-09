@@ -18,15 +18,18 @@ This research paper discusses about three attributes that are obtained from esta
 ***
 #### Attributes 
 - **Labor Force Participation Rate**\
-The labor force participation rate is a measure of an economy’s active workforce. The formula for the number is the sum of all workers who are employed or actively seeking employment divided by the total noninstitutionalized, civilian working-age population.
+The labor force participation rate is a measure of an economy’s active workforce. The formula for the number is the sum of all workers who are employed or actively seeking employment divided by the total noninstitutionalized, civilian working-age population.\
+
 -**Employed persons**\ 
-Employed persons represent the number of workers who, during the reference week, did work for at least 1 hour as paid employees or in their own business or farm. An employed person is counted only once, even if he or she holds more than one job.
+Employed persons represent the number of workers who, during the reference week, did work for at least 1 hour as paid employees or in their own business or farm. An employed person is counted only once, even if he or she holds more than one job.\
+
 - **Unemployment rate**\
 The unemployment rate measures the number of unemployed persons as a percent of the labor force. [i.e., 100 times (unemployed/civilian labor force)].
 - **All Employees – Total Nonfarm**\
 It is the measure of the number of workers in the U.S. workforce that excludes proprietors, private household employees, unpaid volunteers, farm employees, and the unincorporated self-employed. Total nonfarm employees accounts for approximately 80 percent of the workers who contribute to Gross Domestic Product (GDP). It is represented in thousands of persons obtained from monthly seasonally adjusted data.
 
 - **All Employees – Manufacturing**\
-It is the measure of the number of workers in the manufacturing sector. In manufacturing for every $1.00 spent, another $1.81 is added to the economy.  (Source: NAM calculations using IMPLAN). It is represented in thousands of persons obtained from monthly seasonally adjusted data.
+It is the measure of the number of workers in the manufacturing sector. In manufacturing for every $1.00 spent, another $1.81 is added to the economy.  (Source: NAM calculations using IMPLAN). It is represented in thousands of persons obtained from monthly seasonally adjusted data.\
+
 - **All Employees – Education and Health Services**\
 It is the measure of the number of workers in the education and health services super-sector which is a part of service-providing industries. This supersector consists of educational services and health care and social assistance sector. It is represented in thousands of persons obtained from monthly seasonally adjusted data.
