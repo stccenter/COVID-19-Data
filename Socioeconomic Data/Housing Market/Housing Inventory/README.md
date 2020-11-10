@@ -12,10 +12,10 @@ Housing inventory focuses on the market trends and monthly statistics on active 
 
 *** 
 ### Attributes
-- Median listing price
+- **Median listing price**\
 The median listing price per square foot in a given market during the specified month. It is represented in U.S. dollars obtained from monthly not seasonally adjusted data.
-- Days on market
+- **Days on market**\
 The median number of days property listings spend on the market in a given geography during the specified month (calculated from list date to closing, pending, or off-market date depending on data availability.
 
-- Price increase count
+- **Price increase count**\
 The count of housing units which have had their price increased within the specified geography. It represents a week’s worth of listings which have had their price increased in a given month.

@@ -12,11 +12,11 @@ Personal income is the income received by, or on behalf of, all persons from par
 ***
 ## Attributes
 
-- Compensation of employees
+- **Compensation of employees**\
 Compensation of employees is the income accruing to employees as remuneration for their work for domestic production. It is the sum of wage and salary accruals and of supplements to wages and salaries. It includes compensation paid to the rest of the world and excludes compensation received from the rest of the world.
 
-- Farm compensation
+- **Farm compensation**\
 Farm compensation is measured as personal income reflects returns from current production; it does not measure current cash flows. Sales out of inventories are included in current gross farm income, but they are excluded from net farm income because they represent income from a previous year’s production. 
 
-- Nonfarm compensation
+- **Nonfarm compensation**\
 Nonfarm compensation measures the income, before deducting income taxes, of sole proprietorships, partnerships, and other private nonfarm businesses that are organized for profit but that are not classified as corporations. Sole proprietorships are businesses owned by a 11-2 single individual. Partnerships include most associations of two or more of: individuals, corporations, noncorporate organizations that are organized for profit, or of other private businesses.
