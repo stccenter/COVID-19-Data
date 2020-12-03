@@ -1,7 +1,7 @@
 <!--
  * @Author: your name
  * @Date: 2020-05-20 13:39:28
- * @LastEditTime: 2020-10-05 12:38:32
+ * @LastEditTime: 2020-12-02 12:42:38
  * @LastEditors: Please set LastEditors
  * @Description: In User Settings Edit
  * @FilePath: \github_test\README.md
@@ -89,6 +89,20 @@ Summary data records the COVID-19 cases, and related attributes, to show the tim
 | Bulgaria                                                 |Europe                        | 1          |[![](https://img.shields.io/badge/source-coronavirus.bg-9cf)](https://coronavirus.bg/bg/statistika) [![](https://img.shields.io/badge/source-coronavirus.bg-orange)](https://coronavirus.bg/bg/statistika)| 2020/6/6 to 2020/8/10 |  ![](https://img.shields.io/badge/status-pause-yellow)|
 
 ## Recommended Citation
+- Sha, D., Liu, Y, Liu, Q., Li, Y., Tian, Y., Beaini, F., Zhong, C., Hu, T., Wang, Z., Lan, H., Zhou, Y., Zhang, Z. and Yang, C., 2020. A spatiotemporal data collection of viral cases for COVID-19 rapid response, Big Earth Data, pp.1-21. DOI: 10.1080/20964471.2020.1844934
+```BibTeX
+@article{doi:10.1080/20964471.2020.1844934,
+  author = { Dexuan   Sha  and  Yi   Liu  and  Qian   Liu  and  Yun   Li  and  Yifei   Tian  and  Fayez   Beaini  and  Cheng   Zhong  and  Tao   Hu  and  Zifu   Wang  and  Hai   Lan  and  You   Zhou  and  Zhiran   Zhang  and  Chaowei   Yang },
+  title = {A spatiotemporal data collection of viral cases for COVID-19 rapid response},
+  journal = {Big Earth Data},
+  volume = {0},
+  number = {0},
+  pages = {1-21},
+  year  = {2020},
+  publisher = {Taylor & Francis},
+  doi = {10.1080/20964471.2020.1844934}
+  }
+```
 - Liu, Q., Liu, W., Sha, D., Kumar, S., Chang, E., Arora, V., Lan, H., Li, Y., Wang, Z., Zhang, Y. and Zhang, Z., 2020. An Environmental Data Collection for COVID-19 Pandemic Research. *Data*, 5(3), p.68.  
 ```BibTeX
 @article{liu2020environmental,
@@ -113,7 +127,7 @@ Summary data records the COVID-19 cases, and related attributes, to show the tim
   publisher={Taylor \& Francis}
 }
 ```
-- Sha, D., Liu, Y, Liu, Q., Li, Y., Tian, Y., Beaini, F., Zhong, C., Hu, T., Wang, Z., Lan, H., Zhou, Y., Zhang, Z. and Yang, C., 2020. A Spatiotemporal Viral Cases Data Collection for COVID-19 Rapid Response. preprint. DOI:10.13140/RG.2.2.35840.46088
+
 
 ## Source Changing Log
 - Greece from https://github.com/iMEdD-Lab/open-data/tree/master/COVID-19 to https://eody.gov.gr/ after 2020/6/9
