@@ -1,12 +1,13 @@
 <!--
  * @Author: your name
  * @Date: 2020-05-20 13:39:28
- * @LastEditTime: 2020-12-02 12:42:38
+ * @LastEditTime: 2020-12-07 14:27:17
  * @LastEditors: Please set LastEditors
  * @Description: In User Settings Edit
  * @FilePath: \github_test\README.md
 --> 
 # STC COVID-19 Dataset
+[![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 
 This data repository stores COVID-19 virus case and related natural and social factors (e.g. environmental observation, policy index) in multi-scale based on ISO standard.
 
@@ -158,3 +159,7 @@ Summary data records the COVID-19 cases, and related attributes, to show the tim
 ## Disclaimer
 All data in this repository was collected/calculated/calibrated from multiple publicly available data sources that do not always agree. While we'll try our best to keep the information up to date and correct, we make no representations or warranties of any kind, express or implied, about the completeness, accuracy, reliability, with respect to the data. We do not bear any legal responsibility for any consequence caused by the usage of data provided. Reliance on the data for medical guidance or use of the data in commerce is strictly prohibited. NSF STcenter hereby disclaims any and all representations and warranties with respect to the data repository, including accuracy, fitness for use, and merchantability. 
 For countries where there are internal disputes and sensitive region or area, we do not include that part of data in our datasets. If you are interested in this part of data, you can contact us directly.
+
+
+## License 
+The dataset is published under the Creative Commons Attribution 4.0 International License (CC BY 4.0).
