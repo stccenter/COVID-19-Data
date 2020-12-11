@@ -1,11 +1,11 @@
 State,Hasc,FIPS,All-Transactions,ExpandedData,PurchaseOnly
-Alabama,US.AL,1,321.36,183.96,222.41
-Alaska,US.AK,2,327.22,265.26,259.63
-Arizona,US.AZ,4,412.29,302.11,323.43
-Arkansas,US.AR,5,288.17,216.7,220.8
-California,US.CA,6,653.24,276.35,282.85
-Colorado,US.CO,8,570.27,437.34,463.6
-Connecticut,US.CT,9,399.46,182.13,173.92
+Alabama,US.AL,01,321.36,183.96,222.41
+Alaska,US.AK,02,327.22,265.26,259.63
+Arizona,US.AZ,04,412.29,302.11,323.43
+Arkansas,US.AR,05,288.17,216.7,220.8
+California,US.CA,06,653.24,276.35,282.85
+Colorado,US.CO,08,570.27,437.34,463.6
+Connecticut,US.CT,09,399.46,182.13,173.92
 Delaware,US.DE,10,463.7,194.38,203.75
 District of Columbia,US.DC,11,904.53,450.96,556.8
 Florida,US.FL,12,459.12,269.41,310.42
