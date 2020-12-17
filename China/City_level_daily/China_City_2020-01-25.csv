@@ -91,12 +91,12 @@ Cangzhou,130900,2,1,0
 Lu'an,341500,2,0,0
 Dadukou District,500104,2,0,0
 Yubei District,500112,2,0,0
-Linguolexi,152500,2,0,0
+Jilin,220200,2,0,0
 Chuzhou,341100,2,0,0
 Ordos,150600,2,0,0
 Yunyang County,500154,2,0,0
 Taiyuan,140100,2,0,0
-Jilin,220200,2,0,0
+Linguolexi,152500,2,0,0
 Wuxi County,500238,2,0,0
 Xiangtan,430300,2,0,0
 Hechuan District,500117,2,0,0
@@ -126,10 +126,10 @@ Ganzhou,360700,2,0,0
 Fangchenggang,450600,2,0,0
 Daxing District,110115,2,0,2
 Fengtai District,110106,2,0,0
-Hulunbuir,150700,1,0,0
-Ezhou,420700,1,0,0
-Yichang,420500,1,1,0
 Shantou,440500,1,0,0
+Ezhou,420700,1,0,0
+Hulunbuir,150700,1,0,0
+Yichang,420500,1,1,0
 Chifeng,150400,1,0,0
 Dongguan,441900,1,0,0
 Chenzhou,431000,1,0,0
@@ -137,7 +137,7 @@ Zhuzhou,430200,1,0,0
 Xiangyang,420600,1,0,0
 Shunyi District,110113,1,0,0
 Shijingshan District,433100,1,0,0
-Yinchuan,640100,1,0,0
+Changzhi,140400,1,0,0
 Wuhu,340200,1,0,0
 Mudanjiang,231000,1,0,0
 Sanmenxia,411200,1,0,0
@@ -158,16 +158,16 @@ Chizhou,341700,1,0,0
 Baiyin,620400,1,0,0
 Yuxi,530400,1,0,0
 Honghe,532500,1,0,0
-Dali,532901,1,0,0
+Dali,532900,1,0,0
 Qujing,530300,1,0,0
 Xishuangbanna,532800,1,0,0
 Datong,140200,1,0,0
-Changzhi,140400,1,0,0
 Songyuan,220700,1,0,0
 Changchun,220100,1,0,0
 Chengde,130800,1,0,0
 Baoding,130600,1,0,0
 Guyuan,640400,1,0,0
+Zhongwei,640500,1,0,0
 Luoyang,410300,1,0,0
 Xinxiang,410700,1,0,0
 Pingdingshan,410400,1,0,0
@@ -184,7 +184,7 @@ Luzhou,510500,1,0,0
 Neijiang,511000,1,0,0
 Ya'an,511800,1,0,0
 Deyang,510600,1,0,0
-Zhongwei,640500,1,0,0
+Yinchuan,640100,1,0,0
 Dazhou,511700,1,0,0
 Heze,371700,1,0,0
 Binzhou,371600,1,0,0
