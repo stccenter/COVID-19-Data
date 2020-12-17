@@ -1,0 +1,313 @@
+City,hasc,confirmed,death,recovered
+Wuhan,420100,1590,85,47
+Huanggang,421100,213,4,2
+Xiaogan,420900,173,1,0
+Jingmen,420800,114,3,0
+Xianning,421200,91,0,0
+Jingzhou,421000,71,2,1
+Xiangyang,420600,70,0,0
+Suizhou,421300,70,0,0
+Shiyan,420300,65,0,0
+Wenzhou,330300,60,0,3
+Shenzhen,440300,57,0,4
+Ezhou,420700,57,0,0
+Huangshi,420200,53,1,0
+Guangzhou,440100,51,0,0
+Yichang,420500,51,1,0
+Enshi Tujia and Miao Autonomous Prefecture,422800,38,0,0
+Zhengzhou,410100,37,0,0
+Chengdu,510100,37,0,0
+Hangzhou,330100,32,0,0
+Xinyang,411500,29,0,0
+Xiantao,429004,27,0,0
+Nanyang,411300,26,1,0
+Changsha,430100,24,0,0
+Tianmen,429006,23,2,0
+Fuyang,341200,21,0,0
+Haidian District,110108,21,0,0
+Changde,430700,19,0,0
+Foshan,440600,18,0,0
+Chaoyang District,110105,17,0,0
+Yueyang,430600,17,0,0
+Nanchang,360100,17,0,0
+Ningbo,330200,17,0,0
+Hefei,340100,16,0,0
+Huaihua,431200,16,0,0
+Xi'an,610100,15,0,0
+Qingdao,370200,15,0,0
+Guilin,450300,15,0,0
+Zhoukou,411600,15,0,0
+Wanzhou District,500101,15,0,0
+Sanya,460200,14,0,0
+Putian,350300,14,0,0
+Quanzhou,350500,13,0,0
+Zhuhai,440400,12,0,0
+Suzhou,320500,12,0,1
+Kunming,530100,12,0,0
+Lanzhou,620100,11,0,0
+Shaoyang,430500,11,0,0
+Huizhou,441300,11,0,0
+Jiaxing,330400,11,0,0
+Beihai,450500,11,0,0
+Anyang,410500,11,0,0
+Nanjing,320100,10,0,0
+Zhumadian,411700,10,0,0
+Weihai,371000,10,0,0
+Yunyang County,500154,10,0,0
+Yantai,370600,10,0,0
+Harbin,230100,10,0,0
+Yiyang,430900,10,0,0
+Ma'anshan,340500,10,0,0
+Ganzhou,360700,10,0,0
+Jinan,370100,10,0,0
+Shijiazhuang,130100,9,0,0
+Tongling,340700,9,0,0
+Pudong District,310115,9,0,0
+Loudi,431300,9,0,0
+Wuhu,340200,9,0,0
+Luohe,411100,9,0,0
+Zhong County,500233,9,0,0
+Yangjiang,441700,9,0,0
+Jiujiang,360400,9,0,0
+Bozhou,341600,8,0,0
+Anqing,340800,8,0,0
+Sanming,350400,8,0,0
+Linyi,371300,8,0,0
+Dezhou,371400,8,0,0
+Changzhou,320400,8,0,0
+Xuzhou,320300,8,0,0
+Xicheng District,110102,8,0,0
+Mianyang,510700,8,0,0
+Fuzhou,361000,8,0,0
+Ankang,610900,8,0,0
+Shenyang,210100,8,0,0
+Suihua,231200,8,1,0
+Shaoxing,330600,7,0,0
+Daxing District,110115,7,0,2
+Yinchuan,640100,7,0,0
+Guang'an,511600,7,0,0
+Fengtai District,110106,7,0,0
+Tongzhou District,110112,7,0,0
+Zigong,510300,7,0,0
+Changping District,110114,7,0,0
+Zhuzhou,430200,7,0,0
+Shangqiu,411400,7,0,0
+Zhanjiang,440800,7,0,0
+Hebei District,120105,7,0,0
+Shangrao,361100,7,0,0
+Hengyang,430400,7,0,0
+Jinhua,330700,7,0,0
+Changshou District,500115,7,0,0
+Chenzhou,431000,7,0,0
+Haikou,460100,7,0,0
+Dongguan,441900,7,0,0
+Yongzhou,431100,7,0,0
+Qianjiang,429005,7,1,0
+Wuxi,320200,6,0,0
+Nantong,320600,6,0,0
+Rizhao,371100,6,0,0
+Lijiang,530700,6,0,0
+Xishuangbanna,532800,6,0,0
+Ningde,350900,6,0,0
+Zhangzhou,350600,6,0,0
+Xiangtan,430300,6,0,0
+Xining,630100,6,0,0
+Yubei District,500112,6,0,0
+Liuzhou,450200,6,0,0
+Dadukou District,500104,6,0,0
+Langfang,131000,6,0,0
+Xinxiang,410700,6,0,0
+Shizhu Tujia Autonomous County,500240,6,0,0
+Hedong District,120102,6,0,0
+Zhongshan,442000,6,0,0
+Qingyuan,441800,6,0,0
+Jing'an District,310106,5,0,0
+Jinzhong,140700,5,0,0
+Wushan County,500237,5,0,0
+Nanning,450100,5,0,0
+Jining,370800,5,0,0
+Dianjiang County,500231,5,0,0
+Heze,371700,5,0,0
+Dalian,210200,5,0,0
+Daqing,230600,5,0,0
+Yuxi,530400,5,0,0
+Zaozhuang,370400,5,0,0
+Wuxi County,500238,5,0,0
+Changning District,310105,5,0,0
+Jiulongpo District,500107,5,0,0
+Urumqi,650100,5,0,0
+Danzhou,460400,5,0,0
+Shantou,440500,5,0,0
+Cangzhou,130900,5,1,0
+Tongchuan,610200,5,0,0
+Lishui,331100,5,0,0
+Yangzhou,321000,5,0,0
+Quzhou,330800,5,0,0
+Pingdingshan,410400,5,0,0
+Dandong,210600,5,0,0
+Xiamen,350200,5,0,0
+Taizhou,321200,4,0,0
+Baoshan,530500,4,0,0
+Meizhou,441400,4,0,0
+Jieyang,445200,4,0,0
+Shaoguan,440200,4,0,0
+Handan,130400,4,0,0
+Hechuan District,500117,4,0,0
+Hanzhong,610700,4,0,0
+Nanchong,511300,4,0,0
+Zhaoqing,441200,4,0,0
+Luzhou,510500,4,0,0
+Jiangbei District,500105,4,0,0
+Huangshan,341000,4,0,0
+Wuzhou,450400,4,0,1
+Chuzhou,341100,4,0,0
+Xianyang,610400,4,0,0
+Zhoushan,330900,4,0,0
+Lu'an,341500,4,0,0
+Jinzhou,210700,4,0,0
+Binzhou,371600,4,0,0
+Baoding,130600,3,0,0
+Xuhui District,310104,3,0,0
+Bengbu,340300,3,0,0
+Yuncheng,140800,3,0,0
+Taiyuan,140100,3,0,0
+Dali,532900,3,0,0
+Lüliang,141100,3,0,0
+Hexi District,120103,3,0,0
+Bishan District,500120,3,0,0
+Fengdu County,500230,3,0,0
+Huzhou,330500,3,0,0
+Jilin,220200,3,0,0
+Fengjie County,500236,3,0,0
+Yongchuan District,500118,3,0,0
+Dazhou,511700,3,0,0
+Suining,510900,3,0,0
+Liaocheng,371500,3,0,0
+Lianyungang,320700,3,0,0
+Fangchenggang,450600,3,0,1
+Hechi,451200,3,0,0
+Sanmenxia,411200,3,0,0
+Weinan,610500,3,0,0
+Xinyu,360500,3,0,1
+Suqian,321300,3,0,0
+Weifang,370700,3,0,0
+Neijiang,511000,3,0,0
+Garzê Tibetan Autonomous Prefecture,513300,3,0,0
+Nanping,350700,3,0,0
+Baoji,610300,3,0,0
+Ji'an,360800,3,0,1
+Baotou,150200,3,0,0
+Huangpu District,310101,2,0,0
+Hohhot,150100,2,0,0
+Linguolexi,152500,2,0,0
+Huainan,320800,2,0,0
+Shunyi District,110113,2,0,0
+Dongcheng District,110101,2,0,0
+Jiaozuo,410800,2,0,0
+Xuchang,411000,2,0,0
+Hebi,410600,2,0,0
+Tongren,520600,2,0,0
+Panjin,211100,2,0,0
+Hengshui,131100,2,0,0
+Minhang District,310112,2,0,0
+Hongkou District,310109,2,0,0
+Chengmai County,469023,2,1,0
+Wuzhong,640300,2,0,0
+Hulunbuir,150700,2,0,0
+Ordos,150600,2,0,0
+Chifeng,150400,2,0,0
+Luoyang,410300,2,0,0
+Qingpu District,310118,2,0,0
+Shangluo,611000,2,0,0
+Yan'an,610600,2,0,0
+Pingxiang,360300,2,0,1
+Xingtai,130500,2,0,0
+Shijingshan District,433100,2,0,0
+Kaifeng,410200,2,0,0
+Songyuan,220700,2,0,0
+Jingdezhen,360200,2,0,0
+Qujing,530300,2,0,0
+Zibo,370300,2,0,0
+Leshan,511100,2,0,0
+Liangshan Yi Autonomous Prefecture,513400,2,0,0
+Linxia,622900,2,0,0
+Tongliang District,500151,2,0,0
+Ya'an,511800,2,0,0
+Qiqihar,230200,2,0,0
+Qijiang District,500110,2,0,0
+Tongnan District,500152,2,0,0
+Jiangjin District,500116,2,0,0
+Dehong,533100,2,0,0
+Zhaotong,530600,2,0,0
+Zhenjiang,321100,2,0,0
+Honghe,532500,2,0,0
+Ziyang,512000,2,0,0
+Qitaihe,230900,2,0,0
+Shuozhou,140600,2,0,0
+Chaoyang,211300,2,0,0
+Huludao,211400,2,0,0
+Huaibei,340600,2,0,0
+Xuancheng,341800,2,0,0
+Baise,451000,2,0,0
+Tieling,211200,2,0,0
+Benxi,210500,2,0,0
+Xiqing District,120111,2,0,0
+Yili,654000,2,0,0
+Xinganmeng,152200,1,0,0
+Binhai New Area,120116,1,0,0
+Fengxian District,310120,1,0,0
+Baoshan District,310113,1,0,0
+Heping District,120101,1,0,0
+Tongliao,150500,1,0,0
+Hongqiao District,120106,1,0,0
+Turpan,650400,1,0,0
+Shennongjia,429021,1,0,0
+Nankai District,120104,1,0,0
+Changzhi,140400,1,0,0
+Heyuan,441600,1,0,0
+Baiyin,620400,1,0,0
+Yingkou,210800,1,0,0
+Shuangyashan,230500,1,0,0
+Jiamusi,230800,1,0,0
+Mudanjiang,231000,1,0,0
+Jinchang,620300,1,0,0
+Tianshui,620500,1,0,0
+Zhangye,620700,1,0,0
+Longnan,621200,1,0,0
+Dingxi,621100,1,0,0
+Linfen,141000,1,0,0
+Guiyang,520100,1,0,0
+Yangquan,140300,1,0,0
+Datong,140200,1,0,0
+Gongzhuling,220381,1,0,0
+Siping,220300,1,0,0
+Changchun,220100,1,0,0
+Tangshan,130200,1,0,0
+Chengde,130800,1,0,0
+Guyuan,640400,1,0,0
+Zhongwei,640500,1,0,0
+Liaoyang,211000,1,0,0
+Liupanshui,520200,1,0,0
+Shanwei,441500,1,0,0
+Yibin,511500,1,0,0
+Chizhou,341700,1,0,0
+Qianjiang Tujia and Miao Autonomous County,500114,1,0,0
+Nan'an District,500108,1,0,0
+Banan District,500113,1,0,0
+Dazu District,500111,1,0,0
+Liangping District,500155,1,0,0
+Chengkou County,500229,1,0,0
+Xiushan Tujia and Miao Autonomous County,500241,1,0,0
+Fuling District,500102,1,0,0
+Meishan,511400,1,0,0
+Yingtan,360600,1,0,0
+Deyang,510600,1,0,0
+Tai'an,370900,1,0,0
+Longyan,350800,1,0,0
+Yancheng,320900,1,0,0
+Qionghai,469002,1,0,0
+Dongfang,469007,1,0,0
+Qiongzhong Li and Miao Autonomous County,469030,1,0,0
+Lingshui Li Autonomous County,469028,1,0,0
+Lingao County,469024,1,0,0
+Jiading District,310114,1,0,0
