@@ -65,3 +65,5 @@ Elgin, C., Basbug, G. and Yalaman, A., 2020. Economic policy responses to a pand
 
 La, V.P., Pham, T.H., Ho, M.T., Nguyen, M.H., P Nguyen, K.L., Vuong, T.T., Tran, T., Khuc, Q., Ho, M.T. and Vuong, Q.H., 2020. Policy Response, Social Media and Science Journalism for the Sustainability of the Public Health System Amid the COVID-19 Outbreak: The Vietnam Lessons. Sustainability, 12(7), p.2931.
 
+## For latest data please refer https://github.com/OxCGRT/USA-covid-policy/tree/master/data which provides comprehensive daily policy index data with same dimensions as we provide here.
+
