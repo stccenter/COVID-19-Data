@@ -50,4 +50,4 @@ stc_admin1_init.to_sql('covid19_admin1_test', dbConnection,
 dbConnection.close()
 engine.dispose()
 
-# Main function end
+# Main function ends
