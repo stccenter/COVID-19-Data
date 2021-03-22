@@ -24,7 +24,7 @@ url1 = "https://usafactsstatic.blob.core.windows.net/public/data/covid-19/covid_
 url2 = "https://usafactsstatic.blob.core.windows.net/public/data/covid-19/covid_deaths_usafacts.csv"
 output_path = './'
 iso3_dict_csv_path = './config/iso3_dict_04_08_2020.json'
-yesterday = datetime.date.today() - datetime.timedelta(days=3)
+yesterday = datetime.date.today() - datetime.timedelta(days=1)
 
 confirmed_df = pd.read_csv(
     url1, usecols=['countyFIPS', 'County Name', 'State', 'StateFIPS', yesterday.strftime("%Y-%m-%d")])
