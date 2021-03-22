@@ -21,12 +21,15 @@ jobs:
         run: pip install -r requirements.txt
 
 
-      - name: Admin data - 1 and 2
+      - name: Admin data validation
         env:
           DB_PASSWORD: ${{ secrets.DB_PASSWORD }}
           DB_HOST: ${{ secrets.DB_HOST }}
           DB_PORT: ${{ secrets.DB_PORT }}
           DB_DATABASE: ${{ secrets.DB_DATABASE }}
           DB_USER: ${{ secrets.DB_USER }}
-        run: python scripts/admin_1_2.py
+          USERNAME: ${{ secrets.USERNAME }}
+          PASSWD: ${{ secrets.PASSWD }}
+        run: python scripts/admin_validation.py
         continue-on-error: true
+
