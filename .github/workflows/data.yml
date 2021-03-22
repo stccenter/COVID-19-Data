@@ -21,15 +21,26 @@ jobs:
         run: pip install -r requirements.txt
 
 
-      - name: Admin data validation
+      - name: Report generation
         env:
           DB_PASSWORD: ${{ secrets.DB_PASSWORD }}
           DB_HOST: ${{ secrets.DB_HOST }}
           DB_PORT: ${{ secrets.DB_PORT }}
           DB_DATABASE: ${{ secrets.DB_DATABASE }}
           DB_USER: ${{ secrets.DB_USER }}
-          USERNAME: ${{ secrets.USERNAME }}
-          PASSWD: ${{ secrets.PASSWD }}
-        run: python scripts/admin_validation.py
+        run: python scripts/report_generation.py
         continue-on-error: true
+
+      - name: Commit data files
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git status
+          git add .
+          git commit -m "Dataset Update" || echo "Nothing to commit"
+      - name: Push changes
+        uses: ad-m/github-push-action@master
+        with:
+          repository: stccenter/COVID-19-Data
+          github_token: ${{ secrets.GITHUB_TOKEN }}
 
