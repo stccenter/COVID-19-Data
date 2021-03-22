@@ -39,10 +39,10 @@ stc_admin1_iso3_list = ['CHN', 'CAN', 'AUS']
 stc_admin1_init = pd.DataFrame()
 
 for iso3 in stc_admin1_iso3_list:
+    case_df = pd.read_csv(raw_url)
     out_df = extract_admin1_JHU(yesterday.strftime(
         "%Y-%m-%d"), output_path, case_df, iso3=iso3)
     stc_admin1_init = stc_admin1_init.append(out_df)
-    print(stc_admin1_init)
 stc_admin1_init.to_sql('covid19_admin1_test', dbConnection,
                        if_exists="append", index=False)
 
