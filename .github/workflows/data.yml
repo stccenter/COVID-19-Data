@@ -3,7 +3,7 @@ name: Dataset Crawler
 on:
   push:
     branches:
-      - main
+      - master
 
 jobs:
   build:
