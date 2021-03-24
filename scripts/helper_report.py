@@ -166,6 +166,8 @@ def global_summary(dataDir, date, engine):
         rocord_df.columns = ['id', 'date', 'iso3', 'admin0_name', attribute]
         cdvfile = dataDir + 'Global/country_level_summary/Global_summary_covid19_' + \
             attribute + '.csv'
+        if os.path.exists(filename):
+            os.remove(filename)
         checkExist(cdvfile)
         record_to_timeseries_file(rocord_df, attribute, 'iso3', cdvfile)
         print("generate global " + attribute + " summary report successfully")
