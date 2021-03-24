@@ -11,7 +11,7 @@ import requests
 from helper import *
 import io
 import errno
-
+#
 ADMIN_0_TABLE = 'covid19_admin0_test'
 ADMIN_1_TABLE = 'covid19_admin1_test'
 ADMIN_2_TABLE = 'covid19_admin2_test'
