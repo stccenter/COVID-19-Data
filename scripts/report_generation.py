@@ -27,11 +27,11 @@ dbConnection = engine.connect()
 
 outputDir = "./"
 yesterday = datetime.date.today() - datetime.timedelta(days=1)
-admin1_daily(outputDir, str(yesterday), engine)
-admin1_summary(outputDir, str(yesterday), engine)
+#admin1_daily(outputDir, str(yesterday), engine)
+#admin1_summary(outputDir, str(yesterday), engine)
 
-admin2_daily(outputDir, str(yesterday), engine)
-admin2_summary(outputDir, str(yesterday), engine)
+#admin2_daily(outputDir, str(yesterday), engine)
+#admin2_summary(outputDir, str(yesterday), engine)
 
 global_daily(outputDir, str(yesterday), engine)
 global_summary(outputDir, str(yesterday), engine)
