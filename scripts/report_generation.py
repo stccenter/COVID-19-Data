@@ -9,6 +9,7 @@ import requests
 import errno
 from helper_report import *
 from helper import *
+import time
 
 # Main Start
 
@@ -26,15 +27,15 @@ dbConnection = engine.connect()
 
 outputDir = "./"
 yesterday = datetime.date.today() - datetime.timedelta(days=1)
-#admin1_daily(outputDir, str(yesterday), engine)
-#admin1_summary(outputDir, str(yesterday), engine)
+admin1_daily(outputDir, str(yesterday), engine)
+admin1_summary(outputDir, str(yesterday), engine)
 
-#admin2_daily(outputDir, str(yesterday), engine)
-#admin2_summary(outputDir, str(yesterday), engine)
+admin2_daily(outputDir, str(yesterday), engine)
+admin2_summary(outputDir, str(yesterday), engine)
 
 global_daily(outputDir, str(yesterday), engine)
-#global_summary(outputDir, str(yesterday), engine)
-
+global_summary(outputDir, str(yesterday), engine)
+time.sleep(60)
 
 dbConnection.close()
 engine.dispose()
