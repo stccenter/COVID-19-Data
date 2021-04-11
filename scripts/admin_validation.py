@@ -3,6 +3,7 @@
 
 import os
 import pandas as pd
+
 import datetime
 import json
 from sqlalchemy import create_engine
@@ -21,7 +22,7 @@ dbConnection = engine.connect()
 # Main Start
 
 output_path = './'
-yesterday = datetime.date.today() - datetime.timedelta(days=1)
+yesterday = datetime.date.today() - datetime.timedelta(days=3)
 url1 = "https://raw.githubusercontent.com/stevenliuyi/covid19-csv/master/csv/admin1_" + \
     yesterday.strftime("%Y-%m-%d") + ".csv?token=AFNE5H4ZIYTFQ67RW2QIFPLAPCUYY"
 url2 = "https://raw.githubusercontent.com/stevenliuyi/covid19-csv/master/csv/admin2_" + \
