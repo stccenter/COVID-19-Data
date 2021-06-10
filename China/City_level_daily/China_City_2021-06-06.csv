@@ -1,0 +1,392 @@
+City,hasc,confirmed,death,recovered
+Wuhan,420100,50340,3869,Hubei
+Xiaogan,420900,3518,129,Hubei
+Huanggang,421100,2907,125,Hubei
+Jingzhou,421000,1580,52,Hubei
+Ezhou,420700,1394,59,Hubei
+Suizhou,421300,1307,45,Hubei
+Guangzhou,440100,1302,1,Guangdong
+Xiangyang,420600,1175,40,Hubei
+Huangshi,420200,1015,39,Hubei
+Yichang,420500,931,37,Hubei
+Jingmen,420800,928,41,Hubei
+Shijiazhuang,130100,898,1,Hebei
+Urumqi,650100,845,0,Xinjiang
+Xianning,421200,836,15,Hubei
+Shiyan,420300,672,8,Hubei
+Chengdu,510100,642,3,Sichuan
+Xiantao,429004,575,22,Hubei
+Suihua,231200,536,4,Heilongjiang
+Shenzhen,440300,507,3,Guangdong
+Wenzhou,330300,504,1,Zhejiang
+Tianmen,429006,496,15,Hubei
+Harbin,230100,410,4,Heilongjiang
+Tonghua,220500,313,1,Jilin
+Xinyang,411500,274,2,Henan
+Fengtai District,110106,273,0,Beijing
+Jining,370800,260,0,Shandong
+Enshi Tujia and Miao Autonomous Prefecture,422800,252,7,Hubei
+Changsha,430100,242,2,Hunan
+Nanchang,360100,230,0,Jiangxi
+Qianjiang,429005,198,9,Hubei
+Hangzhou,330100,181,0,Zhejiang
+Hefei,340100,176,1,Anhui
+Dalian,210200,161,0,Liaoning
+Bengbu,340300,160,5,Anhui
+Ningbo,330200,157,0,Zhejiang
+Zhengzhou,410100,157,5,Henan
+Fuyang,341200,156,0,Anhui
+Yueyang,430600,156,1,Hunan
+Nanyang,411300,156,3,Henan
+Changchun,220100,154,0,Jilin
+Foshan,440600,148,0,Guangdong
+Zhumadian,411700,139,0,Henan
+Daxing District,110115,134,0,Beijing
+Xinyu,360500,129,0,Jiangxi
+Shangrao,361100,123,0,Jiangxi
+Xi'an,610100,121,3,Shaanxi
+Wanzhou District,500101,118,4,Chongqing
+Jiujiang,360400,116,0,Jiangxi
+Zhuhai,440400,113,1,Guangdong
+Bozhou,341600,108,0,Anhui
+Shaoyang,430500,102,1,Hunan
+Dongguan,441900,101,1,Guangdong
+Dehong,533100,98,0,Yunnan
+Xingtai,130500,94,1,Hebei
+Nanjing,320100,93,0,Jiangsu
+Shangqiu,411400,91,3,Henan
+Suzhou,320500,87,0,Jiangsu
+Anqing,340800,83,0,Anhui
+Haidian District,110108,82,0,Beijing
+Changde,430700,82,0,Hunan
+Qingdao,370200,80,1,Shandong
+Chaoyang District,110105,80,0,Beijing
+Zhuzhou,430200,80,0,Hunan
+Xuzhou,320300,79,0,Jiangsu
+Garzê Tibetan Autonomous Prefecture,513300,78,0,Sichuan
+Lu'an,341500,77,0,Anhui
+Zhoukou,411600,76,1,Henan
+Loudi,431300,76,0,Hunan
+Ganzhou,360700,74,1,Jiangxi
+Shenyang,210100,74,0,Liaoning
+Fuzhou,361000,72,0,Jiangxi
+Pudong District,310115,69,1,Shanghai
+Zhongshan,442000,69,0,Guangdong
+Huainan,320800,66,0,Jiangsu
+Huizhou,441300,63,0,Guangdong
+Baodi District,120115,60,2,Tianjin
+Jilin,220200,60,1,Jilin
+Yiyang,430900,60,0,Hunan
+Xicheng District,110102,59,0,Beijing
+Tangshan,130200,58,1,Hebei
+Pingdingshan,410400,58,1,Henan
+Xinxiang,410700,57,3,Henan
+Nanning,450100,56,0,Guangxi
+Putian,350300,56,0,Fujian
+Sanya,460200,55,1,Hainan
+Wuxi,320200,55,0,Jiangsu
+Jinhua,330700,55,0,Zhejiang
+Anyang,410500,53,0,Henan
+Kunming,530100,53,0,Yunnan
+Shuangyashan,230500,52,3,Heilongjiang
+Changzhou,320400,51,0,Jiangsu
+Linyi,371300,49,0,Shandong
+Cangzhou,130900,49,3,Hebei
+Baoding,130600,49,0,Hebei
+Lianyungang,320700,48,0,Jiangsu
+Hengyang,430400,48,0,Hunan
+Quanzhou,350500,47,0,Fujian
+Yantai,370600,47,0,Shandong
+Jinan,370100,47,0,Shandong
+Jixi,230300,46,0,Heilongjiang
+Jiaxing,330400,46,0,Zhejiang
+Shunyi District,110113,45,0,Beijing
+Yongzhou,431100,44,0,Hunan
+Qiqihar,230200,44,1,Heilongjiang
+Beihai,450500,44,1,Guangxi
+Weifang,370700,44,0,Shandong
+Zhangjiakou,130700,43,0,Hebei
+Shaoxing,330600,42,0,Zhejiang
+Dazhou,511700,42,0,Sichuan
+Jinzhong,140700,41,0,Shanxi
+Nantong,320600,40,0,Jiangsu
+Huaihua,431200,40,0,Hunan
+Zhanjiang,440800,40,0,Guangdong
+Xuchang,411000,39,1,Henan
+Chenzhou,431000,39,0,Hunan
+Haikou,460100,39,0,Hainan
+Nanchong,511300,39,0,Sichuan
+Liaocheng,371500,38,0,Shandong
+Weihai,371000,38,1,Shandong
+Ma'anshan,340500,38,0,Anhui
+Taizhou,321200,37,0,Jiangsu
+Dezhou,371400,37,2,Shandong
+Hulunbuir,150700,37,0,Neimenggu
+Yinchuan,640100,37,0,Ningxia
+Luohe,411100,36,0,Henan
+Lanzhou,620100,36,2,Gansu
+Xiangtan,430300,36,0,Hunan
+Mudanjiang,231000,36,0,Heilongjiang
+Guiyang,520100,36,1,Guizhou
+Xiamen,350200,35,0,Fujian
+Tai'an,370900,35,2,Shandong
+Changping District,110114,34,0,Beijing
+Wuhu,340200,34,0,Anhui
+Langfang,131000,33,0,Hebei
+Zhaoqing,441200,33,1,Guangdong
+Pingxiang,360300,33,0,Jiangxi
+Handan,130400,32,0,Hebei
+Zunyi,520300,32,0,Guizhou
+Guilin,450300,32,0,Guangxi
+Jiaozuo,410800,32,1,Henan
+Luoyang,410300,31,1,Henan
+Zibo,370300,30,1,Shandong
+Guang'an,511600,30,0,Sichuan
+Tongling,340700,29,0,Anhui
+Jiangmen,440700,29,0,Guangdong
+Daqing,230600,29,1,Heilongjiang
+Wuzhong,640300,28,0,Ningxia
+Hechi,451200,28,1,Guangxi
+Jiangbei District,500105,28,0,Chongqing
+Huaibei,340600,27,0,Anhui
+Yancheng,320900,27,0,Jiangsu
+Hanzhong,610700,26,0,Shaanxi
+Kaifeng,410200,26,0,Henan
+Ningde,350900,26,0,Fujian
+Baoshan District,310113,26,1,Shanghai
+Shantou,440500,26,0,Guangdong
+Ankang,610900,26,0,Shaanxi
+Yunyang County,500154,25,0,Chongqing
+Zhaotong,530600,25,0,Yunnan
+Heihe,231100,24,0,Heilongjiang
+Zaozhuang,370400,24,0,Shandong
+Luzhou,510500,24,0,Sichuan
+Liuzhou,450200,24,0,Guangxi
+Bazhong,511900,24,0,Sichuan
+Hechuan District,500117,23,0,Chongqing
+Yangzhou,321000,23,0,Jiangsu
+Qijiang District,500110,23,0,Chongqing
+Bijie,520500,23,0,Guizhou
+Fengjie County,500236,22,0,Chongqing
+Huangpu District,310101,22,0,Shanghai
+Neijiang,511000,22,0,Sichuan
+Mianyang,510700,22,0,Sichuan
+Ji'an,360800,22,0,Jiangxi
+Changshou District,500115,22,0,Chongqing
+Jiulongpo District,500107,21,1,Chongqing
+Zhong County,500233,21,0,Chongqing
+Taiyuan,140100,21,0,Shanxi
+Yuzhong District,500103,20,0,Chongqing
+Zhangzhou,350600,20,0,Fujian
+Tongzhou District,110112,20,0,Beijing
+Nanping,350700,20,0,Fujian
+Fangshan District,110111,20,0,Beijing
+Dianjiang County,500231,20,0,Chongqing
+Minhang District,310112,19,0,Shanghai
+Hebi,410600,19,0,Henan
+Yuncheng,140800,19,0,Shanxi
+Fangchenggang,450600,19,0,Guangxi
+Dongcheng District,110101,19,0,Beijing
+Heze,371700,18,0,Shandong
+Deyang,510600,18,0,Sichuan
+Xuhui District,310104,18,1,Shanghai
+Yili,654000,18,0,Xinjiang
+Tongnan District,500152,18,0,Chongqing
+Yingtan,360600,18,0,Jiangxi
+Qitaihe,230900,17,0,Heilongjiang
+Yubei District,500112,17,0,Chongqing
+Puyang,410900,17,0,Henan
+Weinan,610500,17,0,Shaanxi
+Maoming,440900,17,0,Guangdong
+Suining,510900,17,0,Sichuan
+,220300,17,1,Jilin
+Lishui,331100,17,0,Zhejiang
+Xianyang,610400,17,0,Shaanxi
+Chizhou,341700,17,0,Anhui
+Meizhou,441400,17,0,Guangdong
+Yangjiang,441700,16,0,Guangdong
+Panzhihua,510400,16,0,Sichuan
+Rizhao,371100,16,0,Shandong
+Jing'an District,310106,16,1,Shanghai
+Nan'an District,500108,15,0,Chongqing
+Shijingshan District,433100,15,0,Beijing
+Hedong District,120102,15,1,Tianjin
+Xining,630100,15,0,Qinghai
+Shizhu Tujia Autonomous County,500240,15,0,Chongqing
+Danzhou,460400,15,1,Hainan
+Jiamusi,230800,15,0,Heilongjiang
+Xishuangbanna,532800,15,1,Yunnan
+Binzhou,371600,15,0,Shandong
+Wuxi County,500238,14,0,Chongqing
+Dazu District,500111,14,0,Chongqing
+Sanming,350400,14,0,Fujian
+Songjiang District,310117,14,0,Shanghai
+Liangshan Yi Autonomous Prefecture,513400,14,0,Sichuan
+Qingyuan,441800,14,0,Guangdong
+Yuxi,530400,14,1,Yunnan
+Changning District,310105,14,0,Shanghai
+Quzhou,330800,14,0,Zhejiang
+Qujing,530300,13,0,Yunnan
+Suqian,321300,13,0,Jiangsu
+Chuzhou,341100,13,0,Anhui
+Binhai New Area,120116,13,0,Tianjin
+Baoji,610300,13,0,Shaanxi
+Dali,532900,13,0,Yunnan
+Hebei District,120105,12,0,Tianjin
+Huludao,211400,12,1,Liaoning
+Datong,140200,12,0,Shanxi
+Zhenjiang,321100,12,0,Jiangsu
+Tianshui,620500,12,0,Gansu
+Jinzhou,210700,12,0,Liaoning
+Yibin,511500,12,0,Sichuan
+Putuo District,310107,11,0,Shanghai
+Laibin,451300,11,0,Guangxi
+Panjin,211100,11,0,Liaoning
+Baotou,150200,11,0,Neimenggu
+Jieyang,445200,11,0,Guangdong
+Dandong,210600,11,0,Liaoning
+Yingkou,210800,11,0,Liaoning
+Ordos,150600,11,0,Neimenggu
+Shennongjia,429021,11,0,Hubei
+Huzhou,330500,10,0,Zhejiang
+Jincheng,140500,10,0,Shanxi
+Shaoguan,440200,10,1,Guangdong
+Zhoushan,330900,10,0,Zhejiang
+Qinhuangdao,130300,10,1,Hebei
+Tongren,520600,10,0,Guizhou
+Liupanshui,520200,10,1,Guizhou
+Tongliang District,500151,10,0,Chongqing
+Fengdu County,500230,10,0,Chongqing
+Wushan County,500237,10,0,Chongqing
+Jiading District,310114,9,2,Shanghai
+Yangpu District,310110,9,0,Shanghai
+Zigong,510300,9,0,Sichuan
+Shapingba District,500106,9,0,Chongqing
+Pingliang,620800,9,0,Gansu
+Chifeng,150400,9,0,Neimenggu
+Linguolexi,152500,9,0,Neimenggu
+Bishan District,500120,9,0,Chongqing
+Fengxian District,310120,9,0,Shanghai
+Huangshan,341000,9,0,Anhui
+Honghe,532500,9,0,Yunnan
+Chengmai County,469023,9,1,Hainan
+Rongchang District,500153,9,0,Chongqing
+Baoshan,530500,9,0,Yunnan
+Dingxi,621100,9,0,Gansu
+Fuxin,210900,8,0,Liaoning
+Guigang,450800,8,0,Guangxi
+Qinzhou,450700,8,0,Guangxi
+Huairou District,110116,8,0,Beijing
+Bayannur,150800,8,1,Neimenggu
+Yan'an,610600,8,0,Shaanxi
+Tongchuan,610200,8,0,Shaanxi
+Meishan,511400,8,0,Sichuan
+Ya'an,511800,8,0,Sichuan
+Shuozhou,140600,8,0,Shanxi
+Gannan,623000,8,0,Gansu
+Hengshui,131100,8,0,Hebei
+Changzhi,140400,8,0,Shanxi
+Tieling,211200,8,0,Liaoning
+Tongliao,150500,7,0,Neimenggu
+Lijiang,530700,7,0,Yunnan
+Hohhot,150100,7,0,Neimenggu
+Chengde,130800,7,0,Hebei
+Xinzhou,140900,7,0,Shanxi
+Beichen District,120113,7,0,Tianjin
+Yanbian,222400,7,0,Jilin
+Hongkou District,310109,7,0,Shanghai
+Liaoyuan,220400,7,0,Jilin
+Chaozhou,445100,7,0,Guangdong
+Sanmenxia,411200,7,1,Henan
+Shangluo,611000,7,0,Shaanxi
+Changjiang Li Autonomous County,469026,7,0,Hainan
+Miyun District,110118,7,0,Beijing
+Dadukou District,500104,7,0,Chongqing
+Songyuan,220700,6,0,Jilin
+Xuancheng,341800,6,0,Anhui
+Lüliang,141100,6,0,Shanxi
+Chaoyang,211300,6,1,Liaoning
+Banan District,500113,6,0,Chongqing
+Jingdezhen,360200,6,0,Jiangxi
+Lingao County,469024,6,0,Hainan
+Longyan,350800,6,0,Fujian
+Shanwei,441500,6,0,Guangdong
+Nankai District,120104,6,0,Tianjin
+Qingpu District,310118,6,0,Shanghai
+Qionghai,469002,6,1,Hainan
+Gongzhuling,220381,6,0,Jilin
+Heping District,120101,6,0,Tianjin
+Guangyuan,510800,6,0,Sichuan
+Wuzhou,450400,5,0,Guangxi
+Heyuan,441600,5,0,Guangdong
+Hegang,230400,5,0,Heilongjiang
+Guyuan,640400,5,0,Ningxia
+Jiyuan,419001,5,0,Henan
+Zhangjiajie,430800,5,0,Hunan
+Yongchuan District,500118,5,0,Chongqing
+Mentougou District,110109,5,0,Beijing
+Fuling District,500102,5,0,Chongqing
+Changji,652300,5,0,Xinjiang
+Anshan,210300,4,0,Liaoning
+Anshun,520400,4,0,Guizhou
+Pu'er,530800,4,0,Yunnan
+Hezhou,451100,4,0,Guangxi
+Tacheng,654200,4,0,Xinjiang
+Xiqing District,120111,4,0,Tianjin
+Hexi District,120103,4,0,Tianjin
+Ninghe District,120117,4,0,Tianjin
+Dongli District,120110,4,0,Tianjin
+Lingshui Li Autonomous County,469028,4,0,Hainan
+Jinshan District,310116,4,0,Shanghai
+Chongming District,310151,4,0,Shanghai
+Ziyang,512000,4,0,Sichuan
+Zhongwei,640500,4,0,Ningxia
+Longnan,621200,4,0,Gansu
+Yangquan,140300,4,0,Shanxi
+Baiyin,620400,4,0,Gansu
+Chuxiong,532300,4,0,Yunnan
+Liangping District,500155,4,0,Chongqing
+Jiangjin District,500116,4,0,Chongqing
+Ding'an County,469021,3,1,Hainan
+Benxi,210500,3,0,Liaoning
+Daxinganling,232700,3,0,Heilongjiang
+Linxia,622900,3,0,Gansu
+Haibei,632200,3,0,Qinghai
+Baise,451000,3,0,Guangxi
+Qingyang,621000,3,0,Gansu
+,650400,3,0,Xinjiang
+Dongfang,469007,3,1,Hainan
+Yulin,610800,3,0,Shaanxi
+Ulanqab,150900,3,0,Neimenggu
+Wenchang,469005,3,0,Hainan
+Baoting Li and Miao Autonomous County,469029,3,0,Hainan
+Liaoyang,211000,3,0,Liaoning
+Leshan,511100,3,0,Sichuan
+Jinnan District,120112,2,0,Tianjin
+Wuqing District,120114,2,0,Tianjin
+Linfen,141000,2,0,Shanxi
+Zhangye,620700,2,0,Gansu
+Hongqiao District,120106,2,0,Tianjin
+Wenshan,532600,2,0,Yunnan
+Pengshui Miao and Tujia Autonomous County,500243,2,0,Chongqing
+Meihekou,220581,2,0,Jilin
+Ledong Li Autonomous County,469027,2,0,Hainan
+Wuhai,150300,2,0,Neimenggu
+Chengkou County,500229,2,0,Chongqing
+Qianjiang Tujia and Miao Autonomous County,500114,2,0,Chongqing
+Lincang,530900,1,0,Yunnan
+Qiongzhong Li and Miao Autonomous County,469030,1,0,Hainan
+Yanqing District,110119,1,0,Beijing
+Ngawa Tibetan and Qiang Autonomous Prefecture,513200,1,0,Sichuan
+Jinchang,620300,1,0,Gansu
+Hancheng,610581,1,0,Shaanxi
+Yichun,230700,1,0,Heilongjiang
+Youyang Tujia and Miao Autonomous County,500242,1,0,Chongqing
+Wulong District,500156,1,0,Chongqing
+Akesu,652900,1,0,Xinjiang
+Baicheng,220800,1,0,Jilin
+Shizuishan,640200,1,0,Ningxia
+Fushun,210400,1,0,Liaoning
+Xinganmeng,152200,1,0,Neimenggu
+Xiushan Tujia and Miao Autonomous County,500241,1,0,Chongqing
+Lhasa,540100,1,0,Xizang
