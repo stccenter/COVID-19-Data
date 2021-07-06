@@ -22,11 +22,11 @@ dbConnection = engine.connect()
 # Main Start
 
 output_path = './'
-yesterday = datetime.date.today() - datetime.timedelta(days=3)
+yesterday = datetime.date.today() - datetime.timedelta(days=2)
 url1 = "https://raw.githubusercontent.com/stevenliuyi/covid19-csv/master/csv/admin1_" + \
-    yesterday.strftime("%Y-%m-%d") + ".csv?token=AFNE5H7BNC4T3YN6JP4UNOLA5WNL6"
+    yesterday.strftime("%Y-%m-%d") + ".csv?token=AFNE5H246E7ZBM5TMDELOGTA5X2BO"
 url2 = "https://raw.githubusercontent.com/stevenliuyi/covid19-csv/master/csv/admin2_" + \
-    yesterday.strftime("%Y-%m-%d") + ".csv?token=AFNE5H5567ZSRSBWZO6NROTA5WNPO"
+    yesterday.strftime("%Y-%m-%d") + ".csv?token=AFNE5H3RC7LXT3YDRY6PNOLA5X2DG"
 
 
 GITHUB_USER = os.getenv('USERNAME')
