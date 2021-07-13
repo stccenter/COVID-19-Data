@@ -35,7 +35,6 @@ admin2_daily(outputDir, str(yesterday), engine)
 admin2_summary(outputDir, str(yesterday), engine)
 
 
-
 dbConnection.close()
 engine.dispose()
 
