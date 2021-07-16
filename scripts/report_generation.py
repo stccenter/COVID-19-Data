@@ -22,7 +22,6 @@ dbConnection = engine.connect()
 # Main Start
 
 
-
 outputDir = "./"
 #yesterday variable
 yesterday = datetime.date.today() - datetime.timedelta(days=2)
