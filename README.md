@@ -14,6 +14,7 @@ This data repository stores COVID-19 virus case and related natural and social f
 ## Data Organization
 Datasets are organized by region area ranging from global to countries as shown below. Underneath each folder, multi-scale daily reports and summary reports are provided separately.
 
+
 ## Field Description
 
 ### Daily Data
