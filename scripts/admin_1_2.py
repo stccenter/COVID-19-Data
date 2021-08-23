@@ -29,10 +29,12 @@ iso3_dict_csv_path = './config/iso3_dict_04_08_2020.json'
 #yesterday variable
 yesterday = datetime.date.today() - datetime.timedelta(days=6)
 
+storage_options = {'User-Agent': 'Mozilla/5.0'}
+
 confirmed_df = pd.read_csv(
-    url1, usecols=['countyFIPS', 'County Name', 'State', 'StateFIPS', yesterday.strftime("%Y-%m-%d")])
+    url1, storage_options=storage_options, usecols=['countyFIPS', 'County Name', 'State', 'StateFIPS', yesterday.strftime("%Y-%m-%d")])
 death_df = pd.read_csv(
-    url2, usecols=['County Name', yesterday.strftime("%Y-%m-%d")])
+    url2, storage_options=storage_options, usecols=['County Name', yesterday.strftime("%Y-%m-%d")])
 confirmed_df = confirmed_df[~confirmed_df['County Name'].isin(
     ['Statewide Unallocated'])]
 confirmed_df.columns = ['countyFIPS', 'county',
