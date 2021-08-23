@@ -19,9 +19,11 @@ conn_string = 'postgresql://' + os.getenv('DB_USER') + ':' + os.getenv('DB_PASSW
 engine = create_engine(conn_string)
 
 dbConnection = engine.connect()
+url1 = "https://static.usafacts.org/public/data/covid-19/covid_confirmed_usafacts.csv"
+#url1 = "https://usafactsstatic.blob.core.windows.net/public/data/covid-19/covid_confirmed_usafacts.csv"
+#url2 = "https://usafactsstatic.blob.core.windows.net/public/data/covid-19/covid_deaths_usafacts.csv"
+url2="https://static.usafacts.org/public/data/covid-19/covid_deaths_usafacts.csv"
 
-url1 = "https://usafactsstatic.blob.core.windows.net/public/data/covid-19/covid_confirmed_usafacts.csv"
-url2 = "https://usafactsstatic.blob.core.windows.net/public/data/covid-19/covid_deaths_usafacts.csv"
 output_path = './'
 iso3_dict_csv_path = './config/iso3_dict_04_08_2020.json'
 #yesterday variable
