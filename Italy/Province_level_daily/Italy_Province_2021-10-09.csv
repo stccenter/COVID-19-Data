@@ -1,0 +1,107 @@
+Province,hasc,confirmed,death,recovered
+Milano,IT.LM.MA,285651,,Lombardia
+Roma,IT.LZ.RM,280880,,Lazio
+Napoli,IT.CM.NA,272120,,Campania
+Torino,IT.PM.TO,202996,,Piemonte
+Brescia,IT.LM.BS,111602,,Lombardia
+Bologna,IT.ER.BO,101160,,Emilia Romagna
+Bari,IT.PU.BB,98909,,Puglia
+Verona,IT.VN.VR,92587,,Veneto
+Varese,IT.LM.VA,91341,,Lombardia
+Padova,IT.VN.PD,90654,,Veneto
+Treviso,IT.VN.TV,88487,,Veneto
+Palermo,IT.SC.PA,83934,,Sicilia
+Monza e Brianza,IT.LM.MZ,82661,,Lombardia
+Firenze,IT.TC.FI,78934,,Toscana
+Venezia,IT.VN.VE,77476,,Veneto
+Bolzano,IT.TT.BZ,77431,,Trentino-Alto Adige
+Vicenza,IT.VN.VI,76982,,Veneto
+Catania,IT.SC.CT,75692,,Sicilia
+Salerno,IT.CM.SA,73499,,Campania
+Modena,IT.ER.MO,70948,,Emilia Romagna
+Caserta,IT.CM.CE,69883,,Campania
+Como,IT.LM.CO,62354,,Lombardia
+Genova,IT.LG.GE,57837,,Liguria
+Bergamo,IT.LM.BG,56248,,Lombardia
+Cuneo,IT.PM.CN,54817,,Piemonte
+Udine,IT.FV.UD,52670,,Friuli V. G.
+Reggio Emilia,IT.ER.RE,51470,,Emilia Romagna
+Trento,IT.TT.TN,48607,,Trentino-Alto Adige
+Perugia,IT.UM.PG,48365,,Umbria
+Foggia,IT.PU.FA,47447,,Puglia
+Pavia,IT.LM.PV,46040,,Lombardia
+Taranto,IT.PU.TA,40926,,Puglia
+Rimini,IT.ER.RN,40402,,Emilia Romagna
+Forlì-Cesena,IT.ER.FO,39963,,Emilia Romagna
+Mantova,IT.LM.MN,37931,,Lombardia
+Latina,IT.LZ.LT,37864,,Lazio
+Ancona,IT.MH.AN,35368,,Marche
+Messina,IT.SC.ME,34217,,Sicilia
+Ravenna,IT.ER.RA,33719,,Emilia Romagna
+Frosinone,IT.LZ.FR,33366,,Lazio
+Pisa,IT.TC.PI,33317,,Toscana
+Parma,IT.ER.PR,31962,,Emilia Romagna
+Lecce,IT.PU.LE,31330,,Puglia
+Alessandria,IT.PM.AL,31086,,Piemonte
+Reggio Calabria,IT.LB.RC,29744,,Calabria
+Novara,IT.PM.NO,29613,,Piemonte
+Lucca,IT.TC.LU,28945,,Toscana
+Cremona,IT.LM.CR,28607,,Lombardia
+Barletta-Andria-Trani,IT.PU.BT,28236,,Puglia
+Cosenza,IT.LB.CS,27571,,Calabria
+Pistoia,IT.TC.PT,26894,,Toscana
+Prato,IT.TC.PO,26366,,Toscana
+Lecco,IT.LM.LC,25818,,Lombardia
+Arezzo,IT.TC.AR,25757,,Toscana
+Pesaro e Urbino,IT.MH.PS,25593,,Marche
+Piacenza,IT.ER.PC,25545,,Emilia Romagna
+Ferrara,IT.ER.FE,25391,,Emilia Romagna
+Macerata,IT.MH.MC,24166,,Marche
+Cagliari,IT.SD.CG,23912,,Sardegna
+Siracusa,IT.SC.SR,23627,,Sicilia
+Trieste,IT.FV.TS,23405,,Friuli V. G.
+Pordenone,IT.FV.PN,22962,,Friuli V. G.
+Belluno,IT.VN.BL,22694,,Veneto
+Avellino,IT.CM.AV,21488,,Campania
+Brindisi,IT.PU.BR,21382,,Puglia
+Livorno,IT.TC.LI,21120,,Toscana
+Chieti,IT.AB.CH,20783,,Abruzzo
+L'Aquila,IT.AB.AQ,20759,,Abruzzo
+Sassari,IT.SD.SX,20527,,Sardegna
+Ragusa,IT.SC.RG,19777,,Sicilia
+Trapani,IT.SC.TP,19771,,Sicilia
+Potenza,IT.BC.PZ,19757,,Basilicata
+Pescara,IT.AB.PE,19672,,Abruzzo
+Teramo,IT.AB.TE,19608,,Abruzzo
+Asti,IT.PM.AT,18084,,Piemonte
+Lodi,IT.LM.LO,17887,,Lombardia
+Caltanissetta,IT.SC.CL,17807,,Sicilia
+Savona,IT.LG.SV,17768,,Liguria
+Viterbo,IT.LZ.VT,17599,,Lazio
+Agrigento,IT.SC.AG,17308,,Sicilia
+Siena,IT.TC.SI,16384,,Toscana
+Imperia,IT.LG.IM,16380,,Liguria
+Sondrio,IT.LM.SO,16026,,Lombardia
+Rovigo,IT.VN.RO,15786,,Veneto
+La Spezia,IT.LG.SP,15384,,Liguria
+Massa-Carrara,IT.TC.MS,14850,,Toscana
+Vercelli,IT.PM.VC,14166,,Piemonte
+Gorizia,IT.FV.GO,13707,,Friuli V. G.
+Benevento,IT.CM.BN,13549,,Campania
+Verbano Cusio Ossola,IT.PM.VB,13538,,Piemonte
+Terni,IT.UM.TR,12981,,Umbria
+Ascoli Piceno,IT.MH.AC,12600,,Marche
+Nuoro,IT.SD.NR,12074,,Sardegna
+Biella,IT.PM.BI,11906,,Piemonte
+Fermo,IT.MH.FM,11679,,Marche
+Aosta,IT.VD.AO,11667,,Valle d'Aosta
+Catanzaro,IT.LB.CZ,11457,,Calabria
+Rieti,IT.LZ.RI,11215,,Lazio
+Grosseto,IT.TC.GR,11128,,Toscana
+Campobasso,IT.ML.CB,10437,,Molise
+Matera,IT.BC.MT,9820,,Basilicata
+Enna,IT.SC.EN,9275,,Sicilia
+Crotone,IT.LB.KR,8247,,Calabria
+Vibo Valentia,IT.LB.VV,6436,,Calabria
+Oristano,IT.SD.ON,6281,,Sardegna
+Isernia,IT.ML.IS,4027,,Molise
