@@ -32,9 +32,9 @@ yesterday = datetime.date.today() - datetime.timedelta(days=4)
 storage_options = {'User-Agent': 'Mozilla/5.0'}
 
 confirmed_df = pd.read_csv(
-    url1, storage_options=storage_options, usecols=['countyFIPS', 'County Name', 'State', 'StateFIPS', yesterday.strftime("%m/%d/%Y")])
-death_df = pd.read_csv(
-    url2, storage_options=storage_options, usecols=['County Name', yesterday.strftime("%m/%d/%Y")])
+    url1, storage_options=storage_options, usecols=['countyFIPS', 'County Name', 'State', 'StateFIPS', yesterday.strftime("%Y-%m-%d")])
+death_df = pd.read_csv
+    url2, storage_options=storage_options, usecols=['County Name', yesterday.strftime("%Y-%m-%d")])
 confirmed_df = confirmed_df[~confirmed_df['County Name'].isin(
     ['Statewide Unallocated'])]
 confirmed_df.columns = ['countyFIPS', 'county',
