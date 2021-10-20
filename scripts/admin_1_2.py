@@ -33,7 +33,7 @@ storage_options = {'User-Agent': 'Mozilla/5.0'}
 
 confirmed_df = pd.read_csv(
     url1, storage_options=storage_options, usecols=['countyFIPS', 'County Name', 'State', 'StateFIPS', yesterday.strftime("%Y-%m-%d")])
-death_df = pd.read_csv
+death_df = pd.read_csv(
     url2, storage_options=storage_options, usecols=['County Name', yesterday.strftime("%Y-%m-%d")])
 confirmed_df = confirmed_df[~confirmed_df['County Name'].isin(
     ['Statewide Unallocated'])]
