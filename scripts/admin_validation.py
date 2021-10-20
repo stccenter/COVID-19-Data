@@ -26,7 +26,7 @@ yesterday = datetime.date.today() - datetime.timedelta(days=4)
 url1 = "https://raw.githubusercontent.com/stevenliuyi/covid19-csv/master/csv/admin1_" + \
     yesterday.strftime("%Y-%m-%d") + ".csv?token=AFNE5H2I4YOSTQO7COZS6ZTBPDA2K"
 url2 = "https://raw.githubusercontent.com/stevenliuyi/covid19-csv/master/csv/admin2_" + \
-    yesterday.strftime("%Y-%m-%d") + ".csv?token=AFNE5H3CTTM5VMXHRDRKP43BPC3YE"
+    yesterday.strftime("%Y-%m-%d") + ".csv?token=AFNE5HY2NEXOLD7AQ2KHAB3BPDBAA"
 
 
 GITHUB_USER = os.getenv('USERNAME')
