@@ -27,7 +27,7 @@ url2="https://static.usafacts.org/public/data/covid-19/covid_deaths_usafacts.csv
 output_path = './'
 iso3_dict_csv_path = './config/iso3_dict_04_08_2020.json'
 #yesterday variable
-yesterday = datetime.date.today() - datetime.timedelta(days=6)
+yesterday = datetime.date.today() - datetime.timedelta(days=10)
 
 storage_options = {'User-Agent': 'Mozilla/5.0'}
 
