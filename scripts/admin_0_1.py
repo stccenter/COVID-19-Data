@@ -15,7 +15,7 @@ from helper import *
 output_path = './'
 iso3_dict_csv_path = './config/iso3_dict_04_08_2020.json'
 ##yesterday variable
-yesterday = datetime.date.today() - datetime.timedelta(days=16)
+yesterday = datetime.date.today() - datetime.timedelta(days=37)
 raw_url_path = 'https://raw.githubusercontent.com/CSSEGISandData/COVID-19/master/csse_covid_19_data/csse_covid_19_daily_reports/'
 raw_url = raw_url_path + yesterday.strftime("%m-%d-%Y") + '.csv'
 case_df = pd.read_csv(raw_url)
