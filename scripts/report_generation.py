@@ -25,7 +25,7 @@ dbConnection = engine.connect()
 
 outputDir = "./"
 #yesterday variable
-yesterday = datetime.date.today() - datetime.timedelta(days=25)
+yesterday = datetime.date.today() - datetime.timedelta(days=24)
 admin1_daily(outputDir, str(yesterday), engine)
 admin1_summary(outputDir, str(yesterday), engine)
 
