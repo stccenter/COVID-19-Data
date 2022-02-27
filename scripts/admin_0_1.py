@@ -12,7 +12,6 @@ from helper import *
 
 
 # Main function start
-
 output_path = './'
 iso3_dict_csv_path = './config/iso3_dict_04_08_2020.json'
 ##yesterday variable
